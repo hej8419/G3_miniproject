@@ -11,7 +11,7 @@
 | Item | Details |
 |---|---|
 | Group | G1 |
-| Members | [Name 1 (Leader)], [Name 2], [Name 3], [Name 4] |
+| Members | [하은재 (Leader)], [백지민], [남다솜], [이다윤] |
 | README editor | [Name] |
 | Date & Time | 10/22, [start time] – [end time] |
 | Location | [e.g., 1층 미래교육센터 / Room 334] |
