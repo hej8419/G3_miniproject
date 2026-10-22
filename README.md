@@ -94,14 +94,19 @@
 ### 3-1. Design Concept
 
 - [원하는 디자인의 특징. 예: 밝고 단순한 화면, 큰 버튼, 휴대폰에서 쓰기 편한 화면, 한국어 안내문]
+- 여행 테마: 학습자는 여행자가 되어 Airport → Hotel → Restaurant 3개 장면을 차례로 여행한다.|
+장면을 통과할 때마다 여권 도장(stamp)을 받아 성취감을 느낀다.|
+밝고 단순한 화면, 큰 버튼, 휴대폰 세로 화면에 맞춘 레이아웃, 한국어 안내문을 사용한다.|
+단어마다 문장 예시와 함께 장면 이미지를 보여 주어 문장 맥락과 이미지 맥락을 함께 제공한다.|
 
 ### 3-2. Learners
 
 - [Who will use the app? 예: Korean Grade 6 (K6) learners]
+- [Korean middle school grade 2 (M2) learners] 
 
 ### 3-3. Goal
 
-- [What should learners be able to do after using the app? 예: Recognize the meaning, spell the word, use it in a sentence, use words in real situations ]
+- [What should learners be able to do after using the app? Recognize the meaning, spell the word, use it in a sentence, use words in real situations ]
 
 ### 3-4. Learning Activities
 
@@ -124,9 +129,9 @@
 | P | [ 대략 A1–A2 수준. 공항, 호텔, 식당 관련 단어의 뜻은 일부 알고 있지만, 철자를 쓰거나 문장 속에서 사용하는 데는 어려움이 있다고 가정한다. ] |
 | G | [ 20개 여행 단어를 문장 속에서 이해하고, 한국어 뜻을 보고 영어 단어를 직접 쓰며, 짧은 여행 상황에서 알맞게 사용한다. (3-3 참고) ] |
 | C | [ 20개 선정 단어와 이 단어들을 사용한 짧은 예문·대화, 장면 이미지(Airport & Journey, Hotel, Restaurant)만 사용한다. 목록 밖의 어려운 단어는 쓰지 않는다. ] |
-| T | [  ] |
-| X | [ ... ] |
-| F | [ ... ] |
+| T | [ 장면 1개당 약 10분. 개인 학습. 장면 카드 → 뜻 고르기 → 빈칸 채우기 → 단답형 순서로 진행하고, 장면이 끝나면 10문항 누적 퀴즈를 푼다. 며칠 뒤 Return Trip 복습을 한다. ] |
+| X | [ 휴대폰 세로 화면, 브라우저에서 실행되는 HTML 파일(index.html), 로그인 없음, 학습 기록은 기기 안에서만 저장하는 것을 가정한다. 한국어 안내문을 사용한다. ] |
+| F | [ 첫 오답 시 정답 대신 힌트(예: 첫 글자, 장면 이미지)를 주고 한 번 다시 시도하게 한다. 두 번째 오답 뒤에 정답과 짧은 설명(예문)을 보여 준다. 누적 퀴즈 전에 "이전 단어도 나와요, 틀려도 괜찮아요"를 안내하고, 점수보다 진도(도장) 중심의 메시지를 준다. ] |
 
 ---
 
@@ -134,11 +139,10 @@
 
 > Choose **3–4 core features** only. Write one sentence for each: "This feature helps learners ___ because ___."
 
-1. **[Feature 1, e.g., Flashcards (word → meaning)]**: This feature helps learners [ ___ ] because [ ___ ].
-2. **[Feature 2]**: This feature helps learners [ ___ ] because [ ___ ].
-3. **[Feature 3]**: This feature helps learners [ ___ ] because [ ___ ].
-4. **[Feature 4 (optional)]**: This feature helps learners [ ___ ] because [ ___ ].
-
+1. **[Feature 1. Themed Picture Flashcards]**: This feature helps learners understand and remember travel words because pictures, example sentences, and scene backgrounds connect each word to meaningful situations.
+2. **[Feature 2. Meaning & Spelling Quiz]**: This feature helps learners recall word meanings and spellings because cumulative quizzes bring back words from earlier scenes and provide repeated retrieval practice (Nakata et al., 2021).
+3. **[Feature 3. Passage Cloze]**: This feature helps learners use travel words in context because filling in blanks in a short travel story requires them to connect word meanings with their use in sentences.
+4. **[Feature 4. Passport Stamp & Return Trip]**: This feature helps learners track their progress and review earlier words because passport stamps mark completed scenes and return trips provide delayed retrieval practice.
 ---
 
 ## 💙 5. Sample Word Data
@@ -147,11 +151,26 @@
 
 | Word | Word-family | Variation | Level | Meaning (Korean) | Example sentence |
 |---|---|---|---|---|---|
-| act | actual, interact | NA | Elementary (*) | 행동하다 | They acted quickly to help. |
-| [word 2] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| [word 3] | [ ] | [ ] | [ ] | [ ] | [ ] |
-| ... | | | | | |
-
+[airport] | [NA] | [NA] | [Middle School] | [공항] | [We arrived at the airport two hours early.]
+[airline] | [NA] | [NA] | [Middle School] | [항공사] | [This airline gives free snacks on every flight.]
+[flight] | [fly] | [NA] | [Middle School] | [비행, 항공편] | [Our flight to Jeju leaves at nine.]
+[journey] | [NA] | [NA] | [Middle School] | [여정] | [The journey from Seoul to Busan takes three hours by train.]
+[tour] | [tourist, tourism] | [NA] | [Middle School] | [관광, 투어] | [We took a city tour by bus.]
+[adventure] | [adventurous] | [NA] | [Middle School] | [모험] | [Camping in the mountains was a great adventure.]
+[foreign] | [foreigner] | [NA] | [Middle School] | [외국의] | [She wants to travel to a foreign country.]
+[pack] | [package] | [NA] | [Middle School] | [(짐을) 싸다] | [Please pack your bag the night before the trip.]
+[hotel] | [NA] | [NA] | [Middle School] | [호텔] | [Our hotel is near the beach.]
+[reserve] | [reservation] | [NA] | [Middle School] | [예약하다] | [I want to reserve a table for four.]
+[guest] | [NA] | [NA] | [Middle School] | [손님, 투숙객] | [A hotel guest asked for extra towels.]
+[view] | [review] | [NA] | [Middle School] | [전망, 경치] | [The room has a beautiful view of the sea.]
+[menu] | [NA] | [NA] | [Middle School] | [메뉴] | [Can I see the menu, please?]
+[order] | [disorder] | [NA] | [Middle School] | [주문하다] | [I'd like to order the pasta.]
+[dish] | [NA] | [NA] | [Middle School] | [요리, 접시] | [This dish is spicy but delicious.]
+[sauce] | [saucer] | [NA] | [Middle School] | [소스] | [Would you like some tomato sauce?]
+[pork] | [NA] | [NA] | [Middle School] | [돼지고기] | [I don't eat pork.]
+[meal] | [NA] | [NA] | [Middle School] | [식사] | [Breakfast is my favorite meal of the day.]
+[supper] | [NA] | [NA] | [Middle School] | [저녁 식사] | [We had soup for supper.]
+[tip] | [NA] | [NA] | [Middle School] | [팁, 봉사료] | [In the U.S., people often leave a tip for the waiter.]
 ---
 
 
