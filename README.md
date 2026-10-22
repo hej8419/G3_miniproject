@@ -12,9 +12,9 @@
 |---|---|
 | Group | G1 |
 | Members | [하은재 (Leader)], [백지민], [남다솜], [이다윤] |
-| README editor | [Name] |
-| Date & Time | 10/22, [start time] – [end time] |
-| Location | [e.g., 1층 미래교육센터 / Room 334] |
+| README editor | [백지민] |
+| Date & Time | 10/22, [13:00] – [16:00] |
+| Location | [Room 334] |
 
 
 > Take photos at the **start, middle, and end** of the meeting (with a clock visible). You will upload them in the Google Form.
