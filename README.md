@@ -13,7 +13,7 @@
 | Group | G1 |
 | Members | [하은재 (Leader)], [백지민], [남다솜], [이다윤] |
 | README editor | [백지민] |
-| Date & Time | 10/22, [13:00] – [16:00] |
+| Date & Time | 10/22, [13:00] – [15:31] |
 | Location | [Room 334] |
 
 
