@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Word Passport</title>
+<style>
+:root{--ink:#10264d;--gold:#f0b429;--stamp:#c0264b;--ok:#1f9d63;--no:#d9485f;--a1:#aee0ff;--a2:#eaf7ff}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;word-break:keep-all;font-family:"Pretendard","Malgun Gothic","Apple SD Gothic Neo",system-ui,sans-serif;color:var(--ink);background:linear-gradient(var(--a1),var(--a2)) fixed;transition:background .8s}
+body[data-s="1"]{--a1:#d9ccff;--a2:#f6f0ff}
+body[data-s="2"]{--a1:#ffc9a3;--a2:#fff1e4}
+#bg{position:fixed;inset:0;overflow:hidden;pointer-events:none}
+#bg span{position:absolute;bottom:-60px;font-size:34px;opacity:.4;animation:fl linear infinite}
+@keyframes fl{to{transform:translateY(-115vh) rotate(25deg)}}
+#app{position:relative;max-width:480px;margin:0 auto;padding:calc(12px + env(safe-area-inset-top)) 16px calc(28px + env(safe-area-inset-bottom))}
+.top{display:flex;gap:10px;align-items:center;margin-bottom:12px;font-weight:700}
+.top span{background:#fff;border-radius:99px;padding:6px 12px}
+.ic{border:0;background:#fff;border-radius:99px;height:40px;padding:0 14px;font:inherit;font-size:15px;font-weight:700;color:var(--ink);cursor:pointer}
+.stk{font-size:34px;margin-top:8px;min-height:44px}.shop{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:12px}.it{border:0;border-radius:14px;background:#eef3fb;padding:10px 0;font:inherit;color:var(--ink);cursor:pointer}.it span{display:block;font-size:30px}.it small{font-size:12px}.it.on{background:#bfe8cf}
+.steps{display:flex;gap:6px;margin:0 0 12px;font-size:12px}
+.steps i{flex:1;font-style:normal;text-align:center;padding:5px 0;border-radius:8px;background:#ffffffaa}
+.steps i.on{background:var(--ink);color:#fff;font-weight:700}
+.card{background:#fff;border-radius:22px;padding:20px;box-shadow:0 6px 0 #10264d22;margin-bottom:14px}
+.cover{background:var(--ink);color:var(--gold);text-align:center;border:3px solid var(--gold);box-shadow:0 6px 0 #0006}
+.cover h1{margin:6px 0;font-size:30px;letter-spacing:.5px}.cover p{color:#fff;margin:4px 0 14px}
+.q{margin:0 0 10px;font-size:14px;opacity:.75}
+.big{font-size:34px;font-weight:800;text-align:center;margin:6px 0 14px}
+.emo{font-size:84px;text-align:center;line-height:1.1}
+.sen{font-size:18px;line-height:1.5;text-align:center}.sen b{color:var(--stamp)}
+.psg{font-size:19px;line-height:2;margin:0 0 14px}
+.psg .cur{display:inline-block;min-width:70px;border-bottom:3px solid var(--stamp);color:transparent;animation:bl 1s infinite}
+@keyframes bl{50%{border-color:transparent}}
+.psg b{color:var(--ok)}
+.btn,.btn2,.opt{font:inherit;font-weight:700;border:0;border-radius:16px;cursor:pointer;min-height:52px;padding:0 18px}
+.btn{background:var(--gold);color:var(--ink);width:100%;box-shadow:0 4px 0 #b9851a}
+.btn:active{transform:translateY(3px);box-shadow:none}
+.btn2{background:#e7edf8;color:var(--ink)}.btn2:disabled{opacity:.4}
+.opts{display:grid;gap:10px}
+.opt{background:#eef3fb;color:var(--ink);text-align:left;font-size:18px}
+.opt.good{background:var(--ok);color:#fff}.opt.bad{background:#fbd5db;color:#7a1d2e;text-decoration:line-through}
+.row{display:flex;gap:10px;margin-top:12px}.row .btn{flex:1}
+form{display:flex;gap:8px}
+input{flex:1;min-width:0;font:inherit;font-size:20px;padding:12px 14px;border:3px solid #c8d4ea;border-radius:14px;color:var(--ink)}
+input:focus{outline:none;border-color:var(--ink)}
+button:focus-visible,input:focus-visible,.fc:focus-visible{outline:3px solid var(--stamp);outline-offset:2px}
+form .btn{width:auto}
+#fb{margin-top:12px;border-radius:14px;line-height:1.5}
+#fb:not(:empty){padding:12px 14px}
+#fb.ok{background:#d9f5e7}#fb.hint{background:#fff3c9}#fb.no{background:#fde0e5}
+#fb small{font-size:15px}
+.fc{border:3px dashed #c8d4ea;border-radius:20px;padding:22px 12px;min-height:230px;cursor:pointer;display:flex;flex-direction:column;justify-content:center;gap:8px;animation:pp .25s}
+@keyframes pp{from{transform:scale(.96);opacity:.5}}
+.sp{background:none;border:0;font:inherit;font-size:16px;color:var(--ink);cursor:pointer;display:block;margin:10px auto 0}
+.chip{display:inline-block;background:#eef3fb;border-radius:99px;padding:5px 11px;margin:3px;font-size:14px}
+.m1{background:#ffe9a8}.m2{background:#bfe8cf}.m3{background:#6cc59a;color:#fff}
+.sc{display:flex;align-items:center;gap:12px;width:100%;text-align:left;border:0;border-radius:18px;padding:14px;margin-bottom:10px;background:#fff;font:inherit;color:var(--ink);cursor:pointer;box-shadow:0 4px 0 #10264d22}
+.sc:disabled{opacity:.5;cursor:not-allowed}.sc .e{font-size:34px}.sc b{display:block;font-size:17px}
+.stars{font-size:40px;text-align:center}
+.page{text-align:center;border:3px solid var(--ink);background:#fffdf6}
+.stamp{display:inline-block;margin:18px 0;padding:14px 22px;border:5px double var(--stamp);border-radius:16px;color:var(--stamp);font-weight:900;font-size:22px;transform:rotate(-12deg);animation:st 1s cubic-bezier(.2,1.4,.4,1) .3s both}
+.stamp small{display:block;font-size:13px}
+@keyframes st{0%{transform:scale(4) rotate(-30deg);opacity:0}55%{opacity:1}100%{transform:scale(1) rotate(-12deg)}}
+.impact{animation:sh .35s .75s}
+@keyframes sh{25%{transform:translateY(7px)}60%{transform:translateY(-3px)}}
+.note{background:#fff3c9;border-radius:14px;padding:12px 14px;margin:0 0 14px;font-size:15px;line-height:1.5}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style></head><body data-s="0">
+<div id="bg" aria-hidden="true"></div><main id="app"></main>
+<script>
+const $=q=>document.querySelector(q),app=$('#app'),sh=a=>[...a].sort(()=>Math.random()-.5);
+const SC=[{n:"Airport & Journey",k:"공항에서 여정까지",e:"✈️",d:["✈️","☁️","🧳","🛫"]},{n:"Hotel",k:"호텔",e:"🏨",d:["🏨","🛎️","🛏️","🌇"]},{n:"Restaurant",k:"식당",e:"🍽️",d:["🍽️","🥘","🍷","🧑‍🍳"]}];
+// [word, picture, meaning, example, word family, scene]
+const W=[
+["airport","🛫","공항","We arrived at the airport two hours early.","",0],
+["airline","🛩️","항공사","This airline gives free snacks on every flight.","",0],
+["flight","🎫","비행, 항공편","Our flight to Jeju leaves at nine.","fly",0],
+["journey","🗺️","여정","The journey from Seoul to Busan takes three hours by train.","",0],
+["tour","🚌","관광, 투어","We took a city tour by bus.","tourist, tourism",0],
+["adventure","🧗","모험","Camping in the mountains was a great adventure.","adventurous",0],
+["foreign","🌍","외국의","She wants to travel to a foreign country.","foreigner",0],
+["pack","🧳","(짐을) 싸다","Please pack your bag the night before the trip.","package",0],
+["hotel","🏨","호텔","Our hotel is near the beach.","",1],
+["reserve","📅","예약하다","I want to reserve a table for four.","reservation",1],
+["guest","🛎️","손님, 투숙객","A hotel guest asked for extra towels.","",1],
+["view","🌅","전망, 경치","The room has a beautiful view of the sea.","review",1],
+["menu","📋","메뉴","Can I see the menu, please?","",2],
+["order","🙋","주문하다","I’d like to order the pasta.","disorder",2],
+["dish","🍛","요리, 접시","This dish is spicy but delicious.","",2],
+["sauce","🥫","소스","Would you like some tomato sauce?","saucer",2],
+["pork","🐖","돼지고기","I don’t eat pork.","",2],
+["meal","🍱","식사","Breakfast is my favorite meal of the day.","",2],
+["supper","🌙","저녁 식사","We had soup for supper.","",2],
+["tip","💵","팁, 봉사료","In the U.S., people often leave a tip for the waiter.","",2]];
+const P=["Today is the start of my big [adventure]. I [pack] my bag the night before. At the [airport], we check in. My [flight] leaves at nine. The [airline] gives us free snacks. I am going to a [foreign] country. The [journey] is long, but I can join a city [tour].",
+"After the long [flight], we arrive at the [hotel]. Mom asks the desk to [reserve] a taxi. Every [guest] gets a free map. Our room has a nice [view] of the sea.",
+"Near our [hotel], we eat [supper] at a small restaurant. The waiter brings the [menu]. I [order] a [pork] [dish] with sweet [sauce]. It is a great [meal], so we leave a [tip]."];
+let S={xp:0,te:null,st:0,d:[0,0,0],m:{},l:0,tq:0,tc:0,days:[],sk:0,at:'',o:[],e:[],ses:null};
+try{Object.assign(S,JSON.parse(localStorage.getItem('wp1')||'{}'))}catch(e){}
+if(S.te==null)S.te=S.xp;
+const save=()=>{try{localStorage.setItem('wp1',JSON.stringify(S))}catch(e){}};
+const IT=[["🌈",30],["🍀",30],["🐱",40],["🐶",40],["🐼",40],["🎒",50],["🚀",60],["🏝️",60],["🗼",80],["👑",100],["🦄",120],["🏆",150]];
+const gain=n=>{S.xp+=n;S.te+=n};
+const dk=d=>d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate();
+const norm=t=>t.replace(/[\s.,~!?]/g,'');
+const okKo=(v,m)=>{v=norm(v);return v&&m.replace(/\([^)]*\)/g,'').split(',').some(k=>{k=norm(k);return[k,k.replace(/하다$|다$/,'')].some(x=>x&&v.includes(x))})};
+const quit=()=>{if(confirm('잠깐 쉬었다 갈까요?\n진행 상황은 저장돼요.')){save();home()}};
+const reset=()=>{if(confirm('모든 학습 기록이 지워져요. 계속할까요?')){try{localStorage.removeItem('wp1')}catch(e){}location.reload()}};
+const fi=n=>W.findIndex(x=>x[0]===n);
+const hint=w=>w[0]+" "+"_ ".repeat(w.length-1).trim();
+const bold=w=>w[3].replace(RegExp('\\b'+w[0]+'\\b','i'),'<b>$&</b>');
+function speak(t){try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang='en-US';u.rate=.85;speechSynthesis.speak(u)}catch(e){}}
+app.addEventListener('click',e=>{const b=e.target.closest('[data-sp]');if(b)speak(b.dataset.sp)});
+function setBg(s){document.body.dataset.s=s;$('#bg').innerHTML=Array.from({length:10},(_,j)=>`<span style="left:${j*10+Math.random()*6}%;animation-duration:${14+Math.random()*12}s;animation-delay:-${Math.random()*20}s">${SC[s].d[j%4]}</span>`).join('')}
+const upd=()=>{$('#xp').textContent=S.xp;$('#st').textContent=S.st};
+const hd=(k,h)=>`<div class="top">${h?'':'<button class="ic" onclick="quit()">⏸ 쉬기</button>'}<span>⭐ <b id="xp">${S.xp}</b></span><span>🔥 <b id="st">${S.st}</b></span></div>`+(k==null?'':`<div class="steps">${['카드','뜻','철자','지문'].map((t,j)=>`<i class="${j===k?'on':''}">${j+1}. ${t}</i>`).join('')}</div>`);
+
+function home(){setBg(0);const lv=1+Math.floor(S.te/100),all=S.d.every(Boolean),rec=!S.l||Date.now()-S.l>2*864e5;
+const td=dk(new Date()),ys=dk(new Date(Date.now()-864e5)),cl=S.at===td,nk=cl?S.sk:S.at===ys?S.sk+1:1,sw=cl||S.at===ys?S.sk:0,rw=10+5*Math.min(nk,7)+(nk%7===0?50:0);
+app.innerHTML=hd(null,1)+`<div class="card cover"><div style="font-size:54px">🛂</div><h1>Word Passport</h1><p>Lv.${lv} 여행자 · 여행 단어 20개를 모으며 세계 여행을 떠나요</p><div class="stk">${S.e.join(' ')}</div></div>
+<div class="card"><p class="q">출석 보상 · 연속 ${sw}일 (7일째 보너스 +50XP)</p><div>${[1,2,3,4,5,6,7].map(i=>`<span class="chip ${sw&&i<=(sw-1)%7+1?'m3':''}">${i}일</span>`).join('')}</div>${cl?`<p style="margin:10px 0 0">오늘 출석 완료 ✅ 내일은 +${10+5*Math.min(nk+1,7)+((nk+1)%7===0?50:0)}XP!</p>`:`<button class="btn" id="at" style="margin-top:10px">출석 체크 +${rw}XP 받기</button>`}</div>`+
+(S.ses?`<button class="sc" id="rs"><span class="e">▶️</span><span><b>이어하기</b>${SC[S.ses.s].n} · ${S.ses.k+1}단계부터</span></button>`:'')+
+SC.map((c,i)=>`<button class="sc" data-i="${i}" ${i&&!S.d[i-1]?'disabled':''}><span class="e">${S.d[i]?'🛂':c.e}</span><span><b>${i+1}. ${c.n}</b>${c.k} · 단어 ${W.filter(x=>x[5]===i).length}개 ${S.d[i]?'· 스탬프 완료':''}</span></button>`).join('')+
+`<button class="sc" id="rt" ${all?'':'disabled'}><span class="e">🏠</span><span><b>Return Trip 귀국 퀴즈</b>${all?(rec?'며칠 지났어요. 복습할 시간이에요!':'모든 단어를 섞어 다시 도전'):'세 장면을 모두 마치면 열려요'}</span></button>
+<button class="sc" id="sp"><span class="e">🛍️</span><span><b>스티커 상점</b>XP로 여권을 꾸며요 · 보유 ⭐ ${S.xp}</span></button>
+<div class="card"><p class="q">누적 학습 기록 (자동 저장)</p><p style="margin:0 0 10px;line-height:1.6">출석 ${S.days.length}일 · 푼 문제 ${S.tq}개<br>첫 시도 정답률 ${S.tq?Math.round(S.tc/S.tq*100):0}% · 익힌 단어 ${W.filter(w=>(S.m[w[0]]||0)>=3).length}/20</p><button class="btn2" onclick="reset()">기록 초기화</button></div>
+<div class="card"><p class="q">내 단어장 (색이 진할수록 잘 기억해요)</p>${W.map(w=>`<span class="chip m${Math.min(S.m[w[0]]||0,3)}">${w[1]} ${w[0]}</span>`).join('')}</div>`;
+app.querySelectorAll('.sc[data-i]').forEach(b=>b.onclick=()=>scene(+b.dataset.i));$('#rt').onclick=trip;$('#sp').onclick=shop;
+const rs=$('#rs');rs&&(rs.onclick=()=>{setBg(S.ses.s);stage(S.ses.s,S.ses.k)});
+const at=$('#at');at&&(at.onclick=()=>{S.sk=nk;S.at=td;S.days.push(td);gain(rw);save();home()})}
+
+function shop(){app.innerHTML=hd()+`<div class="card cover"><div style="font-size:54px">🛂</div><h1>My Passport</h1><div class="stk">${S.e.length?S.e.join(' '):'<p style="font-size:15px">스티커를 골라 붙여 보세요</p>'}</div></div><div class="card"><p class="q">스티커 상점 · 보유 ⭐ ${S.xp} (보유한 스티커를 누르면 붙이기/떼기)</p><div class="shop">${IT.map(([e,c])=>{const o=S.o.includes(e),on=S.e.includes(e);return `<button class="it ${on?'on':''}" data-e="${e}" data-c="${c}"><span>${e}</span><small>${o?(on?'붙임':'보유'):'⭐ '+c}</small></button>`}).join('')}</div><button class="btn2" onclick="home()">홈으로</button></div>`;
+app.querySelectorAll('.it').forEach(b=>b.onclick=()=>{const e=b.dataset.e,c=+b.dataset.c;if(S.o.includes(e))S.e=S.e.includes(e)?S.e.filter(x=>x!==e):[...S.e,e];else if(S.xp>=c){S.xp-=c;S.o.push(e);S.e.push(e)}else{alert('XP가 부족해요. 퀴즈를 풀고 출석하면 XP를 모을 수 있어요!');return}save();shop()})}
+
+function scene(s){setBg(s);const c=SC[s];
+app.innerHTML=hd()+`<div class="card" style="text-align:center"><div class="emo">${c.e}</div><div class="big">${c.n}</div><p>${c.k}</p><div>${W.filter(x=>x[5]===s).map(w=>`<span class="chip">${w[0]}</span>`).join('')}</div></div>`+
+(s?`<p class="note">이전 장면의 단어도 다시 나와요. 틀려도 괜찮아요. 어려울수록 오래 기억돼요!</p>`:`<p class="note">4단계로 배워요: 카드 → 뜻 → 철자 → 지문. 틀리면 힌트를 주고 한 번 더 기회가 있어요.</p>`)+`<button class="btn" id="go">여행 시작</button>`;
+$('#go').onclick=()=>stage(s,0)}
+
+function stage(s,k){S.ses={s,k};save();const nw=W.map((x,i)=>i).filter(i=>W[i][5]===s),pr=W.map((x,i)=>i).filter(i=>W[i][5]<s);
+const mix=()=>sh([...nw,...sh(pr).slice(0,Math.round(nw.length*.67))]);
+const bl=()=>{const p=P[s].split(/\[(\w+)\]/),o=[];for(let j=1;j<p.length;j+=2)o.push({t:'blank',w:fi(p[j]),p,j});return o};
+[()=>cards(nw,()=>stage(s,1)),
+()=>run(mix().map(w=>({t:'mean',w})),1,(f,n)=>clear(f,n,()=>stage(s,2))),
+()=>run(mix().map(w=>({t:'spell',w})),2,(f,n)=>clear(f,n,()=>stage(s,3))),
+()=>run(bl(),3,(f,n)=>clear(f,n,()=>stamp(s)))][k]()}
+
+function cards(ix,done){let i=0;const show=()=>{const w=W[ix[i]],fr=`<div class="emo">${w[1]}</div><div class="big">${w[0]}</div>`;let f=0;
+app.innerHTML=hd(0)+`<div class="card"><p class="q">${i+1} / ${ix.length} · 카드를 눌러 뜻을 확인해요</p><div class="fc" id="fc" tabindex="0" role="button">${fr}</div><button class="sp" data-sp="${w[0]}">🔊 발음 듣기</button><div class="row"><button class="btn2" id="pv" ${i?'':'disabled'}>◀</button><button class="btn" id="nx">${i<ix.length-1?'다음':'퀴즈 시작'}</button></div></div>`;
+const c=$('#fc'),flip=()=>{f=!f;c.style.animation='none';c.offsetWidth;c.style.animation='';c.innerHTML=f?`<div class="big">${w[2]}</div><p class="sen">${bold(w)}</p>${w[4]?`<div style="text-align:center"><span class="chip">함께 알아두기: ${w[4]}</span></div>`:''}`:fr};
+c.onclick=flip;c.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();flip()}};
+$('#pv').onclick=()=>{i--;show()};$('#nx').onclick=()=>{i++<ix.length-1?show():done()};speak(w[0])};show()}
+
+function run(items,k,done){let i=0,first=0;const step=()=>{if(i>=items.length)return done(first,items.length);
+const it=items[i],w=W[it.w];let att=0,fin=0;
+const inp=`<form id="f"><input id="in" autocomplete="off" autocapitalize="none" spellcheck="false" placeholder="${it.t==='mean'?'한국어로 입력':'영어로 입력'}" aria-label="정답"><button class="btn">확인</button></form>`;let body;
+if(it.t==='mean')body=`<p class="q">이 단어의 뜻을 한국어로 써요</p><div class="big">${w[0]}</div><button class="sp" data-sp="${w[0]}">🔊 발음 듣기</button>${inp}`;
+else if(it.t==='spell')body=`<p class="q">그림과 뜻을 보고 영어 단어를 써요</p><div class="emo">${w[1]}</div><div class="big">${w[2]}</div>${inp}`;
+else body=`<p class="q">이야기의 빈칸에 알맞은 단어를 써요 (${it.j+1>>1} / ${(it.p.length-1)/2})</p><p class="psg">${it.p.map((x,j)=>j%2?(j<it.j?`<b>${x}</b>`:j===it.j?'<span class="cur">_____</span>':'___'):x).join('')}</p>${inp}`;
+app.innerHTML=hd(k)+`<div class="card"><p class="q" style="text-align:right">${i+1} / ${items.length}</p>${body}<div id="fb" aria-live="polite"></div></div>`;
+const nxt=()=>{const b=document.createElement('button');b.className='btn';b.style.marginTop='12px';b.textContent='다음';b.onclick=()=>{i++;step()};$('#fb').after(b);b.focus();const f=$('#f');f&&(f.querySelector('input').disabled=1,f.querySelector('button').disabled=1)};
+const fb=(h,c)=>{$('#fb').className=c;$('#fb').innerHTML=h};
+const submit=(v,b)=>{if(fin||!v.trim())return;const ok=it.t==='mean'?okKo(v,w[2]):v.trim().toLowerCase()===w[0];
+if(오케이){fin=1;b&&b.classList.add('good');const g=att?5:10+(S.st>=3?3:0);gain(g);if(!att){first++;S.tc++;S.st++;S.m[w[0]]=(S.m[w[0]]||0)+1}
+fb(`🎉 정답! +${g}XP${S.st>=3?' · 🔥 콤보 보너스':''}<br><small>${bold(w)}</small>`,'ok')}
+else{att++;S.st=0;b&&(b.classList.add('bad'),b.disabled=1);
+const iv=$('#in');iv&&(iv.value='',iv.focus());
+if(att===1)fb(`힌트: ${it.t==='mean'?'문장 속에서 볼까요?<br><small>'+bold(w)+'</small>':it.t==='blank'?'뜻은 “'+w[2]+'” · '+w[0].length+'글자':'<b>'+hint(w)+'</b>'}<br>한 번 더 도전해 봐요!`,'hint');
+else{fin=1;fb(`정답: <b>${it.t==='mean'?w[2]:w[0]}</b><br><small>${bold(w)}</small><br>다음에 다시 만나요.`,'no')}}
+if(fin){S.tq++;nxt()}upd();save()};
+const f=$('#f');if(f){f.onsubmit=e=>{e.preventDefault();submit($('#in').value)};$('#in').focus()}};step()}
+
+function clear(f,n,next){const r=f/n,s=r>=.9?3:r>=.6?2:1;
+app.innerHTML=hd()+`<div class="card" style="text-align:center"><div class="stars">${'⭐'.repeat(s)}${'☆'.repeat(3-s)}</div><div class="big">단계 완료!</div><p>처음에 맞힌 문제 ${f} / ${n}</p><p class="note">${r<.6?'어려운 건 당연해요. 다시 만나면 더 잘 기억나요.':'잘하고 있어요! 계속 가요.'}</p><button class="btn" id="go">계속하기</button></div>`;$('#go').onclick=next}
+
+function stamp(s){S.d[s]=1;S.ses=null;gain(30);save();const c=SC[s];
+app.innerHTML=hd()+`<div class="card page"><p class="q">PASSPORT · ${new Date().toLocaleDateString('ko-KR')}</p><div class="impact"><div class="stamp">${c.e} ${c.n}<small>APPROVED · +30XP</small></div></div><p>${s<2?'다음 여행지로 출발해요!':'모든 여행지를 통과했어요!'}</p><button class="btn" id="go">${s<2?`다음 여행지: ${SC[s+1].n}`:'홈으로'}</button></div>`;
+$('#go').onclick=()=>s<2?scene(s+1):home()}
+
+function trip(){setBg(0);app.innerHTML=hd()+`<div class="card"><div class="emo">🏠</div><div class="big">Return Trip</div><p class="note">모든 장면의 단어가 섞여서 나와요. 이전에 배운 단어도 다시 나와요. 틀려도 괜찮아요. 어려울수록 오래 기억돼요!</p><button class="btn" id="go">출발</button></div>`;
+$('#go').onclick=()=>run(sh(W.map((x,i)=>i)).slice(0,10).map((w,j)=>({t:j%2?'spell':'mean',w})),null,(f,n)=>{S.l=Date.now();gain(20);save();clear(f,n,home)})}
+setBg(0);home();
+</script></body></html>
