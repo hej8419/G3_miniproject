@@ -79,7 +79,7 @@
 
 - ### 2-2. Selected Words (10–20)
 
-`[airport]`, `[]`, `[]`, `[]`, `[]`, `[]`, `[]`, `[word 8]`, `[word 9]`, `[word 10]`
+`[airport]`, '[airline]', '[flight]', '[journey]', '[tour]', '[adventure]', '[foreign]', '[pack]', '[hotel]', '[reserve]', '[guest]', '[view]', '[menu]', '[order]', '[dish]', '[sauce]', '[pork]', '[meal]', '[supper]', '[tip]'
 
 ### 2-3. Why We Chose These Words
 
@@ -101,12 +101,12 @@
 
 ### 3-3. Goal
 
-- [What should learners be able to do after using the app? 예: Recognize the meaning, spell the word, use it in a sentence]
+- [What should learners be able to do after using the app? 예: Recognize the meaning, spell the word, use it in a sentence, use words in real situations ]
 
 ### 3-4. Learning Activities
 
-- **Encounters (Webb 2007):** [How many times and in what contexts will learners meet each word?]
-- **Retrieval (Nakata et al. 2021):** [When and how often will learners recall the word from memory?]
+- **Encounters (Webb 2007):** [How many times and in what contexts will learners meet each word?] 4 times
+- **Retrieval (Nakata et al. 2021):** [When and how often will learners recall the word from memory?] 3 times
 
 ### 3-5. Use of the List Information
 
@@ -120,11 +120,11 @@
 
 | Element | Our decision |
 |---|---|
-| L | [Week 03 자료의 요소 이름과 우리 조의 결정 내용] |
-| P | [ ... ] |
-| G | [ ... ] |
-| C | [ ... ] |
-| T | [ ... ] |
+| L | [ 영어 단어 학습을 하는 한국 중학교 2학년(M2) 학습자. 개인 휴대폰으로 혼자 학습한다. ] |
+| P | [ 대략 A1–A2 수준. 공항, 호텔, 식당 관련 단어의 뜻은 일부 알고 있지만, 철자를 쓰거나 문장 속에서 사용하는 데는 어려움이 있다고 가정한다. ] |
+| G | [ 20개 여행 단어를 문장 속에서 이해하고, 한국어 뜻을 보고 영어 단어를 직접 쓰며, 짧은 여행 상황에서 알맞게 사용한다. (3-3 참고) ] |
+| C | [ 20개 선정 단어와 이 단어들을 사용한 짧은 예문·대화, 장면 이미지(Airport & Journey, Hotel, Restaurant)만 사용한다. 목록 밖의 어려운 단어는 쓰지 않는다. ] |
+| T | [  ] |
 | X | [ ... ] |
 | F | [ ... ] |
 
