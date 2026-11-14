@@ -1,0 +1,3001 @@
+﻿No.,Word,Level,Korean meaning (뜻),Variation,Star mark,Original entry,PDF page
+1,a,Elementary,하나의,an,*,a* (an),276
+2,abandon,Extended,버리다,NA,None,abandon,276
+3,able,MidHigh,할 수 있는,disabled,**,able** (disabled),276
+4,aboard,Extended,탑승하여,NA,None,aboard,276
+5,abort,Extended,중단하다,abortion,None,abort (abortion),276
+6,abound,Extended,풍부하다,abundant,None,abound (abundant),276
+7,about,Elementary,~에 관하여,NA,*,about*,276
+8,above,Elementary,위에,NA,*,above*,276
+9,abroad,Extended,해외에,NA,None,abroad,276
+10,absent,Extended,결석한,NA,None,absent,276
+11,absolute,MidHigh,절대적인,NA,**,absolute**,276
+12,absorb,Extended,흡수하다,NA,None,absorb,276
+13,abstract,Extended,추상적인,NA,None,abstract,276
+14,absurd,Extended,터무니없는,NA,None,absurd,276
+15,abuse,Extended,남용하다,NA,None,abuse,276
+16,academy,Extended,학원,NA,None,academy,276
+17,accelerate,Extended,가속하다,NA,None,accelerate,276
+18,accent,MidHigh,억양,NA,**,accent**,276
+19,accept,MidHigh,받아들이다,NA,**,accept**,276
+20,access,MidHigh,접근,NA,**,access**,276
+21,accident,MidHigh,사고,NA,**,accident**,276
+22,accommodate,Extended,수용하다,NA,None,accommodate,276
+23,accompany,Extended,동행하다,NA,None,accompany,276
+24,accomplish,Extended,성취하다,NA,None,accomplish,276
+25,accord,Extended,일치하다,NA,None,accord,276
+26,account,MidHigh,계정,NA,**,account**,276
+27,accumulate,Extended,축적하다,NA,None,accumulate,276
+28,accurate,Extended,정확한,NA,None,accurate,276
+29,accuse,MidHigh,비난하다,NA,**,accuse**,276
+30,ache,Extended,아프다,headache,None,ache (headache),276
+31,achieve,MidHigh,달성하다,NA,**,achieve**,276
+32,acid,Extended,산,NA,None,acid,276
+33,acknowledge,Extended,인정하다,NA,None,acknowledge,276
+34,acquire,Extended,얻다,NA,None,acquire,276
+35,acquisition,Extended,습득,NA,None,acquisition,276
+36,across,Elementary,가로질러,NA,*,across*,276
+37,act,Elementary,행동하다,"actual, interact",*,"act* (actual, interact)",276
+38,adapt,MidHigh,적응하다,NA,**,adapt**,276
+39,add,Elementary,더하다,NA,*,add*,276
+40,addict,Extended,중독자,NA,None,addict,276
+41,address,Elementary,주소,NA,*,address*,276
+42,adequate,Extended,적절한,NA,None,adequate,276
+43,adjust,Extended,조정하다,NA,None,adjust,276
+44,administer,Extended,관리하다,administration,None,administer (administration),276
+45,admire,MidHigh,존경하다,NA,**,admire**,276
+46,admit,MidHigh,인정하다,admission,**,admit** (admission),276
+47,adolescent,Extended,청소년,NA,None,adolescent,276
+48,adopt,MidHigh,입양하다,NA,**,adopt**,276
+49,adult,Elementary,성인,NA,*,adult*,276
+50,advance,MidHigh,진보,NA,**,advance**,276
+51,advantage,MidHigh,이점,disadvantage,**,advantage** (disadvantage),276
+52,adventure,MidHigh,모험,NA,**,adventure**,276
+53,adverse,Extended,불리한,NA,None,adverse,276
+54,advertize,MidHigh,광고하다,advertise,**,advertize** / advertise**,276
+55,advice,MidHigh,조언,NA,**,advice**,276
+56,advise,MidHigh,조언하다,NA,**,advise**,276
+57,advocate,Extended,옹호하다,NA,None,advocate,276
+58,aesthetic,Extended,미학적인,NA,None,aesthetic,276
+59,affair,MidHigh,일,NA,**,affair**,276
+60,affect,MidHigh,영향을 미치다,affection,**,affect** (affection),276
+61,afford,MidHigh,여유가 있다,NA,**,afford**,276
+62,afraid,Elementary,두려워하는,NA,*,afraid*,276
+63,after,Elementary,뒤에,NA,*,after*,276
+64,afternoon,Elementary,오후,NA,*,afternoon*,276
+65,again,Elementary,다시,NA,*,again*,276
+66,against,Elementary,반대하여,NA,*,against*,276
+67,age,Elementary,나이,NA,*,age*,276
+68,agency,Extended,대행사,NA,None,agency,276
+69,agenda,Extended,의제,NA,None,agenda,276
+70,agent,MidHigh,대리인,NA,**,agent**,276
+71,aggress,Extended,공격하다,aggressive,None,aggress (aggressive),276
+72,ago,Elementary,전에,NA,*,ago*,276
+73,agree,Elementary,동의하다,disagree,*,agree* (disagree),276
+74,agriculture,Extended,농업,NA,None,agriculture,276
+75,ahead,Elementary,앞에,NA,*,ahead*,276
+76,aid,MidHigh,도움,NA,**,aid**,276
+77,aim,MidHigh,목표,NA,**,aim**,276
+78,air,Elementary,공기,NA,*,air*,276
+79,airline,MidHigh,항공사,NA,**,airline**,276
+80,airplane,Elementary,비행기,aeroplane,*,airplane* / aeroplane*,276
+81,airport,MidHigh,공항,NA,**,airport**,276
+82,alarm,MidHigh,경보,NA,**,alarm**,276
+83,album,Elementary,앨범,NA,*,album*,277
+84,alcohol,MidHigh,알코올,NA,**,alcohol**,277
+85,alert,Extended,경계하는,NA,None,alert,277
+86,alien,Extended,외국인,NA,None,alien,277
+87,alike,Extended,비슷한,NA,None,alike,277
+88,alive,MidHigh,살아 있는,NA,**,alive**,277
+89,all,Elementary,모든,NA,*,all*,277
+90,allocate,Extended,할당하다,NA,None,allocate,277
+91,allow,MidHigh,허락하다,NA,**,allow**,277
+92,ally,Extended,동맹,NA,None,ally,277
+93,almost,Elementary,거의,NA,*,almost*,277
+94,alone,Elementary,혼자,NA,*,alone*,277
+95,along,Elementary,따라서,NA,*,along*,277
+96,alongside,Extended,나란히,NA,None,alongside,277
+97,aloud,MidHigh,소리 내어,NA,**,aloud**,277
+98,already,Elementary,이미,NA,*,already*,277
+99,alright,Elementary,괜찮은,NA,*,alright*,277
+100,also,Elementary,또한,NA,*,also*,277
+101,alter,MidHigh,바꾸다,NA,**,alter**,277
+102,alternate,Extended,번갈아 하다,alternative,None,alternate (alternative),277
+103,although,MidHigh,비록,NA,**,although**,277
+104,altogether,MidHigh,완전히,NA,**,altogether**,277
+105,always,Elementary,항상,NA,*,always*,277
+106,amaze,MidHigh,놀라게 하다,NA,**,amaze**,277
+107,ambassador,Extended,대사,NA,None,ambassador,277
+108,ambition,Extended,야망,ambitious,None,ambition (ambitious),277
+109,ambulance,MidHigh,구급차,NA,**,ambulance**,277
+110,among,MidHigh,~중에,NA,**,among**,277
+111,amount,MidHigh,양,NA,**,amount**,277
+112,amuse,MidHigh,즐겁게 하다,NA,**,amuse**,277
+113,analysis,MidHigh,분석,NA,**,analysis**,277
+114,analyze,Extended,분석하다,analyse,None,analyze / analyse,277
+115,anchor,Extended,닻,NA,None,anchor,277
+116,ancient,Extended,고대의,NA,None,ancient,277
+117,and,Elementary,그리고,NA,*,and*,277
+118,angel,MidHigh,천사,NA,**,angel**,277
+119,anger,MidHigh,분노,NA,**,anger**,277
+120,angle,Extended,각도,NA,None,angle,277
+121,animal,Elementary,동물,NA,*,animal*,277
+122,anniversary,Extended,기념일,NA,None,anniversary,277
+123,announce,MidHigh,발표하다,NA,**,announce**,277
+124,annoy,MidHigh,짜증 나게 하다,NA,**,annoy**,277
+125,annual,MidHigh,매년의,NA,**,annual**,277
+126,another,Elementary,또 다른,NA,*,another*,277
+127,answer,Elementary,대답,NA,*,answer*,277
+128,ant,MidHigh,개미,NA,**,ant**,277
+129,anticipate,Extended,예상하다,NA,None,anticipate,277
+130,anxiety,Extended,불안,NA,None,anxiety,277
+131,anxious,MidHigh,불안한,NA,**,anxious**,277
+132,any,Elementary,어떤,NA,*,any*,277
+133,apart,MidHigh,떨어져,NA,**,apart**,277
+134,apartment,Elementary,아파트,NA,*,apartment*,277
+135,apology,Extended,사과,NA,None,apology,277
+136,apparent,Extended,명백한,NA,None,apparent,277
+137,appeal,MidHigh,호소하다,NA,**,appeal**,277
+138,appear,MidHigh,나타나다,disappear,**,appear** (disappear),277
+139,apple,Elementary,사과,NA,*,apple*,277
+140,apply,MidHigh,신청하다,applicant,**,apply** (applicant),277
+141,appoint,MidHigh,임명하다,NA,**,appoint**,277
+142,appreciate,MidHigh,감사하다,NA,**,appreciate**,277
+143,approach,MidHigh,접근하다,NA,**,approach**,277
+144,appropriate,MidHigh,적절한,NA,**,appropriate**,277
+145,approve,Extended,승인하다,NA,None,approve,277
+146,approximate,Extended,대략적인,NA,None,approximate,277
+147,architect,Extended,건축가,architecture,None,architect (architecture),277
+148,area,Elementary,지역,NA,*,area*,277
+149,argue,MidHigh,논쟁하다,NA,**,argue**,277
+150,arise,Extended,발생하다,NA,None,arise,277
+151,arm,Elementary,팔,NA,*,arm*,277
+152,army,MidHigh,군대,NA,**,army**,277
+153,around,Elementary,주위에,NA,*,around*,277
+154,arrange,MidHigh,정리하다,NA,**,arrange**,277
+155,arrest,MidHigh,체포하다,NA,**,arrest**,277
+156,arrive,Elementary,도착하다,NA,*,arrive*,277
+157,arrow,Extended,화살,NA,None,arrow,277
+158,art,Elementary,예술,NA,*,art*,277
+159,article,MidHigh,기사,NA,**,article**,277
+160,artifice,Extended,기교,artificial,None,artifice (artificial),277
+161,as,Elementary,~로서,NA,*,as*,277
+162,aside,MidHigh,한쪽으로,NA,**,aside**,277
+163,ask,Elementary,묻다,NA,*,ask*,277
+164,asleep,MidHigh,잠든,NA,**,asleep**,277
+165,aspect,Extended,측면,NA,None,aspect,277
+166,aspire,Extended,열망하다,NA,None,aspire,277
+167,assault,Extended,폭행,NA,None,assault,277
+168,assemble,Extended,조립하다,NA,None,assemble,277
+169,assert,Extended,주장하다,NA,None,assert,277
+170,assess,MidHigh,평가하다,NA,**,assess**,277
+171,asset,Extended,자산,NA,None,asset,277
+172,assign,MidHigh,할당하다,assignment,**,assign** (assignment),277
+173,assist,MidHigh,돕다,assistant,**,assist** (assistant),277
+174,associate,MidHigh,연관시키다,NA,**,associate**,277
+175,assume,MidHigh,가정하다,NA,**,assume**,277
+176,assure,Extended,확신시키다,NA,None,assure,277
+177,astonish,Extended,깜짝 놀라게 하다,NA,None,astonish,277
+178,at,Elementary,~에,NA,*,at*,277
+179,athlete,Extended,운동선수,NA,None,athlete,278
+180,atmosphere,MidHigh,대기,NA,**,atmosphere**,278
+181,atom,Extended,원자,NA,None,atom,278
+182,attach,MidHigh,붙이다,NA,**,attach**,278
+183,attack,MidHigh,공격하다,NA,**,attack**,278
+184,attempt,MidHigh,시도하다,NA,**,attempt**,278
+185,attend,MidHigh,참석하다,NA,**,attend**,278
+186,attention,MidHigh,주의,NA,**,attention**,278
+187,attitude,MidHigh,태도,NA,**,attitude**,278
+188,attract,MidHigh,끌어당기다,NA,**,attract**,278
+189,attribute,Extended,속성,NA,None,attribute,278
+190,auction,Extended,경매,NA,None,auction,278
+191,audience,MidHigh,청중,NA,**,audience**,278
+192,aunt,Elementary,이모,NA,*,aunt*,278
+193,authentic,Extended,진짜의,NA,None,authentic,278
+194,author,Extended,작가,NA,None,author,278
+195,automatic,MidHigh,자동적인,NA,**,automatic**,278
+196,autumn,Elementary,가을,NA,*,autumn*,278
+197,avail,Extended,이용하다,available,None,avail (available),278
+198,average,MidHigh,평균,NA,**,average**,278
+199,avoid,MidHigh,피하다,NA,**,avoid**,278
+200,await,Extended,기다리다,NA,None,await,278
+201,awake,MidHigh,깨어 있는,NA,**,awake**,278
+202,award,MidHigh,상,NA,**,award**,278
+203,aware,MidHigh,알고 있는,unaware,**,aware** (unaware),278
+204,away,Elementary,떨어져,NA,*,away*,278
+205,awe,Extended,경외심,awful,None,awe (awful),278
+206,awkward,MidHigh,어색한,NA,**,awkward**,278
+207,baby,Elementary,아기,NA,*,baby*,278
+208,back,Elementary,뒤,NA,*,back*,278
+209,background,MidHigh,배경,NA,**,background**,278
+210,bacon,MidHigh,베이컨,NA,**,bacon**,278
+211,bad,Elementary,나쁜,NA,*,bad*,278
+212,badminton,Elementary,배드민턴,NA,*,badminton*,278
+213,bag,Elementary,가방,NA,*,bag*,278
+214,bake,Elementary,굽다,NA,*,bake*,278
+215,balance,MidHigh,균형,NA,**,balance**,278
+216,ball,Elementary,공,NA,*,ball*,278
+217,balloon,MidHigh,풍선,NA,**,balloon**,278
+218,ban,Extended,금지하다,NA,None,ban,278
+219,banana,Elementary,바나나,NA,*,banana*,278
+220,band,MidHigh,악단,NA,**,band**,278
+221,bang,MidHigh,쾅 하는 소리,NA,**,bang**,278
+222,bank,Elementary,은행,NA,*,bank*,278
+223,bankrupt,Extended,파산한,NA,None,bankrupt,278
+224,bar,MidHigh,막대,NA,**,bar**,278
+225,bare,MidHigh,벌거벗은,NA,**,bare**,278
+226,bargain,Extended,흥정,NA,None,bargain,278
+227,bark,MidHigh,짖다,NA,**,bark**,278
+228,barrier,Extended,장벽,NA,None,barrier,278
+229,base,Elementary,기초,NA,*,base*,278
+230,baseball,Elementary,야구,NA,*,baseball*,278
+231,basis,MidHigh,기초,NA,**,basis**,278
+232,basket,Elementary,바구니,NA,*,basket*,278
+233,basketball,Elementary,농구,NA,*,basketball*,278
+234,bat,Elementary,박쥐,NA,*,bat*,278
+235,bath,Elementary,목욕,NA,*,bath*,278
+236,battery,MidHigh,배터리,NA,**,battery**,278
+237,battle,MidHigh,전투,NA,**,battle**,278
+238,bay,MidHigh,만,NA,**,bay**,278
+239,be,Elementary,~이다,NA,*,be*,278
+240,beach,Elementary,해변,NA,*,beach*,278
+241,beam,Extended,광선,NA,None,beam,278
+242,bean,MidHigh,콩,NA,**,bean**,278
+243,bear,Elementary,곰,NA,*,bear*,278
+244,beard,Extended,수염,NA,None,beard,278
+245,beast,Extended,짐승,NA,None,beast,278
+246,beat,MidHigh,때리다,NA,**,beat**,278
+247,beauty,Elementary,아름다움,NA,*,beauty*,278
+248,because,Elementary,왜냐하면,NA,*,because*,278
+249,become,Elementary,되다,NA,*,become*,278
+250,bed,Elementary,침대,NA,*,bed*,278
+251,bee,Elementary,벌,NA,*,bee*,278
+252,beef,Elementary,쇠고기,NA,*,beef*,278
+253,beer,MidHigh,맥주,NA,**,beer**,278
+254,before,Elementary,전에,NA,*,before*,278
+255,beg,MidHigh,구걸하다,NA,**,beg**,278
+256,begin,Elementary,시작하다,NA,*,begin*,278
+257,behalf,Extended,~을 대신하여,NA,None,behalf,278
+258,behave,Extended,행동하다,"behavior, behaviour",None,behave (behavior / behaviour),278
+259,behind,Elementary,뒤에,NA,*,behind*,278
+260,belief,MidHigh,믿음,NA,**,belief**,278
+261,believe,Elementary,믿다,NA,*,believe*,278
+262,bell,Elementary,종,NA,*,bell*,278
+263,belong,MidHigh,속하다,NA,**,belong**,278
+264,below,Elementary,아래에,NA,*,below*,278
+265,belt,Elementary,허리띠,NA,*,belt*,278
+266,bench,MidHigh,긴 의자,NA,**,bench**,278
+267,bend,MidHigh,구부리다,NA,**,bend**,278
+268,beneath,MidHigh,아래에,NA,**,beneath**,278
+269,benefit,MidHigh,이익,NA,**,benefit**,278
+270,beside,Elementary,옆에,NA,*,beside*,279
+271,bet,MidHigh,내기하다,NA,**,bet**,279
+272,betray,Extended,배신하다,NA,None,betray,279
+273,between,Elementary,사이에,NA,*,between*,279
+274,beyond,MidHigh,넘어서,NA,**,beyond**,279
+275,bias,Extended,편견,NA,None,bias,279
+276,big,Elementary,큰,NA,*,big*,279
+277,bike,Elementary,자전거,NA,*,bike*,279
+278,bill,Elementary,청구서,NA,*,bill*,279
+279,billion,MidHigh,십억,NA,**,billion**,279
+280,bin,MidHigh,쓰레기통,NA,**,bin**,279
+281,bind,MidHigh,묶다,NA,**,bind**,279
+282,biography,Extended,전기,NA,None,biography,279
+283,biology,Extended,생물학,NA,None,biology,279
+284,bird,Elementary,새,NA,*,bird*,279
+285,birth,Elementary,출생,NA,*,birth*,279
+286,biscuit,Elementary,비스킷,NA,*,biscuit*,279
+287,bit,MidHigh,조금,NA,**,bit**,279
+288,bite,MidHigh,물다,NA,**,bite**,279
+289,bitter,MidHigh,쓴,NA,**,bitter**,279
+290,black,Elementary,검은색,NA,*,black*,279
+291,blame,MidHigh,비난하다,NA,**,blame**,279
+292,blank,MidHigh,빈,NA,**,blank**,279
+293,blanket,MidHigh,담요,NA,**,blanket**,279
+294,blast,Extended,폭발,NA,None,blast,279
+295,blend,Extended,섞다,NA,None,blend,279
+296,bless,MidHigh,축복하다,NA,**,bless**,279
+297,blind,MidHigh,눈먼,NA,**,blind**,279
+298,blink,Extended,눈을 깜박이다,NA,None,blink,279
+299,block,MidHigh,막다,NA,**,block**,279
+300,blonde,MidHigh,금발의,NA,**,blonde**,279
+301,blood,Elementary,피,NA,*,blood*,279
+302,bloom,MidHigh,꽃이 피다,NA,**,bloom**,279
+303,blossom,Extended,꽃,NA,None,blossom,279
+304,blow,MidHigh,불다,NA,**,blow**,279
+305,blue,Elementary,파란색,NA,*,blue*,279
+306,board,Elementary,판,NA,*,board*,279
+307,boat,Elementary,배,NA,*,boat*,279
+308,body,Elementary,몸,embody,*,body* (embody),279
+309,boil,MidHigh,끓다,NA,**,boil**,279
+310,bold,Extended,대담한,NA,None,bold,279
+311,bomb,MidHigh,폭탄,NA,**,bomb**,279
+312,bond,MidHigh,유대,NA,**,bond**,279
+313,bone,Elementary,뼈,NA,*,bone*,279
+314,book,Elementary,책,NA,*,book*,279
+315,boom,MidHigh,급증,NA,**,boom**,279
+316,boost,Extended,촉진하다,NA,None,boost,279
+317,boot,MidHigh,장화,NA,**,boot**,279
+318,border,Extended,국경,NA,None,border,279
+319,bore,MidHigh,지루하게 하다,NA,**,bore**,279
+320,borrow,Elementary,빌리다,NA,*,borrow*,279
+321,boss,MidHigh,상사,NA,**,boss**,279
+322,both,Elementary,둘 다,NA,*,both*,279
+323,bother,MidHigh,괴롭히다,NA,**,bother**,279
+324,bottle,Elementary,병,NA,*,bottle*,279
+325,bottom,Elementary,바닥,NA,*,bottom*,279
+326,bounce,MidHigh,튀어 오르다,NA,**,bounce**,279
+327,boundary,Extended,경계,NA,None,boundary,279
+328,bow,MidHigh,절하다,NA,**,bow**,279
+329,bowl,MidHigh,그릇,NA,**,bowl**,279
+330,box,Elementary,상자,NA,*,box*,279
+331,boy,Elementary,소년,NA,*,boy*,279
+332,brain,MidHigh,뇌,NA,**,brain**,279
+333,brake,MidHigh,브레이크,NA,**,brake**,279
+334,branch,MidHigh,나뭇가지,NA,**,branch**,279
+335,brand,MidHigh,상표,NA,**,brand**,279
+336,brave,Elementary,용감한,NA,*,brave*,279
+337,bread,Elementary,빵,NA,*,bread*,279
+338,break,Elementary,깨다,NA,*,break*,279
+339,breakfast,Elementary,아침 식사,NA,*,breakfast*,279
+340,breast,MidHigh,가슴,NA,**,breast**,279
+341,breath,MidHigh,숨,NA,**,breath**,279
+342,breathe,MidHigh,호흡하다,NA,**,breathe**,279
+343,breed,Extended,번식하다,NA,None,breed,279
+344,breeze,Extended,산들바람,NA,None,breeze,279
+345,brick,MidHigh,벽돌,NA,**,brick**,279
+346,bridge,Elementary,다리,NA,*,bridge*,279
+347,brief,MidHigh,간략한,NA,**,brief**,279
+348,bright,Elementary,밝은,NA,*,bright*,279
+349,brilliant,MidHigh,훌륭한,NA,**,brilliant**,279
+350,bring,Elementary,가져오다,NA,*,bring*,279
+351,broad,MidHigh,넓은,NA,**,broad**,279
+352,broadcast,Extended,방송하다,NA,None,broadcast,279
+353,brother,Elementary,형제,NA,*,brother*,279
+354,brown,Elementary,갈색,NA,*,brown*,279
+355,brush,Elementary,솔,NA,*,brush*,279
+356,brute,Extended,야만인,brutal,None,brute (brutal),279
+357,bubble,MidHigh,거품,NA,**,bubble**,279
+358,budget,MidHigh,예산,NA,**,budget**,279
+359,bug,MidHigh,벌레,NA,**,bug**,279
+360,build,Elementary,짓다,NA,*,build*,279
+361,bulk,Extended,대량,NA,None,bulk,279
+362,bull,Extended,황소,NA,None,bull,279
+363,bully,Extended,괴롭히다,NA,None,bully,279
+364,bump,MidHigh,부딪치다,NA,**,bump**,279
+365,bunch,MidHigh,다발,NA,**,bunch**,279
+366,bundle,Extended,묶음,NA,None,bundle,280
+367,burden,Extended,부담,NA,None,burden,280
+368,burn,Elementary,타다,NA,*,burn*,280
+369,burst,MidHigh,터지다,NA,**,burst**,280
+370,bury,MidHigh,묻다,NA,**,bury**,280
+371,bus,Elementary,버스,NA,*,bus*,280
+372,bush,MidHigh,덤불,NA,**,bush**,280
+373,business,Elementary,사업,NA,*,business*,280
+374,busy,Elementary,바쁜,NA,*,busy*,280
+375,but,Elementary,그러나,NA,*,but*,280
+376,butcher,Extended,정육점 주인,NA,None,butcher,280
+377,butter,Elementary,버터,NA,*,butter*,280
+378,button,Elementary,단추,NA,*,button*,280
+379,buy,Elementary,사다,NA,*,buy*,280
+380,buzz,Extended,윙윙거리다,NA,None,buzz,280
+381,by,Elementary,~에 의하여,NA,*,by*,280
+382,cable,MidHigh,케이블,NA,**,cable**,280
+383,cage,MidHigh,우리,NA,**,cage**,280
+384,cake,Elementary,케이크,NA,*,cake*,280
+385,calculate,MidHigh,계산하다,calculator,**,calculate** (calculator),280
+386,calendar,MidHigh,달력,NA,**,calendar**,280
+387,call,Elementary,부르다,NA,*,call*,280
+388,calm,MidHigh,차분한,NA,**,calm**,280
+389,camera,Elementary,카메라,NA,*,camera*,280
+390,camp,Elementary,야영지,NA,*,camp*,280
+391,campaign,Elementary,운동,NA,*,campaign*,280
+392,can,Elementary,할 수 있다,NA,*,can*,280
+393,cancel,Extended,취소하다,NA,None,cancel,280
+394,cancer,Extended,암,NA,None,cancer,280
+395,candidate,Extended,후보자,NA,None,candidate,280
+396,candy,Elementary,사탕,NA,*,candy*,280
+397,canvas,Extended,화폭,NA,None,canvas,280
+398,cap,Elementary,모자,NA,*,cap*,280
+399,capable,MidHigh,유능한,NA,**,capable**,280
+400,cape,MidHigh,망토,NA,**,cape**,280
+401,capital,MidHigh,수도,NA,**,capital**,280
+402,captain,MidHigh,선장,NA,**,captain**,280
+403,capture,Extended,붙잡다,NA,None,capture,280
+404,car,Elementary,자동차,NA,*,car*,280
+405,card,Elementary,카드,NA,*,card*,280
+406,care,Elementary,돌보다,NA,*,care*,280
+407,career,MidHigh,직업,NA,**,career**,280
+408,carpet,MidHigh,양탄자,NA,**,carpet**,280
+409,carrot,Elementary,당근,NA,*,carrot*,280
+410,carry,Elementary,나르다,NA,*,carry*,280
+411,cart,MidHigh,수레,NA,**,cart**,280
+412,carve,Extended,새기다,NA,None,carve,280
+413,case,Elementary,경우,casual,*,case* (casual),280
+414,cash,Elementary,현금,NA,*,cash*,280
+415,cast,MidHigh,던지다,NA,**,cast**,280
+416,castle,MidHigh,성,NA,**,castle**,280
+417,cat,Elementary,고양이,NA,*,cat*,280
+418,catalogue,MidHigh,목록,catalog,**,catalogue** / catalog**,280
+419,catch,Elementary,잡다,NA,*,catch*,280
+420,category,MidHigh,범주,NA,**,category**,280
+421,cater,Extended,음식을 제공하다,NA,None,cater,280
+422,cattle,Extended,소,NA,None,cattle,280
+423,cause,MidHigh,원인,causal,**,cause** (causal),280
+424,caution,Extended,주의,NA,None,caution,280
+425,cave,Extended,동굴,NA,None,cave,280
+426,cease,Extended,중지하다,NA,None,cease,280
+427,ceiling,MidHigh,천장,NA,**,ceiling**,280
+428,celebrate,Extended,축하하다,NA,None,celebrate,280
+429,celebrity,Extended,유명인,NA,None,celebrity,280
+430,cell,MidHigh,세포,NA,**,cell**,280
+431,censor,Extended,검열하다,NA,None,censor,280
+432,center,Elementary,중심,NA,*,center*,280
+433,century,MidHigh,세기,NA,**,century**,280
+434,certain,Elementary,확실한,NA,*,certain*,280
+435,certificate,Extended,증명서,NA,None,certificate,280
+436,chain,MidHigh,사슬,NA,**,chain**,280
+437,chair,Elementary,의자,NA,*,chair*,280
+438,chairman,MidHigh,의장,NA,**,chairman**,280
+439,challenge,MidHigh,도전,NA,**,challenge**,280
+440,chamber,Extended,방,NA,None,chamber,280
+441,champion,MidHigh,우승자,NA,**,champion**,280
+442,chance,Elementary,기회,NA,*,chance*,280
+443,change,Elementary,변화,NA,*,change*,280
+444,channel,MidHigh,채널,NA,**,channel**,280
+445,chaos,Extended,혼돈,NA,None,chaos,280
+446,character,MidHigh,성격,NA,**,character**,280
+447,characteristic,MidHigh,특징적인,NA,**,characteristic**,280
+448,charge,MidHigh,요금,discharge,**,charge** (discharge),280
+449,charity,Extended,자선,NA,None,charity,280
+450,charm,MidHigh,매력,NA,**,charm**,280
+451,chart,MidHigh,도표,NA,**,chart**,280
+452,chase,MidHigh,쫓다,NA,**,chase**,280
+453,chat,MidHigh,대화하다,NA,**,chat**,280
+454,cheap,Elementary,싼,NA,*,cheap*,280
+455,check,Elementary,확인하다,cheque,*,check* / cheque*,280
+456,cheek,MidHigh,뺨,NA,**,cheek**,280
+457,cheer,MidHigh,응원하다,NA,**,cheer**,280
+458,cheese,Elementary,치즈,NA,*,cheese*,281
+459,chef,Extended,요리사,NA,None,chef,281
+460,chemical,Extended,화학적인,NA,None,chemical,281
+461,chest,MidHigh,가슴,NA,**,chest**,281
+462,chew,MidHigh,씹다,NA,**,chew**,281
+463,chicken,Elementary,닭,NA,*,chicken*,281
+464,chief,MidHigh,주요한,NA,**,chief**,281
+465,child,Elementary,아이,NA,*,child*,281
+466,chill,Extended,한기,NA,None,chill,281
+467,chin,Extended,턱,NA,None,chin,281
+468,chip,MidHigh,조각,NA,**,chip**,281
+469,chocolate,Elementary,초콜릿,NA,*,chocolate*,281
+470,choice,MidHigh,선택,NA,**,choice**,281
+471,choir,Extended,합창단,NA,None,choir,281
+472,choose,Elementary,고르다,NA,*,choose*,281
+473,chop,MidHigh,자르다,NA,**,chop**,281
+474,chorus,Extended,후렴,NA,None,chorus,281
+475,chronic,Extended,만성적인,NA,None,chronic,281
+476,church,Elementary,교회,NA,*,church*,281
+477,cigarette,MidHigh,담배,NA,**,cigarette**,281
+478,cinema,MidHigh,영화관,NA,**,cinema**,281
+479,circle,Elementary,원,NA,*,circle*,281
+480,circulate,Extended,순환하다,NA,None,circulate,281
+481,circumstance,MidHigh,상황,NA,**,circumstance**,281
+482,cite,Extended,인용하다,NA,None,cite,281
+483,citizen,MidHigh,시민,NA,**,citizen**,281
+484,city,Elementary,도시,NA,*,city*,281
+485,civil,MidHigh,시민의,NA,**,civil**,281
+486,claim,MidHigh,주장하다,NA,**,claim**,281
+487,clap,Extended,박수 치다,NA,None,clap,281
+488,clash,Extended,충돌,NA,None,clash,281
+489,class,Elementary,수업,"classic, classify",*,"class* (classic, classify)",281
+490,clause,Extended,절,NA,None,clause,281
+491,clay,Extended,진흙,NA,None,clay,281
+492,clean,Elementary,깨끗한,NA,*,clean*,281
+493,clear,Elementary,분명한,clarify,*,clear* (clarify),281
+494,clerk,MidHigh,사무원,NA,**,clerk**,281
+495,clever,Elementary,영리한,NA,*,clever*,281
+496,click,MidHigh,딸깍 소리,NA,**,click**,281
+497,client,MidHigh,고객,NA,**,client**,281
+498,cliff,MidHigh,절벽,NA,**,cliff**,281
+499,climate,MidHigh,기후,NA,**,climate**,281
+500,climb,Elementary,오르다,NA,*,climb*,281
+501,cling,Extended,달라붙다,NA,None,cling,281
+502,clinic,Extended,진료소,NA,None,clinic,281
+503,clip,MidHigh,클립,NA,**,clip**,281
+504,clock,Elementary,시계,NA,*,clock*,281
+505,close,Elementary,닫다,"disclose, enclose",*,"close* (disclose, enclose)",281
+506,clothes,Elementary,옷,NA,*,clothes*,281
+507,cloud,Elementary,구름,NA,*,cloud*,281
+508,club,Elementary,동아리,NA,*,club*,281
+509,clue,MidHigh,단서,NA,**,clue**,281
+510,cluster,Extended,무리,NA,None,cluster,281
+511,coach,MidHigh,코치,NA,**,coach**,281
+512,coal,MidHigh,석탄,NA,**,coal**,281
+513,coast,MidHigh,해안,NA,**,coast**,281
+514,coat,Elementary,외투,NA,*,coat*,281
+515,code,MidHigh,암호,NA,**,code**,281
+516,coffee,Elementary,커피,NA,*,coffee*,281
+517,coin,MidHigh,동전,NA,**,coin**,281
+518,coincide,Extended,동시에 일어나다,NA,None,coincide,281
+519,cold,Elementary,추운,NA,*,cold*,281
+520,collaborate,Extended,협업하다,NA,None,collaborate,281
+521,collapse,Extended,붕괴하다,NA,None,collapse,281
+522,collar,Extended,옷깃,NA,None,collar,281
+523,colleague,Extended,동료,NA,None,colleague,281
+524,collect,Elementary,모으다,NA,*,collect*,281
+525,college,Elementary,대학,NA,*,college*,281
+526,colony,Extended,식민지,NA,None,colony,281
+527,color,Elementary,색깔,colour,*,color* / colour*,281
+528,column,Extended,기둥,NA,None,column,281
+529,combat,Extended,전투,NA,None,combat,281
+530,combine,MidHigh,결합하다,NA,**,combine**,281
+531,come,Elementary,오다,NA,*,come*,281
+532,comedy,MidHigh,희극,NA,**,comedy**,281
+533,comfort,MidHigh,편안함,comfortable,**,comfort** (comfortable),281
+534,comic,Elementary,만화,NA,*,comic*,281
+535,command,MidHigh,명령,NA,**,command**,281
+536,comment,MidHigh,논평,NA,**,comment**,281
+537,commerce,MidHigh,상업,NA,**,commerce**,281
+538,commit,Extended,전념하다,commission,None,commit (commission),281
+539,committee,MidHigh,위원회,NA,**,committee**,281
+540,commodity,Extended,상품,NA,None,commodity,281
+541,common,MidHigh,공통의,NA,**,common**,281
+542,communicate,MidHigh,의사소통하다,communication,**,communicate** (communication),281
+543,communist,Extended,공산주의자,NA,None,communist,281
+544,community,MidHigh,공동체,NA,**,community**,281
+545,companion,Extended,동반자,NA,None,companion,281
+546,company,Elementary,회사,NA,*,company*,281
+547,compare,MidHigh,비교하다,NA,**,compare**,281
+548,compatible,Extended,양립할 수 있는,NA,None,compatible,281
+549,compel,Extended,강요하다,NA,None,compel,281
+550,compensate,Extended,보상하다,NA,None,compensate,281
+551,compete,Extended,경쟁하다,competent,None,compete (competent),281
+552,compile,Extended,편집하다,NA,None,compile,281
+553,complain,MidHigh,불평하다,NA,**,complain**,282
+554,complement,Extended,보완하다,NA,None,complement,282
+555,complete,MidHigh,완성하다,NA,**,complete**,282
+556,complex,MidHigh,복잡한,complexity,**,complex** (complexity),282
+557,complicate,MidHigh,복잡하게 하다,NA,**,complicate**,282
+558,component,Extended,구성 요소,NA,None,component,282
+559,compose,Extended,구성하다,NA,None,compose,282
+560,compound,Extended,화합물,NA,None,compound,282
+561,comprehend,Extended,이해하다,comprehensive,None,comprehend (comprehensive),282
+562,comprise,Extended,포함하다,NA,None,comprise,282
+563,compromise,Extended,타협하다,NA,None,compromise,282
+564,compute,Elementary,계산하다,computer,*,compute* (computer),282
+565,conceal,Extended,숨기다,NA,None,conceal,282
+566,conceive,Extended,생각해 내다,NA,None,conceive,282
+567,concentrate,MidHigh,집중하다,NA,**,concentrate**,282
+568,concept,MidHigh,개념,NA,**,concept**,282
+569,concern,MidHigh,우려,NA,**,concern**,282
+570,concert,MidHigh,연주회,NA,**,concert**,282
+571,conclude,Extended,결론짓다,NA,None,conclude,282
+572,concrete,Extended,콘크리트,NA,None,concrete,282
+573,condemn,Extended,비난하다,NA,None,condemn,282
+574,condition,Elementary,상태,NA,*,condition*,282
+575,conduct,Extended,수행하다,NA,None,conduct,282
+576,confer,Extended,협의하다,NA,None,confer,282
+577,confess,Extended,고백하다,NA,None,confess,282
+578,confide,Extended,털어놓다,confident,None,confide (confident),282
+579,confine,Extended,가두다,NA,None,confine,282
+580,confirm,MidHigh,확인하다,NA,**,confirm**,282
+581,conflict,MidHigh,갈등,NA,**,conflict**,282
+582,conform,Extended,따르다,NA,None,conform,282
+583,confront,Extended,맞서다,NA,None,confront,282
+584,confuse,MidHigh,혼란스럽게 하다,NA,**,confuse**,282
+585,congratulate,Elementary,축하하다,NA,*,congratulate*,282
+586,congress,Extended,의회,NA,None,congress,282
+587,connect,MidHigh,연결하다,NA,**,connect**,282
+588,conscience,Extended,양심,NA,None,conscience,282
+589,conscious,MidHigh,의식하는,NA,**,conscious**,282
+590,consent,Extended,동의,NA,None,consent,282
+591,conserve,Extended,보존하다,NA,None,conserve,282
+592,consider,MidHigh,고려하다,NA,**,consider**,282
+593,consist,Extended,구성되다,consistent,None,consist (consistent),282
+594,constant,MidHigh,일정한,NA,**,constant**,282
+595,constitute,Extended,구성하다,constitution,None,constitute (constitution),282
+596,constrain,Extended,제한하다,NA,None,constrain,282
+597,construct,Extended,건설하다,construction,None,construct (construction),282
+598,consult,Extended,상담하다,NA,None,consult,282
+599,consume,MidHigh,소비하다,"consumer, consumption",**,"consume** (consumer, consumption)",282
+600,contact,MidHigh,연락,NA,**,contact**,282
+601,contain,MidHigh,포함하다,NA,**,contain**,282
+602,contemporary,Extended,현대의,NA,None,contemporary,282
+603,contend,Extended,다투다,NA,None,contend,282
+604,content,MidHigh,내용,NA,**,content**,282
+605,contest,MidHigh,대회,NA,**,contest**,282
+606,context,MidHigh,맥락,NA,**,context**,282
+607,continent,Extended,대륙,NA,None,continent,282
+608,continue,MidHigh,계속하다,NA,**,continue**,282
+609,contract,MidHigh,계약,NA,**,contract**,282
+610,contradict,Extended,모순되다,NA,None,contradict,282
+611,contrary,Extended,반대의,NA,None,contrary,282
+612,contrast,Extended,대조,NA,None,contrast,282
+613,contribute,MidHigh,기여하다,NA,**,contribute**,282
+614,control,Elementary,통제하다,NA,*,control*,282
+615,controversy,Extended,논란,NA,None,controversy,282
+616,convene,Extended,소집하다,"convenient, convention",None,"convene (convenient, convention)",282
+617,converse,MidHigh,대화하다,conversation,**,converse** (conversation),282
+618,convert,Extended,전환하다,NA,None,convert,282
+619,convey,Extended,전달하다,NA,None,convey,282
+620,convict,Extended,유죄를 선고하다,NA,None,convict,282
+621,convince,MidHigh,설득하다,NA,**,convince**,282
+622,cook,Elementary,요리하다,NA,*,cook*,282
+623,cookie,Elementary,과자,cooky,*,cookie* / cooky*,282
+624,cool,Elementary,시원한,NA,*,cool*,282
+625,cooperate,Extended,협력하다,NA,None,cooperate,282
+626,coordinate,Extended,조정하다,NA,None,coordinate,282
+627,cop,MidHigh,경찰관,NA,**,cop**,282
+628,cope,MidHigh,대처하다,NA,**,cope**,282
+629,copy,MidHigh,복사하다,NA,**,copy**,282
+630,copyright,Extended,저작권,NA,None,copyright,282
+631,cord,Extended,끈,NA,None,cord,282
+632,core,Extended,핵심,NA,None,core,282
+633,corn,Extended,옥수수,NA,None,corn,282
+634,corner,Elementary,모퉁이,NA,*,corner*,282
+635,corporate,Extended,기업의,corporation,None,corporate (corporation),282
+636,correct,MidHigh,올바른,NA,**,correct**,282
+637,correspond,Extended,일치하다,NA,None,correspond,282
+638,corridor,Extended,복도,NA,None,corridor,282
+639,corrupt,Extended,부패한,NA,None,corrupt,282
+640,cost,Elementary,비용,NA,*,cost*,282
+641,costume,Extended,의상,NA,None,costume,282
+642,cottage,MidHigh,시골집,NA,**,cottage**,282
+643,cotton,MidHigh,면화,NA,**,cotton**,282
+644,cough,MidHigh,기침하다,NA,**,cough**,282
+645,could,Elementary,~할 수 있었다,NA,*,could*,282
+646,council,MidHigh,의회,NA,**,council**,283
+647,counsel,Extended,상담,NA,None,counsel,283
+648,count,MidHigh,세다,"discount, counter",**,"count** (discount, counter)",283
+649,counterpart,Extended,대응물,NA,None,counterpart,283
+650,country,Elementary,나라,NA,*,country*,283
+651,countryside,MidHigh,시골,NA,**,countryside**,283
+652,county,MidHigh,군,NA,**,county**,283
+653,couple,Elementary,한 쌍,NA,*,couple*,283
+654,coupon,Extended,쿠폰,NA,None,coupon,283
+655,courage,Extended,용기,"discourage, encourage",None,"courage (discourage, encourage)",283
+656,course,Elementary,과정,NA,*,course*,283
+657,court,Elementary,법정,NA,*,court*,283
+658,cousin,Elementary,사촌,NA,*,cousin*,283
+659,cover,Elementary,덮다,discover,*,cover* (discover),283
+660,cow,Elementary,암소,NA,*,cow*,283
+661,crack,MidHigh,금,NA,**,crack**,283
+662,craft,Extended,공예,NA,None,craft,283
+663,crash,MidHigh,충돌하다,NA,**,crash**,283
+664,crawl,MidHigh,기어가다,NA,**,crawl**,283
+665,crayon,Elementary,크레용,NA,*,crayon*,283
+666,craze,Extended,열광,crazy,None,craze (crazy),283
+667,cream,Elementary,크림,NA,*,cream*,283
+668,create,MidHigh,창조하다,creature,**,create** (creature),283
+669,credible,Extended,믿을 수 있는,incredible,None,credible (incredible),283
+670,credit,MidHigh,신용,NA,**,credit**,283
+671,creep,Extended,살금살금 움직이다,NA,None,creep,283
+672,crew,Extended,승무원,NA,None,crew,283
+673,crime,MidHigh,범죄,criminal,**,crime** (criminal),283
+674,crisis,MidHigh,위기,NA,**,crisis**,283
+675,crisp,MidHigh,바삭바삭한,NA,**,crisp**,283
+676,criterion,Extended,기준,NA,None,criterion,283
+677,critic,Extended,비평가,"criticize, criticise, criticism",None,"critic (criticize / criticise, criticism)",283
+678,crop,Extended,농작물,NA,None,crop,283
+679,cross,Elementary,가로지르다,NA,*,cross*,283
+680,crowd,MidHigh,군중,NA,**,crowd**,283
+681,crown,MidHigh,왕관,NA,**,crown**,283
+682,crucial,Extended,중요한,NA,None,crucial,283
+683,cruel,MidHigh,잔인한,NA,**,cruel**,283
+684,cruise,Extended,유람,NA,None,cruise,283
+685,crush,Extended,짓누르다,NA,None,crush,283
+686,cry,Elementary,울다,NA,*,cry*,283
+687,crystal,Extended,수정,NA,None,crystal,283
+688,cultivate,Extended,경작하다,NA,None,cultivate,283
+689,culture,Elementary,문화,NA,*,culture*,283
+690,cup,Elementary,컵,NA,*,cup*,283
+691,cure,MidHigh,치료하다,NA,**,cure**,283
+692,curious,MidHigh,호기심 많은,curiosity,**,curious** (curiosity),283
+693,curl,MidHigh,곱슬거리다,NA,**,curl**,283
+694,currency,Extended,통화,NA,None,currency,283
+695,current,MidHigh,현재의,NA,**,current**,283
+696,curriculum,Extended,교육과정,NA,None,curriculum,283
+697,curry,Extended,카레,NA,None,curry,283
+698,curse,Extended,저주,NA,None,curse,283
+699,curtain,Elementary,커튼,NA,*,curtain*,283
+700,curve,Extended,곡선,NA,None,curve,283
+701,custody,Extended,보호 관리,NA,None,custody,283
+702,custom,Extended,관습,NA,None,custom,283
+703,customer,Elementary,고객,NA,*,customer*,283
+704,cut,Elementary,자르다,NA,*,cut*,283
+705,cute,MidHigh,귀여운,NA,**,cute**,283
+706,cycle,MidHigh,순환,"recycle, cyclist",**,"cycle**(recycle, cyclist)",283
+707,cynical,Extended,냉소적인,NA,None,cynical,283
+708,dairy,Extended,유제품,NA,None,dairy,283
+709,damage,MidHigh,손상,NA,**,damage**,283
+710,damp,Extended,축축한,NA,None,damp,283
+711,dance,Elementary,춤추다,NA,*,dance*,283
+712,danger,Elementary,위험,NA,*,danger*,283
+713,dare,MidHigh,감히 하다,NA,**,dare**,283
+714,dark,Elementary,어두운,NA,*,dark*,283
+715,darling,MidHigh,사랑하는 사람,NA,**,darling**,283
+716,dash,Extended,돌진,NA,None,dash,283
+717,database,Extended,데이터베이스,NA,None,database,283
+718,date,Elementary,날짜,NA,*,date*,283
+719,datum,Extended,자료,data,None,datum (data),283
+720,daughter,Elementary,딸,NA,*,daughter*,283
+721,dawn,MidHigh,새벽,NA,**,dawn**,283
+722,day,Elementary,날,NA,*,day*,283
+723,dead,Elementary,죽은,NA,*,dead*,283
+724,deal,MidHigh,거래,NA,**,deal**,283
+725,death,Elementary,죽음,NA,*,death*,283
+726,debate,MidHigh,토론,NA,**,debate**,283
+727,debt,MidHigh,빚,NA,**,debt**,283
+728,decade,Extended,십 년,NA,None,decade,283
+729,decay,Extended,부패하다,NA,None,decay,283
+730,decent,Extended,괜찮은,NA,None,decent,283
+731,decide,Elementary,결정하다,decision,*,decide* (decision),283
+732,deck,MidHigh,갑판,NA,**,deck**,283
+733,declare,Extended,선언하다,NA,None,declare,283
+734,decline,Extended,감소하다,declension,None,decline (declension),283
+735,decorate,MidHigh,장식하다,NA,**,decorate**,283
+736,decrease,Extended,줄어들다,NA,None,decrease,284
+737,dedicate,Extended,바치다,NA,None,dedicate,284
+738,deep,Elementary,깊은,NA,*,deep*,284
+739,defeat,Extended,패배시키다,NA,None,defeat,284
+740,defend,Extended,방어하다,defendant,None,defend (defendant),284
+741,defense,MidHigh,방어,defence,**,defense** / defence**,284
+742,deficiency,Extended,결핍,NA,None,deficiency,284
+743,deficit,Extended,적자,NA,None,deficit,284
+744,define,MidHigh,정의하다,NA,**,define**,284
+745,definite,MidHigh,확실한,NA,**,definite**,284
+746,degree,MidHigh,정도,NA,**,degree**,284
+747,delay,MidHigh,지연,NA,**,delay**,284
+748,delegate,Extended,대표자,NA,None,delegate,284
+749,delete,Extended,삭제하다,NA,None,delete,284
+750,deliberate,Extended,신중한,NA,None,deliberate,284
+751,delicate,Extended,섬세한,NA,None,delicate,284
+752,delicious,Elementary,맛있는,NA,*,delicious*,284
+753,delight,MidHigh,기쁨,NA,**,delight**,284
+754,deliver,MidHigh,배달하다,NA,**,deliver**,284
+755,demand,MidHigh,요구하다,NA,**,demand**,284
+756,democracy,Extended,민주주의,NA,None,democracy,284
+757,democrat,Extended,민주당원,NA,None,democrat,284
+758,demon,Extended,악마,NA,None,demon,284
+759,demonstrate,MidHigh,입증하다,NA,**,demonstrate**,284
+760,dense,Extended,빽빽한,NA,None,dense,284
+761,dentist,MidHigh,치과의사,NA,**,dentist**,284
+762,deny,MidHigh,부인하다,NA,**,deny**,284
+763,depart,Extended,출발하다,"department, departure",None,"depart (department, departure)",284
+764,depend,MidHigh,의존하다,"dependence, independent",**,"depend** (dependence, independent)",284
+765,depict,Extended,묘사하다,NA,None,depict,284
+766,deposit,Extended,예금,NA,None,deposit,284
+767,depress,MidHigh,우울하게 하다,NA,**,depress**,284
+768,deprive,Extended,빼앗다,NA,None,deprive,284
+769,derive,Extended,유래하다,NA,None,derive,284
+770,descend,Extended,내려가다,NA,None,descend,284
+771,describe,MidHigh,묘사하다,description,**,describe** (description),284
+772,desert,MidHigh,사막,NA,**,desert**,284
+773,deserve,MidHigh,~할 가치가 있다,NA,**,deserve**,284
+774,design,Elementary,설계,NA,*,design*,284
+775,designate,Extended,지정하다,NA,None,designate,284
+776,desire,MidHigh,욕망,NA,**,desire**,284
+777,desk,Elementary,책상,NA,*,desk*,284
+778,despair,Extended,절망,NA,None,despair,284
+779,desperate,MidHigh,필사적인,NA,**,desperate**,284
+780,despite,MidHigh,~에도 불구하고,NA,**,despite**,284
+781,destine,Extended,운명 짓다,destination,None,destine (destination),284
+782,destiny,Extended,운명,NA,None,destiny,284
+783,destroy,MidHigh,파괴하다,NA,**,destroy**,284
+784,destruct,Extended,파괴하다,destruction,None,destruct (destruction),284
+785,detach,Extended,떼어 내다,NA,None,detach,284
+786,detail,MidHigh,세부 사항,NA,**,detail**,284
+787,detect,MidHigh,발견하다,NA,**,detect**,284
+788,determine,MidHigh,결정하다,NA,**,determine**,284
+789,develop,MidHigh,발전시키다,NA,**,develop**,284
+790,device,Extended,장치,NA,None,device,284
+791,devil,Extended,악마,NA,None,devil,284
+792,devise,Extended,고안하다,NA,None,devise,284
+793,devote,Extended,바치다,NA,None,devote,284
+794,diabetes,Extended,당뇨병,NA,None,diabetes,284
+795,dialogue,Elementary,대화,dialog,*,dialogue* / dialog*,284
+796,diary,MidHigh,일기,NA,**,diary**,284
+797,dictate,Extended,받아쓰게 하다,NA,None,dictate,284
+798,dictionary,MidHigh,사전,NA,**,dictionary**,284
+799,die,Elementary,죽다,NA,*,die*,284
+800,diet,MidHigh,식단,NA,**,diet**,284
+801,differ,Extended,다르다,different,None,differ (different),284
+802,difficult,Elementary,어려운,NA,*,difficult*,284
+803,dig,MidHigh,파다,NA,**,dig**,284
+804,dignity,Extended,존엄,NA,None,dignity,284
+805,dimension,Extended,차원,NA,None,dimension,284
+806,diminish,Extended,줄이다,NA,None,diminish,284
+807,dine,Extended,식사하다,NA,None,dine,284
+808,dinner,Elementary,저녁 식사,NA,*,dinner*,284
+809,dip,Extended,담그다,NA,None,dip,284
+810,diplomat,Extended,외교관,NA,None,diplomat,284
+811,direct,MidHigh,직접적인,NA,**,direct**,284
+812,dirt,MidHigh,흙,dirty,**,dirt** (dirty),284
+813,disappoint,MidHigh,실망시키다,NA,**,disappoint**,284
+814,disaster,Extended,재난,NA,None,disaster,284
+815,disc,MidHigh,원반,disk,**,disc** (disk),284
+816,discipline,MidHigh,규율,NA,**,discipline**,284
+817,discourse,Extended,담화,NA,None,discourse,284
+818,discriminate,Extended,차별하다,NA,None,discriminate,284
+819,discuss,Elementary,논의하다,NA,*,discuss*,284
+820,disgust,MidHigh,혐오,NA,**,disgust**,284
+821,dish,MidHigh,접시,NA,**,dish**,284
+822,dismiss,Extended,해고하다,NA,None,dismiss,284
+823,display,MidHigh,전시하다,NA,**,display**,284
+824,dispute,Extended,논쟁,NA,None,dispute,284
+825,disrupt,Extended,방해하다,NA,None,disrupt,284
+826,distance,MidHigh,거리,NA,**,distance**,284
+827,distinct,Extended,뚜렷한,NA,None,distinct,284
+828,distinguish,Extended,구별하다,NA,None,distinguish,284
+829,distort,Extended,왜곡하다,NA,None,distort,284
+830,distract,Extended,주의를 흩뜨리다,NA,None,distract,285
+831,distribute,Extended,분배하다,NA,None,distribute,285
+832,district,MidHigh,구역,NA,**,district**,285
+833,disturb,MidHigh,방해하다,NA,**,disturb**,285
+834,dive,MidHigh,잠수하다,NA,**,dive**,285
+835,diverse,Extended,다양한,NA,None,diverse,285
+836,divide,MidHigh,나누다,NA,**,divide**,285
+837,divine,Extended,신성한,NA,None,divine,285
+838,divorce,MidHigh,이혼하다,NA,**,divorce**,285
+839,do,Elementary,하다,NA,*,do*,285
+840,doctor,Elementary,의사,NA,*,doctor*,285
+841,document,MidHigh,문서,NA,**,document**,285
+842,dog,Elementary,개,NA,*,dog*,285
+843,doll,Elementary,인형,NA,*,doll*,285
+844,dolphin,MidHigh,돌고래,NA,**,dolphin**,285
+845,domain,Extended,영역,NA,None,domain,285
+846,domestic,MidHigh,국내의,NA,**,domestic**,285
+847,dominate,Extended,지배하다,dominant,None,dominate (dominant),285
+848,donate,MidHigh,기부하다,NA,**,donate**,285
+849,door,Elementary,문,NA,*,door*,285
+850,dose,Extended,복용량,NA,None,dose,285
+851,dot,Extended,점,NA,None,dot,285
+852,double,Elementary,두 배,NA,*,double*,285
+853,doubt,MidHigh,의심하다,NA,**,doubt**,285
+854,doughnut,Elementary,도넛,NA,*,doughnut*,285
+855,down,Elementary,아래로,NA,*,down*,285
+856,dozen,MidHigh,열두 개,NA,**,dozen**,285
+857,draft,Extended,초안,NA,None,draft,285
+858,drag,MidHigh,끌다,NA,**,drag**,285
+859,drain,Extended,배수하다,NA,None,drain,285
+860,drama,MidHigh,극,NA,**,drama**,285
+861,draw,Elementary,그리다,drawer,*,draw* (drawer),285
+862,dread,Extended,두려워하다,NA,None,dread,285
+863,dream,Elementary,꿈,NA,*,dream*,285
+864,dress,Elementary,옷을 입다,NA,*,dress*,285
+865,drill,Extended,훈련,NA,None,drill,285
+866,drink,Elementary,마시다,NA,*,drink*,285
+867,drive,Elementary,운전하다,NA,*,drive*,285
+868,drop,Elementary,떨어뜨리다,NA,*,drop*,285
+869,drown,Extended,익사하다,NA,None,drown,285
+870,drug,MidHigh,약물,NA,**,drug**,285
+871,drum,Elementary,북,NA,*,drum*,285
+872,dry,Elementary,마른,NA,*,dry*,285
+873,dual,Extended,이중의,NA,None,dual,285
+874,duck,Elementary,오리,NA,*,duck*,285
+875,due,MidHigh,~할 예정인,NA,**,due**,285
+876,dull,Extended,따분한,NA,None,dull,285
+877,dump,MidHigh,버리다,NA,**,dump**,285
+878,during,Elementary,~동안,NA,*,during*,285
+879,dust,MidHigh,먼지,NA,**,dust**,285
+880,duty,MidHigh,의무,NA,**,duty**,285
+881,dwell,Extended,거주하다,NA,None,dwell,285
+882,dynamic,Extended,역동적인,NA,None,dynamic,285
+883,each,MidHigh,각각의,NA,**,each**,285
+884,eager,Extended,열망하는,NA,None,eager,285
+885,ear,Elementary,귀,NA,*,ear*,285
+886,early,Elementary,이른,NA,*,early*,285
+887,earn,MidHigh,벌다,NA,**,earn**,285
+888,earth,Elementary,지구,NA,*,earth*,285
+889,ease,MidHigh,쉬움,"disease, easy",**,"ease** (disease, easy)",285
+890,east,Elementary,동쪽,NA,*,east*,285
+891,eat,Elementary,먹다,NA,*,eat*,285
+892,economy,MidHigh,경제,NA,**,economy**,285
+893,edge,MidHigh,가장자리,NA,**,edge**,285
+894,edit,MidHigh,편집하다,NA,**,edit**,285
+895,educate,MidHigh,교육하다,NA,**,educate**,285
+896,effect,MidHigh,효과,effective,**,effect** (effective),285
+897,efficient,Extended,효율적인,NA,None,efficient,285
+898,effort,MidHigh,노력,NA,**,effort**,285
+899,egg,Elementary,달걀,NA,*,egg*,285
+900,eight,Elementary,여덟,NA,*,eight*,285
+901,either,MidHigh,둘 중 하나,NA,**,either**,285
+902,elaborate,Extended,정교한,NA,None,elaborate,285
+903,elect,MidHigh,선출하다,NA,**,elect**,285
+904,electric,MidHigh,전기의,NA,**,electric**,285
+905,electronic,Extended,전자의,NA,None,electronic,285
+906,elegant,Extended,우아한,NA,None,elegant,285
+907,element,MidHigh,요소,elementary,**,element** (elementary),285
+908,elephant,Elementary,코끼리,NA,*,elephant*,285
+909,elevate,Extended,높이다,elevator,None,elevate (elevator),285
+910,eleven,Elementary,열하나,NA,*,eleven*,285
+911,eliminate,Extended,제거하다,NA,None,eliminate,285
+912,elite,Extended,엘리트,NA,None,elite,285
+913,else,MidHigh,그 밖의,NA,**,else**,285
+914,embarrass,MidHigh,당황하게 하다,NA,**,embarrass**,285
+915,embassy,Extended,대사관,NA,None,embassy,285
+916,embrace,Extended,껴안다,NA,None,embrace,285
+917,emerge,Extended,나타나다,emergence,None,emerge (emergence),285
+918,emergency,Extended,긴급 상황,NA,None,emergency,285
+919,emit,Extended,방출하다,emission,None,emit (emission),285
+920,emotion,MidHigh,감정,NA,**,emotion**,285
+921,emphasis,Extended,강조,NA,None,emphasis,286
+922,emphasize,MidHigh,강조하다,NA,**,emphasize**,286
+923,empire,MidHigh,제국,NA,**,empire**,286
+924,employ,MidHigh,고용하다,NA,**,employ**,286
+925,empty,MidHigh,빈,NA,**,empty**,286
+926,encounter,Extended,마주치다,NA,None,encounter,286
+927,end,Elementary,끝,NA,*,end*,286
+928,endure,Extended,견디다,NA,None,endure,286
+929,enemy,MidHigh,적,NA,**,enemy**,286
+930,energy,Elementary,에너지,NA,*,energy*,286
+931,engage,MidHigh,참여하다,NA,**,engage**,286
+932,engine,MidHigh,엔진,NA,**,engine**,286
+933,engineer,MidHigh,기술자,NA,**,engineer**,286
+934,enhance,Extended,향상시키다,NA,None,enhance,286
+935,enormous,MidHigh,거대한,NA,**,enormous**,286
+936,enough,Elementary,충분한,NA,*,enough*,286
+937,enter,Elementary,들어가다,NA,*,enter*,286
+938,enterprise,Extended,기업,NA,None,enterprise,286
+939,entertain,MidHigh,즐겁게 하다,NA,**,entertain**,286
+940,enthusiastic,Extended,열정적인,NA,None,enthusiastic,286
+941,entire,MidHigh,전체의,NA,**,entire**,286
+942,entry,Extended,입장,NA,None,entry,286
+943,envelope,MidHigh,봉투,NA,**,envelope**,286
+944,environ,Extended,환경,environment,None,environ (environment),286
+945,envy,Extended,부러워하다,NA,None,envy,286
+946,equal,MidHigh,같은,NA,**,equal**,286
+947,equip,Extended,갖추다,equipment,None,equip (equipment),286
+948,era,Extended,시대,NA,None,era,286
+949,erase,Extended,지우다,eraser,None,erase (eraser),286
+950,erect,Extended,세우다,NA,None,erect,286
+951,err,Extended,실수하다,error,None,err (error),286
+952,escape,MidHigh,탈출하다,NA,**,escape**,286
+953,especial,MidHigh,특별한,especially,**,especial** (especially),286
+954,essay,MidHigh,수필,NA,**,essay**,286
+955,essence,Extended,본질,essential,None,essence (essential),286
+956,establish,MidHigh,설립하다,NA,**,establish**,286
+957,estate,Extended,재산,NA,None,estate,286
+958,estimate,MidHigh,추정하다,NA,**,estimate**,286
+959,ethic,Extended,윤리,ethical,None,ethic (ethical),286
+960,ethnic,Extended,민족의,NA,None,ethnic,286
+961,evacuate,Extended,대피시키다,NA,None,evacuate,286
+962,evaluate,Extended,평가하다,NA,None,evaluate,286
+963,even,MidHigh,심지어,NA,**,even**,286
+964,evening,Elementary,저녁,NA,*,evening*,286
+965,event,MidHigh,사건,eventually,**,event** (eventually),286
+966,ever,MidHigh,언제나,NA,**,ever**,286
+967,every,Elementary,모든,NA,*,every*,286
+968,evidence,MidHigh,증거,NA,**,evidence**,286
+969,evil,MidHigh,악,NA,**,evil**,286
+970,evitable,Extended,피할 수 있는,inevitable,None,evitable (inevitable),286
+971,evolution,Extended,진화,NA,None,evolution,286
+972,evolve,Extended,발전하다,NA,None,evolve,286
+973,exact,MidHigh,정확한,NA,**,exact**,286
+974,exaggerate,Extended,과장하다,NA,None,exaggerate,286
+975,examine,MidHigh,조사하다,"examination, exam",**,examine** (examination / exam),286
+976,example,Elementary,예시,NA,*,example*,286
+977,exceed,Extended,초과하다,NA,None,exceed,286
+978,excel,Extended,뛰어나다,excellent,None,excel (excellent),286
+979,except,MidHigh,제외하고,NA,**,except**,286
+980,excess,Extended,초과,NA,None,excess,286
+981,exchange,MidHigh,교환,NA,**,exchange**,286
+982,excite,MidHigh,흥분시키다,NA,**,excite**,286
+983,exclude,Extended,배제하다,exclusive,None,exclude (exclusive),286
+984,excuse,MidHigh,변명,NA,**,excuse**,286
+985,executive,Extended,경영진,NA,None,executive,286
+986,exercise,Elementary,운동,NA,*,exercise*,286
+987,exhaust,MidHigh,소진시키다,NA,**,exhaust**,286
+988,exhibit,Extended,전시하다,NA,None,exhibit,286
+989,exist,MidHigh,존재하다,NA,**,exist**,286
+990,exit,MidHigh,출구,NA,**,exit**,286
+991,exotic,Extended,이국적인,NA,None,exotic,286
+992,expand,MidHigh,확장하다,NA,**,expand**,286
+993,expect,MidHigh,기대하다,NA,**,expect**,286
+994,expense,MidHigh,비용,expensive,**,expense** (expensive),286
+995,experience,MidHigh,경험,NA,**,experience**,286
+996,experiment,MidHigh,실험,NA,**,experiment**,286
+997,expert,MidHigh,전문가,NA,**,expert**,286
+998,expertise,Extended,전문 지식,NA,None,expertise,286
+999,explain,MidHigh,설명하다,NA,**,explain**,286
+1000,explicit,Extended,명시적인,NA,None,explicit,286
+1001,explode,Extended,폭발하다,NA,None,explode,286
+1002,explore,Extended,탐구하다,NA,None,explore,286
+1003,export,Extended,수출하다,NA,None,export,286
+1004,expose,MidHigh,노출하다,NA,**,expose**,286
+1005,express,MidHigh,표현하다,NA,**,express**,286
+1006,extend,MidHigh,연장하다,NA,**,extend**,286
+1007,extent,Extended,범위,NA,None,extent,286
+1008,external,Extended,외부의,NA,None,external,286
+1009,extinct,Extended,멸종한,NA,None,extinct,286
+1010,extra,MidHigh,추가의,NA,**,extra**,286
+1011,extract,Extended,추출하다,NA,None,extract,286
+1012,extraordinary,Extended,비범한,NA,None,extraordinary,286
+1013,extreme,MidHigh,극단적인,NA,**,extreme**,286
+1014,eye,Elementary,눈,NA,*,eye*,286
+1015,eyebrow,Extended,눈썹,NA,None,eyebrow,286
+1016,fabric,Extended,직물,NA,None,fabric,287
+1017,face,Elementary,얼굴,NA,*,face*,287
+1018,facilitate,Extended,촉진하다,NA,None,facilitate,287
+1019,facility,Extended,시설,NA,None,facility,287
+1020,fact,Elementary,사실,factual,*,fact* (factual),287
+1021,factor,MidHigh,요인,NA,**,factor**,287
+1022,factory,MidHigh,공장,NA,**,factory**,287
+1023,faculty,Extended,교수진,NA,None,faculty,287
+1024,fade,Extended,희미해지다,NA,None,fade,287
+1025,fail,Elementary,실패하다,NA,*,fail*,287
+1026,faint,MidHigh,희미한,NA,**,faint**,287
+1027,fair,MidHigh,공정한,NA,**,fair**,287
+1028,faith,MidHigh,신앙,NA,**,faith**,287
+1029,fall,Elementary,떨어지다,NA,*,fall*,287
+1030,false,Extended,거짓의,NA,None,false,287
+1031,fame,Extended,명성,famous,None,fame (famous),287
+1032,familiar,MidHigh,익숙한,NA,**,familiar**,287
+1033,family,Elementary,가족,NA,*,family*,287
+1034,fan,Elementary,팬,NA,*,fan*,287
+1035,fancy,MidHigh,화려한,NA,**,fancy**,287
+1036,fantastic,MidHigh,환상적인,NA,**,fantastic**,287
+1037,far,Elementary,먼,NA,*,far*,287
+1038,fare,Extended,요금,NA,None,fare,287
+1039,farm,Elementary,농장,NA,*,farm*,287
+1040,fascinate,MidHigh,매혹하다,NA,**,fascinate**,287
+1041,fashion,MidHigh,유행,NA,**,fashion**,287
+1042,fast,Elementary,빠른,NA,*,fast*,287
+1043,fasten,Extended,묶다,NA,None,fasten,287
+1044,fat,Elementary,살찐,NA,*,fat*,287
+1045,fate,Extended,운명,fatal,None,fate (fatal),287
+1046,father,Elementary,아버지,"dad, daddy",*,"father* (dad, daddy)",287
+1047,fault,MidHigh,잘못,NA,**,fault**,287
+1048,favor,MidHigh,호의,favour,**,favor** / favour**,287
+1049,favorite,Elementary,가장 좋아하는,favourite,*,favorite* / favourite*,287
+1050,fear,MidHigh,두려움,NA,**,fear**,287
+1051,feature,MidHigh,특징,NA,**,feature**,287
+1052,federal,Extended,연방의,NA,None,federal,287
+1053,fee,MidHigh,요금,NA,**,fee**,287
+1054,feed,MidHigh,먹이를 주다,NA,**,feed**,287
+1055,feel,Elementary,느끼다,NA,*,feel*,287
+1056,fellow,MidHigh,동료,NA,**,fellow**,287
+1057,female,MidHigh,여성,NA,**,female**,287
+1058,fence,MidHigh,울타리,NA,**,fence**,287
+1059,ferry,Extended,여객선,NA,None,ferry,287
+1060,fertile,Extended,비옥한,NA,None,fertile,287
+1061,festival,Elementary,축제,NA,*,festival*,287
+1062,fever,MidHigh,열,NA,**,fever**,287
+1063,few,MidHigh,소수의,NA,**,few**,287
+1064,fiber,Extended,섬유,fibre,None,fiber / fibre,287
+1065,fiction,Extended,소설,NA,None,fiction,287
+1066,field,Elementary,들판,NA,*,field*,287
+1067,fierce,Extended,사나운,NA,None,fierce,287
+1068,fight,Elementary,싸우다,NA,*,fight*,287
+1069,figure,MidHigh,숫자,NA,**,figure**,287
+1070,file,Elementary,파일,NA,*,file*,287
+1071,fill,Elementary,채우다,NA,*,fill*,287
+1072,film,Elementary,영화,NA,*,film*,287
+1073,filter,Extended,거르다,NA,None,filter,287
+1074,final,MidHigh,마지막의,NA,**,final**,287
+1075,finance,MidHigh,재정,NA,**,finance**,287
+1076,find,Elementary,찾다,NA,*,find*,287
+1077,fine,Elementary,괜찮은,NA,*,fine*,287
+1078,finger,Elementary,손가락,NA,*,finger*,287
+1079,finish,Elementary,끝내다,NA,*,finish*,287
+1080,finite,Extended,유한한,NA,None,finite,287
+1081,fire,Elementary,불,NA,*,fire*,287
+1082,firm,MidHigh,회사,NA,**,firm**,287
+1083,first,Elementary,첫 번째,NA,*,first*,287
+1084,fish,Elementary,물고기,NA,*,fish*,287
+1085,fit,MidHigh,적합한,NA,**,fit**,287
+1086,five,Elementary,다섯,NA,*,five*,287
+1087,fix,Elementary,고치다,NA,*,fix*,287
+1088,flag,MidHigh,깃발,NA,**,flag**,287
+1089,flame,MidHigh,불꽃,NA,**,flame**,287
+1090,flash,MidHigh,번쩍이다,NA,**,flash**,287
+1091,flat,MidHigh,평평한,NA,**,flat**,287
+1092,flavor,Extended,맛,flavour,None,flavor / flavour,287
+1093,flaw,Extended,결함,NA,None,flaw,287
+1094,flee,Extended,달아나다,NA,None,flee,287
+1095,flesh,Extended,살,NA,None,flesh,287
+1096,flexible,Extended,유연한,NA,None,flexible,287
+1097,flight,MidHigh,비행,NA,**,flight**,287
+1098,flip,Extended,뒤집다,NA,None,flip,287
+1099,float,MidHigh,뜨다,NA,**,float**,287
+1100,flock,Extended,무리,NA,None,flock,287
+1101,flood,MidHigh,홍수,NA,**,flood**,287
+1102,floor,Elementary,바닥,NA,*,floor*,287
+1103,flourish,Extended,번창하다,NA,None,flourish,287
+1104,flow,MidHigh,흐르다,NA,**,flow**,287
+1105,flower,Elementary,꽃,NA,*,flower*,287
+1106,flush,Extended,얼굴이 붉어지다,NA,None,flush,287
+1107,fly,Elementary,날다,NA,*,fly*,287
+1108,focus,Elementary,초점,NA,*,focus*,288
+1109,fog,MidHigh,안개,NA,**,fog**,288
+1110,fold,MidHigh,접다,NA,**,fold**,288
+1111,folk,MidHigh,사람들,NA,**,folk**,288
+1112,follow,MidHigh,따르다,NA,**,follow**,288
+1113,fond,Extended,좋아하는,NA,None,fond,288
+1114,food,Elementary,음식,NA,*,food*,288
+1115,fool,Elementary,바보,NA,*,fool*,288
+1116,foot,Elementary,발,NA,*,foot*,288
+1117,football,Elementary,축구,NA,*,football*,288
+1118,for,Elementary,~을 위하여,NA,*,for*,288
+1119,forbid,Extended,금지하다,NA,None,forbid,288
+1120,force,MidHigh,힘,enforce,**,force** (enforce),288
+1121,forecast,Extended,예보,NA,None,forecast,288
+1122,forehead,Extended,이마,NA,None,forehead,288
+1123,foreign,MidHigh,외국의,NA,**,foreign**,288
+1124,forest,Elementary,숲,NA,*,forest*,288
+1125,forever,MidHigh,영원히,NA,**,forever**,288
+1126,forget,Elementary,잊다,NA,*,forget*,288
+1127,forgive,MidHigh,용서하다,NA,**,forgive**,288
+1128,fork,Elementary,포크,NA,*,fork*,288
+1129,form,Elementary,형태,"formal, formation, informal",*,"form* (formal, formation, informal)",288
+1130,format,Extended,형식,NA,None,format,288
+1131,former,Extended,이전의,NA,None,former,288
+1132,formula,Extended,공식,NA,None,formula,288
+1133,forth,MidHigh,앞으로,NA,**,forth**,288
+1134,fortunate,MidHigh,운이 좋은,NA,**,fortunate**,288
+1135,fortune,MidHigh,행운,NA,**,fortune**,288
+1136,forward,MidHigh,앞쪽으로,NA,**,forward**,288
+1137,foster,Extended,육성하다,NA,None,foster,288
+1138,found,MidHigh,설립하다,foundation,**,found** (foundation),288
+1139,fountain,Extended,분수,NA,None,fountain,288
+1140,four,Elementary,넷,NA,*,four*,288
+1141,fox,Elementary,여우,NA,*,fox*,288
+1142,fraction,Extended,분수,NA,None,fraction,288
+1143,frame,MidHigh,틀,NA,**,frame**,288
+1144,framework,Extended,체계,NA,None,framework,288
+1145,frankly,MidHigh,솔직히,NA,**,frankly**,288
+1146,free,Elementary,자유로운,NA,*,free*,288
+1147,freeze,MidHigh,얼다,NA,**,freeze**,288
+1148,frequent,Extended,빈번한,NA,None,frequent,288
+1149,fresh,Elementary,신선한,NA,*,fresh*,288
+1150,friend,Elementary,친구,friendship,*,friend* (friendship),288
+1151,fright,MidHigh,공포,NA,**,fright**,288
+1152,frog,MidHigh,개구리,NA,**,frog**,288
+1153,from,Elementary,~로부터,NA,*,from*,288
+1154,front,Elementary,앞,NA,*,front*,288
+1155,frost,Extended,서리,NA,None,frost,288
+1156,frown,Extended,눈살을 찌푸리다,NA,None,frown,288
+1157,fruit,Elementary,과일,NA,*,fruit*,288
+1158,frustrate,MidHigh,좌절시키다,NA,**,frustrate**,288
+1159,fry,MidHigh,튀기다,NA,**,fry**,288
+1160,fuel,Extended,연료,NA,None,fuel,288
+1161,fulfil,Extended,이행하다,NA,None,fulfil,288
+1162,full,Elementary,가득 찬,NA,*,full*,288
+1163,fun,Elementary,재미,NA,*,fun*,288
+1164,function,MidHigh,기능,NA,**,function**,288
+1165,fund,MidHigh,기금,NA,**,fund**,288
+1166,fundamental,Extended,근본적인,NA,None,fundamental,288
+1167,funeral,Extended,장례식,NA,None,funeral,288
+1168,fur,MidHigh,모피,NA,**,fur**,288
+1169,furnish,Extended,제공하다,NA,None,furnish,288
+1170,furniture,MidHigh,가구,NA,**,furniture**,288
+1171,furthermore,Extended,게다가,NA,None,furthermore,288
+1172,fury,Extended,격노,furious,None,fury (furious),288
+1173,fuse,Extended,퓨즈,NA,None,fuse,288
+1174,future,Elementary,미래,NA,*,future*,288
+1175,gain,MidHigh,얻다,NA,**,gain**,288
+1176,gallery,Extended,미술관,NA,None,gallery,288
+1177,gamble,Extended,도박하다,NA,None,gamble,288
+1178,game,Elementary,경기,NA,*,game*,288
+1179,gang,Extended,무리,NA,None,gang,288
+1180,gap,Extended,틈,NA,None,gap,288
+1181,garage,MidHigh,차고,NA,**,garage**,288
+1182,garden,Elementary,정원,NA,*,garden*,288
+1183,gas,Elementary,기체,NA,*,gas*,288
+1184,gasoline,Extended,휘발유,petrol,None,gasoline / petrol,288
+1185,gate,MidHigh,문,NA,**,gate**,288
+1186,gather,MidHigh,모으다,NA,**,gather**,288
+1187,gaze,Extended,응시하다,NA,None,gaze,288
+1188,gear,MidHigh,장비,NA,**,gear**,288
+1189,gender,Extended,성별,NA,None,gender,288
+1190,gene,Extended,유전자,genetic,None,gene (genetic),288
+1191,general,MidHigh,일반적인,NA,**,general**,288
+1192,generate,Extended,생성하다,generation,None,generate (generation),288
+1193,generous,Extended,관대한,NA,None,generous,288
+1194,genius,Extended,천재,NA,None,genius,288
+1195,gentle,MidHigh,온화한,NA,**,gentle**,288
+1196,gentleman,Elementary,신사,NA,*,gentleman*,288
+1197,genuine,Extended,진짜의,NA,None,genuine,288
+1198,geography,Extended,지리학,NA,None,geography,288
+1199,geology,Extended,지질학,NA,None,geology,289
+1200,gesture,MidHigh,몸짓,NA,**,gesture**,289
+1201,get,Elementary,얻다,NA,*,get*,289
+1202,ghost,MidHigh,유령,NA,**,ghost**,289
+1203,giant,MidHigh,거인,NA,**,giant**,289
+1204,gift,MidHigh,선물,NA,**,gift**,289
+1205,giraffe,MidHigh,기린,NA,**,giraffe**,289
+1206,girl,Elementary,소녀,NA,*,girl*,289
+1207,give,Elementary,주다,NA,*,give*,289
+1208,glad,Elementary,기쁜,NA,*,glad*,289
+1209,glance,MidHigh,흘끗 보다,NA,**,glance**,289
+1210,glare,Extended,노려보다,NA,None,glare,289
+1211,glass,Elementary,유리,NA,*,glass*,289
+1212,globe,Extended,지구본,global,None,globe (global),289
+1213,glory,MidHigh,영광,NA,**,glory**,289
+1214,glove,MidHigh,장갑,NA,**,glove**,289
+1215,glow,Extended,빛나다,NA,None,glow,289
+1216,glue,MidHigh,풀,NA,**,glue**,289
+1217,go,Elementary,가다,NA,*,go*,289
+1218,goal,Elementary,목표,NA,*,goal*,289
+1219,goat,Extended,염소,NA,None,goat,289
+1220,god,Elementary,신,NA,*,god*,289
+1221,gold,Elementary,금,NA,*,gold*,289
+1222,golf,MidHigh,골프,NA,**,golf**,289
+1223,good,Elementary,좋은,goods,*,good* (goods),289
+1224,goodbye,Elementary,안녕,bye,*,goodbye* (bye),289
+1225,gorgeous,MidHigh,멋진,NA,**,gorgeous**,289
+1226,govern,MidHigh,통치하다,government,**,govern** (government),289
+1227,grab,MidHigh,붙잡다,NA,**,grab**,289
+1228,grace,MidHigh,우아함,NA,**,grace**,289
+1229,grade,MidHigh,등급,gradual,**,grade** (gradual),289
+1230,graduate,Extended,졸업하다,NA,None,graduate,289
+1231,grain,Extended,곡물,NA,None,grain,289
+1232,grand,MidHigh,웅장한,NA,**,grand**,289
+1233,grandfather,Elementary,할아버지,NA,*,grandfather*,289
+1234,grant,MidHigh,수여하다,NA,**,grant**,289
+1235,grape,Elementary,포도,NA,*,grape*,289
+1236,graph,MidHigh,그래프,graphic,**,graph** (graphic),289
+1237,grasp,Extended,파악하다,NA,None,grasp,289
+1238,grass,Elementary,풀,NA,*,grass*,289
+1239,grateful,Extended,감사하는,NA,None,grateful,289
+1240,grave,Extended,무덤,NA,None,grave,289
+1241,gray,Elementary,회색,grey,*,gray* / grey*,289
+1242,great,Elementary,훌륭한,NA,*,great*,289
+1243,greed,Extended,탐욕,NA,None,greed,289
+1244,green,Elementary,초록색,NA,*,green*,289
+1245,greet,MidHigh,인사하다,NA,**,greet**,289
+1246,grief,Extended,슬픔,NA,None,grief,289
+1247,grip,Extended,붙잡다,NA,None,grip,289
+1248,grocery,MidHigh,식료품,NA,**,grocery**,289
+1249,gross,Extended,총계,NA,None,gross,289
+1250,ground,Elementary,땅,NA,*,ground*,289
+1251,group,Elementary,집단,NA,*,group*,289
+1252,grow,Elementary,자라다,NA,*,grow*,289
+1253,guarantee,MidHigh,보증하다,NA,**,guarantee**,289
+1254,guard,MidHigh,지키다,NA,**,guard**,289
+1255,guardian,Extended,보호자,NA,None,guardian,289
+1256,guess,Elementary,추측하다,NA,*,guess*,289
+1257,guest,MidHigh,손님,NA,**,guest**,289
+1258,guide,MidHigh,안내하다,NA,**,guide**,289
+1259,guideline,Extended,지침,NA,None,guideline,289
+1260,guilt,MidHigh,죄책감,guilty,**,guilt** (guilty),289
+1261,guitar,Elementary,기타,NA,*,guitar*,289
+1262,gulf,Extended,만,NA,None,gulf,289
+1263,gum,Elementary,껌,NA,*,gum*,289
+1264,gun,MidHigh,총,NA,**,gun**,289
+1265,guy,Elementary,남자,NA,*,guy*,289
+1266,gymnasium,Extended,체육관,gym,None,gymnasium / gym,289
+1267,habit,Elementary,습관,NA,*,habit*,289
+1268,habitat,Extended,서식지,NA,None,habitat,289
+1269,hair,Elementary,머리카락,NA,*,hair*,289
+1270,half,MidHigh,절반,NA,**,half**,289
+1271,hall,MidHigh,홀,NA,**,hall**,289
+1272,halt,Extended,멈추다,NA,None,halt,289
+1273,hamburger,Elementary,햄버거,NA,*,hamburger*,289
+1274,hammer,Extended,망치,NA,None,hammer,289
+1275,hand,Elementary,손,NA,*,hand*,289
+1276,handicap,Extended,장애,NA,None,handicap,289
+1277,handle,MidHigh,다루다,NA,**,handle**,289
+1278,handsome,MidHigh,잘생긴,NA,**,handsome**,289
+1279,hang,Elementary,걸다,NA,*,hang*,289
+1280,happen,MidHigh,일어나다,NA,**,happen**,289
+1281,happy,Elementary,행복한,NA,*,happy*,289
+1282,harbor,Extended,항구,harbour,None,harbor / harbour,289
+1283,hard,Elementary,어려운,hardly,*,hard* (hardly),289
+1284,harm,MidHigh,해치다,NA,**,harm**,289
+1285,harmony,Extended,조화,harmonious,None,harmony (harmonious),289
+1286,harsh,Extended,가혹한,NA,None,harsh,289
+1287,harvest,Extended,수확,NA,None,harvest,289
+1288,hat,Elementary,모자,NA,*,hat*,289
+1289,hate,Elementary,미워하다,NA,*,hate*,289
+1290,haunt,Extended,괴롭히다,NA,None,haunt,289
+1291,have,Elementary,가지다,NA,*,have*,290
+1292,hazard,Extended,위험 요소,NA,None,hazard,290
+1293,he,Elementary,그,NA,*,he*,290
+1294,head,Elementary,머리,NA,*,head*,290
+1295,headquarters,Extended,본부,NA,None,headquarters,290
+1296,heal,Extended,치유하다,NA,None,heal,290
+1297,health,MidHigh,건강,healthy,**,health** (healthy),290
+1298,hear,MidHigh,듣다,NA,**,hear**,290
+1299,heart,Elementary,심장,NA,*,heart*,290
+1300,heat,Elementary,열,NA,*,heat*,290
+1301,heaven,MidHigh,천국,NA,**,heaven**,290
+1302,heavy,Elementary,무거운,NA,*,heavy*,290
+1303,heel,Extended,발뒤꿈치,NA,None,heel,290
+1304,height,MidHigh,높이,NA,**,height**,290
+1305,heir,Extended,상속인,NA,None,heir,290
+1306,helicopter,MidHigh,헬리콥터,NA,**,helicopter**,290
+1307,hell,MidHigh,지옥,NA,**,hell**,290
+1308,hello,Elementary,안녕,"hey, hi",*,hello* / hey* / hi*,290
+1309,helmet,Elementary,헬멧,NA,*,helmet*,290
+1310,help,Elementary,돕다,NA,*,help*,290
+1311,hence,Extended,그러므로,NA,None,hence,290
+1312,here,Elementary,여기,NA,*,here*,290
+1313,heritage,Extended,유산,NA,None,heritage,290
+1314,hero,Elementary,영웅,NA,*,hero*,290
+1315,hesitate,MidHigh,망설이다,NA,**,hesitate**,290
+1316,hide,MidHigh,숨기다,NA,**,hide**,290
+1317,hierarchy,Extended,위계,NA,None,hierarchy,290
+1318,high,Elementary,높은,NA,*,high*,290
+1319,highlight,Extended,강조하다,NA,None,highlight,290
+1320,highway,MidHigh,고속도로,NA,**,highway**,290
+1321,hike,Elementary,도보 여행,NA,*,hike*,290
+1322,hill,Elementary,언덕,NA,*,hill*,290
+1323,hint,MidHigh,힌트,NA,**,hint**,290
+1324,hire,MidHigh,고용하다,NA,**,hire**,290
+1325,history,Elementary,역사,NA,*,history*,290
+1326,hit,Elementary,치다,NA,*,hit*,290
+1327,hobby,Elementary,취미,NA,*,hobby*,290
+1328,hold,Elementary,잡다,NA,*,hold*,290
+1329,hole,MidHigh,구멍,NA,**,hole**,290
+1330,holiday,Elementary,휴일,NA,*,holiday*,290
+1331,holy,Extended,성스러운,NA,None,holy,290
+1332,home,Elementary,집,NA,*,home*,290
+1333,homework,Elementary,숙제,NA,*,homework*,290
+1334,honest,Elementary,정직한,NA,*,honest*,290
+1335,honey,MidHigh,꿀,NA,**,honey**,290
+1336,honor,MidHigh,명예,honour,**,honor** / honour**,290
+1337,hook,Extended,갈고리,NA,None,hook,290
+1338,hope,Elementary,희망,NA,*,hope*,290
+1339,horizon,Extended,지평선,NA,None,horizon,290
+1340,horror,Extended,공포,NA,None,horror,290
+1341,horse,Elementary,말,NA,*,horse*,290
+1342,hospital,Elementary,병원,NA,*,hospital*,290
+1343,host,Extended,주인,NA,None,host,290
+1344,hostile,Extended,적대적인,NA,None,hostile,290
+1345,hot,Elementary,뜨거운,NA,*,hot*,290
+1346,hotel,MidHigh,호텔,NA,**,hotel**,290
+1347,hour,Elementary,시간,NA,*,hour*,290
+1348,house,Elementary,집,NA,*,house*,290
+1349,household,Extended,가정,NA,None,household,290
+1350,how,Elementary,어떻게,NA,*,how*,290
+1351,however,Elementary,그러나,NA,*,however*,290
+1352,hug,MidHigh,껴안다,NA,**,hug**,290
+1353,huge,MidHigh,거대한,NA,**,huge**,290
+1354,human,Elementary,인간,NA,*,human*,290
+1355,humor,MidHigh,유머,humour,**,humor** / humour**,290
+1356,hundred,Elementary,백,NA,*,hundred*,290
+1357,hunger,MidHigh,배고픔,hungry,**,hunger** (hungry),290
+1358,hunt,Elementary,사냥하다,NA,*,hunt*,290
+1359,hurry,Elementary,서두르다,NA,*,hurry*,290
+1360,hurt,MidHigh,다치게 하다,NA,**,hurt**,290
+1361,husband,Elementary,남편,NA,*,husband*,290
+1362,hut,Extended,오두막,NA,None,hut,290
+1363,hypothesis,Extended,가설,NA,None,hypothesis,290
+1364,I,Elementary,나,NA,*,I*,290
+1365,ice,Elementary,얼음,NA,*,ice*,290
+1366,idea,Elementary,생각,NA,*,idea*,290
+1367,ideal,Extended,이상적인,NA,None,ideal,290
+1368,identical,Extended,똑같은,NA,None,identical,290
+1369,identity,MidHigh,정체성,identify,**,identity** (identify),290
+1370,ideology,Extended,이념,NA,None,ideology,290
+1371,if,Elementary,만약,NA,*,if*,290
+1372,ignore,MidHigh,무시하다,NA,**,ignore**,290
+1373,ill,MidHigh,아픈,NA,**,ill**,290
+1374,illude,Extended,속이다,illusion,None,illude (illusion),290
+1375,illustrate,MidHigh,설명하다,NA,**,illustrate**,290
+1376,image,Elementary,이미지,NA,*,image*,290
+1377,imagine,MidHigh,상상하다,NA,**,imagine**,290
+1378,imitate,Extended,모방하다,NA,None,imitate,290
+1379,immediate,MidHigh,즉각적인,NA,**,immediate**,290
+1380,immense,Extended,거대한,NA,None,immense,290
+1381,immigrate,Extended,이민 오다,NA,None,immigrate,290
+1382,immune,Extended,면역이 있는,NA,None,immune,290
+1383,impact,Extended,영향,NA,None,impact,291
+1384,imperial,Extended,제국의,NA,None,imperial,291
+1385,implement,Extended,실행하다,NA,None,implement,291
+1386,imply,Extended,암시하다,NA,None,imply,291
+1387,import,Extended,수입하다,"importance, important",None,"import (importance, important)",291
+1388,impose,Extended,부과하다,NA,None,impose,291
+1389,impress,MidHigh,감명을 주다,NA,**,impress**,291
+1390,improve,MidHigh,개선하다,NA,**,improve**,291
+1391,in,Elementary,~안에,NA,*,in*,291
+1392,incentive,Extended,유인책,NA,None,incentive,291
+1393,incident,Extended,사건,NA,None,incident,291
+1394,incline,Extended,기울다,NA,None,incline,291
+1395,include,MidHigh,포함하다,NA,**,include**,291
+1396,income,MidHigh,소득,NA,**,income**,291
+1397,incorporate,Extended,통합하다,NA,None,incorporate,291
+1398,increase,MidHigh,증가하다,NA,**,increase**,291
+1399,indeed,MidHigh,실제로,NA,**,indeed**,291
+1400,index,Extended,색인,NA,None,index,291
+1401,indicate,MidHigh,나타내다,NA,**,indicate**,291
+1402,individual,MidHigh,개인의,NA,**,individual**,291
+1403,induce,Extended,유발하다,NA,None,induce,291
+1404,industry,MidHigh,산업,NA,**,industry**,291
+1405,infant,Extended,유아,NA,None,infant,291
+1406,infect,Extended,감염시키다,NA,None,infect,291
+1407,infer,Extended,추론하다,inference,None,infer (inference),291
+1408,inflate,Extended,부풀리다,NA,None,inflate,291
+1409,influence,MidHigh,영향,NA,**,influence**,291
+1410,inform,MidHigh,알리다,NA,**,inform**,291
+1411,ingredient,Extended,재료,NA,None,ingredient,291
+1412,inhabit,Extended,살다,NA,None,inhabit,291
+1413,inherent,Extended,내재적인,NA,None,inherent,291
+1414,inhibit,Extended,억제하다,NA,None,inhibit,291
+1415,initial,Extended,처음의,NA,None,initial,291
+1416,inject,Extended,주입하다,NA,None,inject,291
+1417,injure,MidHigh,다치게 하다,NA,**,injure**,291
+1418,inn,Extended,여관,NA,None,inn,291
+1419,innocent,MidHigh,무고한,NA,**,innocent**,291
+1420,innovate,Extended,혁신하다,NA,None,innovate,291
+1421,input,Extended,입력,NA,None,input,291
+1422,inquire,Extended,문의하다,enquire,None,inquire / enquire,291
+1423,insect,Extended,곤충,NA,None,insect,291
+1424,insert,Extended,삽입하다,NA,None,insert,291
+1425,inside,Elementary,안쪽,NA,*,inside*,291
+1426,insight,Extended,통찰력,NA,None,insight,291
+1427,insist,MidHigh,주장하다,NA,**,insist**,291
+1428,inspect,MidHigh,검사하다,NA,**,inspect**,291
+1429,inspire,Extended,영감을 주다,NA,None,inspire,291
+1430,install,Extended,설치하다,NA,None,install,291
+1431,instance,MidHigh,사례,NA,**,instance**,291
+1432,instant,MidHigh,즉각적인,NA,**,instant**,291
+1433,instead,MidHigh,대신에,NA,**,instead**,291
+1434,instinct,Extended,본능,NA,None,instinct,291
+1435,institute,Extended,기관,institution,None,institute (institution),291
+1436,instruct,MidHigh,지시하다,NA,**,instruct**,291
+1437,instrument,MidHigh,도구,NA,**,instrument**,291
+1438,insult,Extended,모욕하다,NA,None,insult,291
+1439,insure,MidHigh,보험에 들다,insurance,**,insure** (insurance),291
+1440,integrate,Extended,통합하다,NA,None,integrate,291
+1441,intellect,Extended,지성,intellectual,None,intellect (intellectual),291
+1442,intelligent,Extended,지적인,NA,None,intelligent,291
+1443,intend,MidHigh,의도하다,NA,**,intend**,291
+1444,intense,MidHigh,강렬한,NA,**,intense**,291
+1445,intent,MidHigh,의도,intention,**,intent** (intention),291
+1446,interest,MidHigh,관심,NA,**,interest**,291
+1447,interfere,Extended,방해하다,NA,None,interfere,291
+1448,interior,Extended,내부,NA,None,interior,291
+1449,intermediate,Extended,중간의,NA,None,intermediate,291
+1450,internal,MidHigh,내부의,NA,**,internal**,291
+1451,internet,Elementary,인터넷,NA,*,internet*,291
+1452,interpret,Extended,해석하다,NA,None,interpret,291
+1453,interrupt,MidHigh,중단시키다,NA,**,interrupt**,291
+1454,interval,Extended,간격,NA,None,interval,291
+1455,intervene,Extended,개입하다,NA,None,intervene,291
+1456,intimate,Extended,친밀한,NA,None,intimate,291
+1457,into,Elementary,~안으로,NA,*,into*,291
+1458,intrigue,Extended,흥미를 돋우다,NA,None,intrigue,291
+1459,introduce,Elementary,소개하다,NA,*,introduce*,291
+1460,invade,Extended,침입하다,NA,None,invade,291
+1461,invent,MidHigh,발명하다,inventor,**,invent** (inventor),291
+1462,invest,MidHigh,투자하다,NA,**,invest**,291
+1463,investigate,MidHigh,조사하다,NA,**,investigate**,291
+1464,invite,Elementary,초대하다,NA,*,invite*,291
+1465,involve,MidHigh,포함하다,NA,**,involve**,291
+1466,iron,MidHigh,철,NA,**,iron**,291
+1467,irony,Extended,반어,NA,None,irony,291
+1468,irritate,Extended,짜증 나게 하다,NA,None,irritate,291
+1469,island,MidHigh,섬,NA,**,island**,291
+1470,isolate,Extended,고립시키다,NA,None,isolate,291
+1471,issue,Elementary,문제,NA,*,issue*,291
+1472,it,Elementary,그것,NA,*,it*,291
+1473,item,MidHigh,항목,NA,**,item**,291
+1474,jacket,Elementary,재킷,NA,*,jacket*,292
+1475,jail,Extended,감옥,NA,None,jail,292
+1476,jam,Elementary,잼,NA,*,jam*,292
+1477,jar,Extended,항아리,NA,None,jar,292
+1478,jaw,MidHigh,턱,NA,**,jaw**,292
+1479,jeans,MidHigh,청바지,NA,**,jeans**,292
+1480,job,Elementary,일,NA,*,job*,292
+1481,jog,Extended,조깅하다,NA,None,jog,292
+1482,join,Elementary,가입하다,NA,*,join*,292
+1483,joint,Extended,관절,NA,None,joint,292
+1484,joke,MidHigh,농담,NA,**,joke**,292
+1485,journal,Extended,학술지,NA,None,journal,292
+1486,journey,MidHigh,여행,NA,**,journey**,292
+1487,joy,MidHigh,기쁨,enjoy,**,joy** (enjoy),292
+1488,judge,MidHigh,판사,NA,**,judge**,292
+1489,juice,Elementary,주스,NA,*,juice*,292
+1490,jump,Elementary,뛰다,NA,*,jump*,292
+1491,junior,MidHigh,후배,NA,**,junior**,292
+1492,jury,Extended,배심원단,NA,None,jury,292
+1493,just,Elementary,단지,NA,*,just*,292
+1494,justice,MidHigh,정의,NA,**,justice**,292
+1495,keen,Extended,열심인,NA,None,keen,292
+1496,keep,Elementary,유지하다,NA,*,keep*,292
+1497,key,Elementary,열쇠,NA,*,key*,292
+1498,kick,Elementary,차다,NA,*,kick*,292
+1499,kid,Elementary,아이,NA,*,kid*,292
+1500,kill,Elementary,죽이다,NA,*,kill*,292
+1501,kind,Elementary,친절한,NA,*,kind*,292
+1502,king,Elementary,왕,NA,*,king*,292
+1503,kiss,Elementary,입맞춤,NA,*,kiss*,292
+1504,kit,Extended,도구 세트,NA,None,kit,292
+1505,kitchen,Elementary,부엌,NA,*,kitchen*,292
+1506,knee,MidHigh,무릎,NA,**,knee**,292
+1507,knife,Elementary,칼,NA,*,knife*,292
+1508,knight,Extended,기사,NA,None,knight,292
+1509,knock,MidHigh,두드리다,NA,**,knock**,292
+1510,knot,Extended,매듭,NA,None,knot,292
+1511,know,Elementary,알다,NA,*,know*,292
+1512,knowledge,MidHigh,지식,NA,**,knowledge**,292
+1513,label,MidHigh,상표,NA,**,label**,292
+1514,labor,MidHigh,노동,labour,**,labor** / labour**,292
+1515,laboratory,MidHigh,실험실,lab,**,laboratory** / lab**,292
+1516,lack,MidHigh,부족,NA,**,lack**,292
+1517,ladder,Extended,사다리,NA,None,ladder,292
+1518,lady,Elementary,숙녀,NA,*,lady*,292
+1519,lake,Elementary,호수,NA,*,lake*,292
+1520,lamb,MidHigh,어린 양,NA,**,lamb**,292
+1521,lamp,MidHigh,램프,NA,**,lamp**,292
+1522,land,Elementary,땅,NA,*,land*,292
+1523,landscape,Extended,풍경,NA,None,landscape,292
+1524,lane,MidHigh,차선,NA,**,lane**,292
+1525,language,MidHigh,언어,NA,**,language**,292
+1526,lap,Extended,무릎,NA,None,lap,292
+1527,large,Elementary,큰,NA,*,large*,292
+1528,laser,Elementary,레이저,NA,*,laser*,292
+1529,last,Elementary,마지막,NA,*,last*,292
+1530,late,Elementary,늦은,NA,*,late*,292
+1531,latter,Extended,후자의,NA,None,latter,292
+1532,laugh,MidHigh,웃다,NA,**,laugh**,292
+1533,launch,Extended,발사하다,NA,None,launch,292
+1534,laundry,Extended,세탁물,NA,None,laundry,292
+1535,law,MidHigh,법,NA,**,law**,292
+1536,lawn,MidHigh,잔디,NA,**,lawn**,292
+1537,lawyer,MidHigh,변호사,NA,**,lawyer**,292
+1538,lay,MidHigh,놓다,layer,**,lay** (layer),292
+1539,lazy,Elementary,게으른,NA,*,lazy*,292
+1540,lead,MidHigh,이끌다,NA,**,lead**,292
+1541,leaf,MidHigh,잎,NA,**,leaf**,292
+1542,league,MidHigh,연맹,NA,**,league**,292
+1543,leak,Extended,새다,NA,None,leak,292
+1544,lean,MidHigh,기대다,NA,**,lean**,292
+1545,leap,MidHigh,도약하다,NA,**,leap**,292
+1546,learn,Elementary,배우다,NA,*,learn*,292
+1547,lease,Extended,임대차,NA,None,lease,292
+1548,leather,Extended,가죽,NA,None,leather,292
+1549,leave,MidHigh,떠나다,NA,**,leave**,292
+1550,lecture,Extended,강의,NA,None,lecture,292
+1551,left,Elementary,왼쪽,NA,*,left*,292
+1552,leg,Elementary,다리,NA,*,leg*,292
+1553,legal,MidHigh,법적인,NA,**,legal**,292
+1554,legend,Extended,전설,NA,None,legend,292
+1555,legislate,Extended,법률을 제정하다,NA,None,legislate,292
+1556,legitimate,Extended,합법적인,NA,None,legitimate,292
+1557,leisure,Extended,여가,NA,None,leisure,292
+1558,lemon,MidHigh,레몬,NA,**,lemon**,292
+1559,lend,MidHigh,빌려주다,NA,**,lend**,292
+1560,lesson,Elementary,수업,NA,*,lesson*,292
+1561,let,MidHigh,허락하다,NA,**,let**,292
+1562,letter,Elementary,편지,literal,*,letter* (literal),293
+1563,level,MidHigh,수준,NA,**,level**,293
+1564,liberal,Extended,자유주의의,NA,None,liberal,293
+1565,liberty,Extended,자유,NA,None,liberty,293
+1566,library,Elementary,도서관,NA,*,library*,293
+1567,license,MidHigh,면허,licence,**,license** / licence**,293
+1568,lid,MidHigh,뚜껑,NA,**,lid**,293
+1569,lie,Elementary,거짓말하다,NA,*,lie*,293
+1570,life,Elementary,삶,NA,*,life*,293
+1571,lift,MidHigh,들어 올리다,NA,**,lift**,293
+1572,light,Elementary,빛,NA,*,light*,293
+1573,like,Elementary,좋아하다,likely,*,like* (likely),293
+1574,likewise,Extended,마찬가지로,NA,None,likewise,293
+1575,limit,MidHigh,한계,NA,**,limit**,293
+1576,line,Elementary,선,NA,*,line*,293
+1577,linguistic,Extended,언어학적인,NA,None,linguistic,293
+1578,link,MidHigh,연결,NA,**,link**,293
+1579,lion,Elementary,사자,NA,*,lion*,293
+1580,lip,Elementary,입술,NA,*,lip*,293
+1581,liquid,Extended,액체,NA,None,liquid,293
+1582,list,MidHigh,목록,NA,**,list**,293
+1583,listen,Elementary,듣다,NA,*,listen*,293
+1584,literature,Extended,문학,NA,None,literature,293
+1585,little,Elementary,작은,NA,*,little*,293
+1586,live,Elementary,살다,NA,*,live*,293
+1587,livingroom,MidHigh,거실,NA,**,livingroom**,293
+1588,load,MidHigh,짐,NA,**,load**,293
+1589,loan,MidHigh,대출,NA,**,loan**,293
+1590,local,MidHigh,지역의,NA,**,local**,293
+1591,locate,MidHigh,위치를 찾다,NA,**,locate**,293
+1592,lock,MidHigh,잠그다,NA,**,lock**,293
+1593,log,MidHigh,통나무,NA,**,log**,293
+1594,logic,Extended,논리,NA,None,logic,293
+1595,lone,Extended,홀로 있는,NA,None,lone,293
+1596,long,Elementary,긴,NA,*,long*,293
+1597,look,Elementary,보다,NA,*,look*,293
+1598,loose,MidHigh,느슨한,NA,**,loose**,293
+1599,lose,MidHigh,잃다,NA,**,lose**,293
+1600,loss,MidHigh,손실,NA,**,loss**,293
+1601,lot,MidHigh,많음,NA,**,lot**,293
+1602,loud,MidHigh,시끄러운,NA,**,loud**,293
+1603,love,Elementary,사랑,NA,*,love*,293
+1604,low,Elementary,낮은,NA,*,low*,293
+1605,loyal,Extended,충성스러운,NA,None,loyal,293
+1606,luck,Elementary,운,NA,*,luck*,293
+1607,lump,Extended,덩어리,NA,None,lump,293
+1608,lunch,Elementary,점심,NA,*,lunch*,293
+1609,luxury,Extended,사치,NA,None,luxury,293
+1610,machine,MidHigh,기계,NA,**,machine**,293
+1611,mad,Elementary,화난,NA,*,mad*,293
+1612,magazine,MidHigh,잡지,NA,**,magazine**,293
+1613,magic,MidHigh,마술,NA,**,magic**,293
+1614,magnet,Extended,자석,NA,None,magnet,293
+1615,magnificent,Extended,장엄한,NA,None,magnificent,293
+1616,mail,Elementary,우편,NA,*,mail*,293
+1617,main,MidHigh,주요한,NA,**,main**,293
+1618,maintain,MidHigh,유지하다,NA,**,maintain**,293
+1619,major,MidHigh,주요한,majority,**,major** (majority),293
+1620,make,Elementary,만들다,NA,*,make*,293
+1621,male,MidHigh,남성,NA,**,male**,293
+1622,man,Elementary,남자,NA,*,man*,293
+1623,manage,MidHigh,관리하다,NA,**,manage**,293
+1624,manifest,Extended,명백하게 나타내다,NA,None,manifest,293
+1625,manipulate,Extended,조작하다,NA,None,manipulate,293
+1626,manner,MidHigh,방식,NA,**,manner**,293
+1627,manufacture,MidHigh,제조하다,NA,**,manufacture**,293
+1628,many,Elementary,많은,NA,*,many*,293
+1629,map,Elementary,지도,NA,*,map*,293
+1630,marathon,Elementary,마라톤,NA,*,marathon*,293
+1631,margin,Extended,여백,NA,None,margin,293
+1632,marine,Extended,해양의,NA,None,marine,293
+1633,mark,MidHigh,표시,NA,**,mark**,293
+1634,market,Elementary,시장,NA,*,market*,293
+1635,marry,Elementary,결혼하다,NA,*,marry*,293
+1636,marvel,MidHigh,경이,NA,**,marvel**,293
+1637,mask,MidHigh,가면,NA,**,mask**,293
+1638,mass,MidHigh,대량,NA,**,mass**,293
+1639,master,MidHigh,주인,NA,**,master**,293
+1640,match,MidHigh,경기,NA,**,match**,293
+1641,mate,MidHigh,동료,NA,**,mate**,293
+1642,mathematics,Elementary,수학,"maths, math",*,mathematics* / maths* / math*,293
+1643,matter,MidHigh,문제,material,**,matter** (material),293
+1644,mature,Extended,성숙한,NA,None,mature,293
+1645,maximum,MidHigh,최대의,NA,**,maximum**,293
+1646,may,Elementary,~일지도 모른다,NA,*,may*,293
+1647,maybe,MidHigh,아마도,NA,**,maybe**,293
+1648,mayor,Extended,시장,NA,None,mayor,293
+1649,meal,MidHigh,식사,NA,**,meal**,293
+1650,mean,MidHigh,의미하다,NA,**,mean**,293
+1651,meanwhile,Extended,그동안,NA,None,meanwhile,293
+1652,measure,MidHigh,측정하다,NA,**,measure**,293
+1653,meat,Elementary,고기,NA,*,meat*,294
+1654,mechanic,Extended,정비사,NA,None,mechanic,294
+1655,mechanism,Extended,기제,NA,None,mechanism,294
+1656,medal,Elementary,메달,NA,*,medal*,294
+1657,mediate,Extended,중재하다,NA,None,mediate,294
+1658,medical,MidHigh,의료의,NA,**,medical**,294
+1659,medicine,MidHigh,약,NA,**,medicine**,294
+1660,medieval,Extended,중세의,NA,None,medieval,294
+1661,medium,Extended,매체,media,None,medium (media),294
+1662,meet,Elementary,만나다,NA,*,meet*,294
+1663,melon,MidHigh,멜론,NA,**,melon**,294
+1664,melt,MidHigh,녹다,NA,**,melt**,294
+1665,member,Elementary,구성원,membership,*,member* (membership),294
+1666,memory,Elementary,기억,NA,*,memory*,294
+1667,mental,MidHigh,정신적인,NA,**,mental**,294
+1668,mention,MidHigh,언급하다,NA,**,mention**,294
+1669,menu,MidHigh,메뉴,NA,**,menu**,294
+1670,merchant,Extended,상인,NA,None,merchant,294
+1671,mere,Extended,단순한,NA,None,mere,294
+1672,merge,Extended,합병하다,NA,None,merge,294
+1673,merit,Extended,장점,NA,None,merit,294
+1674,mess,MidHigh,혼란,NA,**,mess**,294
+1675,message,MidHigh,메시지,NA,**,message**,294
+1676,metal,MidHigh,금속,NA,**,metal**,294
+1677,method,MidHigh,방법,NA,**,method**,294
+1678,metropolitan,Extended,대도시의,NA,None,metropolitan,294
+1679,microphone,Extended,마이크,NA,None,microphone,294
+1680,microwave,MidHigh,전자레인지,NA,**,microwave**,294
+1681,middle,Elementary,중간,NA,*,middle*,294
+1682,might,Elementary,~할지도 모른다,NA,*,might*,294
+1683,migrate,Extended,이주하다,migrant,None,migrate (migrant),294
+1684,mild,Extended,온화한,NA,None,mild,294
+1685,military,MidHigh,군대의,NA,**,military**,294
+1686,milk,Elementary,우유,NA,*,milk*,294
+1687,mill,MidHigh,방앗간,NA,**,mill**,294
+1688,million,Extended,백만,NA,None,million,294
+1689,mind,Elementary,마음,NA,*,mind*,294
+1690,mine,Extended,광산,miner,None,mine (miner),294
+1691,mineral,Extended,광물,NA,None,mineral,294
+1692,minimal,Extended,최소의,NA,None,minimal,294
+1693,minimum,Extended,최소한,NA,None,minimum,294
+1694,ministry,Extended,부처,NA,None,ministry,294
+1695,minor,MidHigh,사소한,NA,**,minor**,294
+1696,minute,MidHigh,분,NA,**,minute**,294
+1697,miracle,Extended,기적,NA,None,miracle,294
+1698,mirror,MidHigh,거울,NA,**,mirror**,294
+1699,miss,Elementary,놓치다,NA,*,miss*,294
+1700,missile,Extended,미사일,NA,None,missile,294
+1701,mission,MidHigh,임무,NA,**,mission**,294
+1702,mix,MidHigh,섞다,NA,**,mix**,294
+1703,mobile,Extended,이동식의,NA,None,mobile,294
+1704,mock,Extended,흉내 내다,NA,None,mock,294
+1705,mode,Extended,방식,NA,None,mode,294
+1706,modify,Extended,수정하다,NA,None,modify,294
+1707,model,Elementary,모형,NA,*,model*,294
+1708,moderate,Extended,적당한,NA,None,moderate,294
+1709,modern,MidHigh,현대의,NA,**,modern**,294
+1710,modest,Extended,겸손한,NA,None,modest,294
+1711,moist,Extended,축축한,moisture,None,moist (moisture),294
+1712,molecule,Extended,분자,NA,None,molecule,294
+1713,moment,MidHigh,순간,NA,**,moment**,294
+1714,money,Elementary,돈,NA,*,money*,294
+1715,monitor,MidHigh,감시하다,NA,**,monitor**,294
+1716,monkey,Elementary,원숭이,NA,*,monkey*,294
+1717,monster,Extended,괴물,NA,None,monster,294
+1718,month,Elementary,달,NA,*,month*,294
+1719,monument,Extended,기념물,NA,None,monument,294
+1720,mood,MidHigh,기분,NA,**,mood**,294
+1721,moon,Elementary,달,half-moon,*,moon* (half-moon),294
+1722,moral,MidHigh,도덕적인,NA,**,moral**,294
+1723,moreover,MidHigh,게다가,NA,**,moreover**,294
+1724,morning,Elementary,아침,NA,*,morning*,294
+1725,mortal,Extended,죽을 운명의,NA,None,mortal,294
+1726,mother,Elementary,어머니,"mom, mommy",*,"mother* (mom, mommy)",294
+1727,motion,MidHigh,움직임,NA,**,motion**,294
+1728,motive,Extended,동기,NA,None,motive,294
+1729,motor,MidHigh,모터,NA,**,motor**,294
+1730,mount,MidHigh,오르다,NA,**,mount**,294
+1731,mountain,Elementary,산,NA,*,mountain*,294
+1732,mouse,Elementary,쥐,NA,*,mouse*,294
+1733,mouth,Elementary,입,NA,*,mouth*,294
+1734,move,Elementary,움직이다,NA,*,move*,294
+1735,movie,Elementary,영화,NA,*,movie*,294
+1736,much,Elementary,많은,NA,*,much*,294
+1737,mud,MidHigh,진흙,NA,**,mud**,294
+1738,multiple,Extended,다수의,NA,None,multiple,294
+1739,murder,Extended,살인,NA,None,murder,294
+1740,muscle,MidHigh,근육,NA,**,muscle**,294
+1741,museum,MidHigh,박물관,NA,**,museum**,294
+1742,mushroom,MidHigh,버섯,NA,**,mushroom**,294
+1743,music,Elementary,음악,NA,*,music*,294
+1744,must,Elementary,~해야 한다,NA,*,must*,294
+1745,mutual,Extended,상호의,NA,None,mutual,294
+1746,mystery,MidHigh,수수께끼,NA,**,mystery**,294
+1747,myth,Extended,신화,NA,None,myth,294
+1748,nail,MidHigh,손톱,NA,**,nail**,295
+1749,naive,Extended,순진한,NA,None,naive,295
+1750,naked,Extended,벌거벗은,NA,None,naked,295
+1751,name,Elementary,이름,NA,*,name*,295
+1752,narrate,Extended,이야기하다,NA,None,narrate,295
+1753,narrow,MidHigh,좁은,NA,**,narrow**,295
+1754,nasty,Extended,불쾌한,NA,None,nasty,295
+1755,nation,Elementary,국가,international,*,nation* (international),295
+1756,native,MidHigh,토박이의,NA,**,native**,295
+1757,nature,Elementary,자연,NA,*,nature*,295
+1758,navy,MidHigh,해군,NA,**,navy**,295
+1759,near,Elementary,가까운,NA,*,near*,295
+1760,neat,MidHigh,단정한,NA,**,neat**,295
+1761,necessary,MidHigh,필요한,NA,**,necessary**,295
+1762,neck,Elementary,목,NA,*,neck*,295
+1763,need,Elementary,필요하다,NA,*,need*,295
+1764,needle,Extended,바늘,NA,None,needle,295
+1765,negate,Extended,부정하다,negative,None,negate (negative),295
+1766,neglect,Extended,소홀히 하다,NA,None,neglect,295
+1767,negotiate,Extended,협상하다,NA,None,negotiate,295
+1768,neighbor,MidHigh,이웃,neighbour,**,neighbor** / neighbour**,295
+1769,neither,MidHigh,둘 다 아닌,NA,**,neither**,295
+1770,nephew,Extended,조카,NA,None,nephew,295
+1771,nerve,MidHigh,신경,nervous,**,nerve** (nervous),295
+1772,nest,MidHigh,둥지,NA,**,nest**,295
+1773,net,MidHigh,그물,NA,**,net**,295
+1774,network,Extended,네트워크,NA,None,network,295
+1775,neutral,Extended,중립적인,NA,None,neutral,295
+1776,never,Elementary,결코,NA,*,never*,295
+1777,nevertheless,Extended,그럼에도 불구하고,NA,None,nevertheless,295
+1778,new,Elementary,새로운,NA,*,new*,295
+1779,news,Elementary,뉴스,NA,*,news*,295
+1780,newspaper,Elementary,신문,NA,*,newspaper*,295
+1781,next,Elementary,다음의,NA,*,next*,295
+1782,nice,Elementary,좋은,NA,*,nice*,295
+1783,night,Elementary,밤,NA,*,night*,295
+1784,nightmare,Extended,악몽,NA,None,nightmare,295
+1785,nine,Elementary,아홉,NA,*,nine*,295
+1786,no,Elementary,아니,"nope, nay",*,no* / nope* / nay*,295
+1787,noble,Extended,고귀한,NA,None,noble,295
+1788,nod,Extended,끄덕이다,NA,None,nod,295
+1789,noise,MidHigh,소음,NA,**,noise**,295
+1790,nominate,Extended,지명하다,NA,None,nominate,295
+1791,none,MidHigh,아무것도 없는,NA,**,none**,295
+1792,nonetheless,Extended,그렇지만,NA,None,nonetheless,295
+1793,noon,MidHigh,정오,NA,**,noon**,295
+1794,nor,MidHigh,~도 아니다,NA,**,nor**,295
+1795,norm,Extended,규범,normal,None,norm (normal),295
+1796,north,Elementary,북쪽,NA,*,north*,295
+1797,nose,Elementary,코,NA,*,nose*,295
+1798,not,Elementary,~않다,NA,*,not*,295
+1799,note,Elementary,메모,notion,*,note* (notion),295
+1800,notebook,Elementary,공책,NA,*,notebook*,295
+1801,nothing,Elementary,아무것도,NA,*,nothing*,295
+1802,notice,MidHigh,알아채다,NA,**,notice**,295
+1803,novel,Extended,소설,NA,None,novel,295
+1804,now,Elementary,지금,NA,*,now*,295
+1805,nowadays,MidHigh,요즘,NA,**,nowadays**,295
+1806,nowhere,MidHigh,아무 데도,NA,**,nowhere**,295
+1807,nuclear,Extended,핵의,NA,None,nuclear,295
+1808,number,Elementary,숫자,NA,*,number*,295
+1809,numerous,Extended,수많은,NA,None,numerous,295
+1810,nurse,Elementary,간호사,NA,*,nurse*,295
+1811,nut,MidHigh,견과,NA,**,nut**,295
+1812,oak,MidHigh,참나무,NA,**,oak**,295
+1813,obey,Extended,복종하다,NA,None,obey,295
+1814,object,MidHigh,물체,objective,**,object** (objective),295
+1815,oblige,Extended,의무를 지우다,NA,None,oblige,295
+1816,observe,MidHigh,관찰하다,NA,**,observe**,295
+1817,obsess,Extended,집착하다,NA,None,obsess,295
+1818,obtain,Extended,획득하다,NA,None,obtain,295
+1819,obvious,MidHigh,명백한,NA,**,obvious**,295
+1820,occasion,MidHigh,경우,NA,**,occasion**,295
+1821,occupy,Extended,차지하다,occupation,None,occupy (occupation),295
+1822,occur,MidHigh,발생하다,occurrence,**,occur** (occurrence),295
+1823,ocean,MidHigh,대양,NA,**,ocean**,295
+1824,odd,MidHigh,이상한,NA,**,odd**,295
+1825,of,Elementary,~의,NA,*,of*,295
+1826,off,Elementary,떨어져,NA,*,off*,295
+1827,offend,Extended,기분을 상하게 하다,NA,None,offend,295
+1828,offer,MidHigh,제안하다,NA,**,offer**,295
+1829,office,Elementary,사무실,official,*,office* (official),295
+1830,officer,MidHigh,직원,NA,**,officer**,295
+1831,often,Elementary,자주,NA,*,often*,295
+1832,oil,Elementary,기름,NA,*,oil*,295
+1833,okay,Elementary,괜찮은,"okey, OK",*,okay* / okey* / OK*,295
+1834,old,Elementary,오래된,NA,*,old*,295
+1835,on,Elementary,~위에,NA,*,on*,295
+1836,once,MidHigh,한 번,NA,**,once**,295
+1837,one,Elementary,하나,NA,*,one*,296
+1838,only,Elementary,오직,NA,*,only*,296
+1839,open,Elementary,열다,NA,*,open*,296
+1840,opera,MidHigh,오페라,NA,**,opera**,296
+1841,operate,MidHigh,작동하다,NA,**,operate**,296
+1842,opinion,MidHigh,의견,NA,**,opinion**,296
+1843,opportune,Extended,시기적절한,opportunity,None,opportune (opportunity),296
+1844,oppose,MidHigh,반대하다,NA,**,oppose**,296
+1845,opt,Extended,선택하다,option,None,opt (option),296
+1846,optimist,Extended,낙관주의자,NA,None,optimist,296
+1847,or,Elementary,또는,NA,*,or*,296
+1848,oral,Extended,구술의,NA,None,oral,296
+1849,orange,Elementary,오렌지,NA,*,orange*,296
+1850,orbit,Extended,궤도,NA,None,orbit,296
+1851,orchestra,Extended,관현악단,NA,None,orchestra,296
+1852,order,MidHigh,명령,disorder,**,order** (disorder),296
+1853,ordinary,MidHigh,보통의,NA,**,ordinary**,296
+1854,organ,Extended,기관,"organic, organize, organise",None,"organ (organic, organize / organise)",296
+1855,orient,Extended,방향을 정하다,orientation,None,orient (orientation),296
+1856,origin,Extended,기원,original,None,origin (original),296
+1857,other,MidHigh,다른,NA,**,other**,296
+1858,otherwise,MidHigh,그렇지 않으면,NA,**,otherwise**,296
+1859,ought,MidHigh,~해야 한다,NA,**,ought**,296
+1860,out,Elementary,밖으로,NA,*,out*,296
+1861,outcome,Extended,결과,NA,None,outcome,296
+1862,outline,Extended,개요,NA,None,outline,296
+1863,output,Extended,출력,NA,None,output,296
+1864,outrage,Extended,격분,NA,None,outrage,296
+1865,outstanding,Extended,뛰어난,NA,None,outstanding,296
+1866,oven,MidHigh,오븐,NA,**,oven**,296
+1867,over,Elementary,~너머로,NA,*,over*,296
+1868,overall,MidHigh,전체의,NA,**,overall**,296
+1869,overcome,Extended,극복하다,NA,None,overcome,296
+1870,overhead,Extended,머리 위의,NA,None,overhead,296
+1871,overlap,Extended,겹치다,NA,None,overlap,296
+1872,overlook,Extended,간과하다,NA,None,overlook,296
+1873,overnight,Extended,밤사이에,NA,None,overnight,296
+1874,oversea,Extended,해외의,overseas,None,oversea / overseas,296
+1875,overwhelm,Extended,압도하다,NA,None,overwhelm,296
+1876,owe,Extended,빚지다,NA,None,owe,296
+1877,own,MidHigh,소유하다,NA,**,own**,296
+1878,pace,Extended,속도,NA,None,pace,296
+1879,pack,MidHigh,꾸러미,NA,**,pack**,296
+1880,pad,Extended,받침,NA,None,pad,296
+1881,page,Elementary,쪽,NA,*,page*,296
+1882,pain,MidHigh,고통,NA,**,pain**,296
+1883,paint,Elementary,칠하다,NA,*,paint*,296
+1884,pair,MidHigh,한 쌍,NA,**,pair**,296
+1885,palace,MidHigh,궁전,NA,**,palace**,296
+1886,pale,Extended,창백한,NA,None,pale,296
+1887,palm,Extended,손바닥,NA,None,palm,296
+1888,pan,MidHigh,팬,NA,**,pan**,296
+1889,panel,Extended,위원단,NA,None,panel,296
+1890,panic,MidHigh,공황,NA,**,panic**,296
+1891,pants,Elementary,바지,NA,*,pants*,296
+1892,paper,Elementary,종이,NA,*,paper*,296
+1893,parade,MidHigh,행진,NA,**,parade**,296
+1894,paragraph,MidHigh,문단,NA,**,paragraph**,296
+1895,parallel,Extended,평행한,NA,None,parallel,296
+1896,pardon,MidHigh,용서하다,NA,**,pardon**,296
+1897,parent,Elementary,부모,NA,*,parent*,296
+1898,park,Elementary,공원,NA,*,park*,296
+1899,parliament,Extended,의회,NA,None,parliament,296
+1900,part,Elementary,부분,NA,*,part*,296
+1901,participate,Extended,참가하다,NA,None,participate,296
+1902,particle,Extended,입자,NA,None,particle,296
+1903,particular,MidHigh,특정한,particularly,**,particular** (particularly),296
+1904,partner,Elementary,동반자,NA,*,partner*,296
+1905,party,Elementary,파티,NA,*,party*,296
+1906,pass,Elementary,통과하다,NA,*,pass*,296
+1907,passage,Extended,통로,NA,None,passage,296
+1908,passenger,Extended,승객,NA,None,passenger,296
+1909,passion,Extended,열정,NA,None,passion,296
+1910,passport,Extended,여권,NA,None,passport,296
+1911,past,MidHigh,과거,NA,**,past**,296
+1912,pat,Extended,가볍게 두드리다,NA,None,pat,296
+1913,patch,Extended,헝겊 조각,NA,None,patch,296
+1914,patent,Extended,특허,NA,None,patent,296
+1915,path,MidHigh,길,NA,**,path**,296
+1916,patient,MidHigh,참을성 있는,NA,**,patient**,296
+1917,pattern,MidHigh,무늬,NA,**,pattern**,296
+1918,pause,MidHigh,잠시 멈춤,NA,**,pause**,296
+1919,pave,Extended,포장하다,NA,None,pave,296
+1920,pay,Elementary,지불하다,NA,*,pay*,296
+1921,peace,MidHigh,평화,peaceful,**,peace** (peaceful),296
+1922,peak,Extended,정상,NA,None,peak,296
+1923,pear,MidHigh,배,NA,**,pear**,296
+1924,peasant,Extended,농민,NA,None,peasant,296
+1925,peel,Extended,껍질을 벗기다,NA,None,peel,296
+1926,peer,Extended,동료,NA,None,peer,296
+1927,pen,Elementary,펜,NA,*,pen*,296
+1928,penalty,Extended,벌칙,NA,None,penalty,297
+1929,pencil,Elementary,연필,NA,*,pencil*,297
+1930,people,Elementary,사람들,NA,*,people*,297
+1931,pepper,MidHigh,후추,NA,**,pepper**,297
+1932,per,MidHigh,~마다,NA,**,per**,297
+1933,perceive,Extended,인식하다,perception,None,perceive (perception),297
+1934,perfect,MidHigh,완벽한,NA,**,perfect**,297
+1935,perform,MidHigh,수행하다,NA,**,perform**,297
+1936,perhaps,MidHigh,아마도,NA,**,perhaps**,297
+1937,period,MidHigh,기간,NA,**,period**,297
+1938,permanent,Extended,영구적인,NA,None,permanent,297
+1939,permit,Extended,허가하다,NA,None,permit,297
+1940,persist,Extended,지속하다,NA,None,persist,297
+1941,person,MidHigh,사람,personality,**,person** (personality),297
+1942,perspective,Extended,관점,NA,None,perspective,297
+1943,persuade,Extended,설득하다,NA,None,persuade,297
+1944,pet,MidHigh,애완동물,NA,**,pet**,297
+1945,phase,Extended,단계,NA,None,phase,297
+1946,phenomenon,Extended,현상,NA,None,phenomenon,297
+1947,philosophy,Extended,철학,NA,None,philosophy,297
+1948,photograph,MidHigh,사진,photo,**,photograph** / photo**,297
+1949,phrase,Extended,구,NA,None,phrase,297
+1950,physical,MidHigh,신체적인,NA,**,physical**,297
+1951,physics,Extended,물리학,NA,None,physics,297
+1952,piano,Elementary,피아노,NA,*,piano*,297
+1953,pick,Elementary,고르다,NA,*,pick*,297
+1954,picnic,MidHigh,소풍,NA,**,picnic**,297
+1955,picture,Elementary,그림,NA,*,picture*,297
+1956,pie,MidHigh,파이,NA,**,pie**,297
+1957,piece,MidHigh,조각,NA,**,piece**,297
+1958,pig,Elementary,돼지,NA,*,pig*,297
+1959,pile,MidHigh,더미,NA,**,pile**,297
+1960,pill,Extended,알약,NA,None,pill,297
+1961,pilot,Elementary,조종사,NA,*,pilot*,297
+1962,pin,MidHigh,핀,NA,**,pin**,297
+1963,pinch,Extended,꼬집다,NA,None,pinch,297
+1964,pine,MidHigh,소나무,NA,**,pine**,297
+1965,pink,Elementary,분홍색,NA,*,pink*,297
+1966,pioneer,Extended,선구자,NA,None,pioneer,297
+1967,pipe,MidHigh,파이프,NA,**,pipe**,297
+1968,pitch,MidHigh,던지다,NA,**,pitch**,297
+1969,pity,MidHigh,연민,NA,**,pity**,297
+1970,pizza,Elementary,피자,NA,*,pizza*,297
+1971,place,Elementary,장소,displace,*,place* (displace),297
+1972,plain,MidHigh,평범한,NA,**,plain**,297
+1973,plan,Elementary,계획,NA,*,plan*,297
+1974,plane,MidHigh,비행기,NA,**,plane**,297
+1975,planet,MidHigh,행성,NA,**,planet**,297
+1976,plant,MidHigh,식물,NA,**,plant**,297
+1977,plastic,Elementary,플라스틱,NA,*,plastic*,297
+1978,plate,MidHigh,접시,NA,**,plate**,297
+1979,platform,Extended,승강장,NA,None,platform,297
+1980,play,Elementary,놀다,NA,*,play*,297
+1981,please,Elementary,기쁘게 하다,"pleasant, pleasure",*,"please* (pleasant, pleasure)",297
+1982,plenty,MidHigh,풍부함,NA,**,plenty**,297
+1983,plot,Extended,줄거리,NA,None,plot,297
+1984,plus,MidHigh,더하기,NA,**,plus**,297
+1985,pocket,MidHigh,주머니,NA,**,pocket**,297
+1986,poem,MidHigh,시,NA,**,poem**,297
+1987,poet,MidHigh,시인,NA,**,poet**,297
+1988,point,Elementary,지점,NA,*,point*,297
+1989,poison,MidHigh,독,NA,**,poison**,297
+1990,pole,MidHigh,막대,polar,**,pole** (polar),297
+1991,police,Elementary,경찰,NA,*,police*,297
+1992,policy,MidHigh,정책,NA,**,policy**,297
+1993,polish,Extended,닦다,NA,None,polish,297
+1994,polite,MidHigh,예의 바른,NA,**,polite**,297
+1995,politics,MidHigh,정치,NA,**,politics**,297
+1996,poll,Extended,여론 조사,NA,None,poll,297
+1997,pollute,MidHigh,오염시키다,NA,**,pollute**,297
+1998,pond,Extended,연못,NA,None,pond,297
+1999,pool,MidHigh,수영장,NA,**,pool**,297
+2000,poor,Elementary,가난한,NA,*,poor*,297
+2001,pop,MidHigh,펑 하는 소리,NA,**,pop**,297
+2002,popular,MidHigh,인기 있는,NA,**,popular**,297
+2003,populate,Extended,거주시키다,population,None,populate (population),297
+2004,pork,MidHigh,돼지고기,NA,**,pork**,297
+2005,port,MidHigh,항구,NA,**,port**,297
+2006,portion,Extended,부분,NA,None,portion,297
+2007,portrait,Extended,초상화,NA,None,portrait,297
+2008,pose,Extended,자세를 취하다,dispose,None,pose (dispose),297
+2009,posit,Extended,위치시키다,"position, positive",None,"posit (position, positive)",297
+2010,possess,MidHigh,소유하다,NA,**,possess**,297
+2011,possible,MidHigh,가능한,NA,**,possible**,297
+2012,post,MidHigh,우편,poster,**,post** (poster),297
+2013,pot,MidHigh,냄비,NA,**,pot**,297
+2014,potato,Elementary,감자,NA,*,potato*,297
+2015,potential,MidHigh,잠재적인,NA,**,potential**,297
+2016,pour,MidHigh,붓다,NA,**,pour**,297
+2017,powder,MidHigh,가루,NA,**,powder**,297
+2018,power,Elementary,힘,NA,*,power*,297
+2019,practical,MidHigh,실용적인,NA,**,practical**,297
+2020,practice,MidHigh,연습하다,practise,**,practice** / practise**,297
+2021,praise,Extended,칭찬하다,NA,None,praise,297
+2022,pray,MidHigh,기도하다,NA,**,pray**,297
+2023,preach,Extended,설교하다,NA,None,preach,298
+2024,precede,Extended,앞서다,unprecedented,None,precede (unprecedented),298
+2025,precise,Extended,정확한,NA,None,precise,298
+2026,predator,Extended,포식자,NA,None,predator,298
+2027,predict,Extended,예측하다,NA,None,predict,298
+2028,prefer,MidHigh,선호하다,NA,**,prefer**,298
+2029,pregnant,MidHigh,임신한,NA,**,pregnant**,298
+2030,prejudice,Extended,편견,NA,None,prejudice,298
+2031,premium,Extended,할증금,NA,None,premium,298
+2032,prepare,MidHigh,준비하다,NA,**,prepare**,298
+2033,prescribe,Extended,처방하다,NA,None,prescribe,298
+2034,presence,MidHigh,존재,NA,**,presence**,298
+2035,present,Elementary,현재의,NA,*,present*,298
+2036,preserve,Extended,보존하다,NA,None,preserve,298
+2037,preside,Extended,주재하다,president,None,preside (president),298
+2038,press,MidHigh,누르다,NA,**,press**,298
+2039,presume,Extended,추정하다,NA,None,presume,298
+2040,pretend,MidHigh,~인 척하다,NA,**,pretend**,298
+2041,pretty,Elementary,예쁜,NA,*,pretty*,298
+2042,prevail,Extended,우세하다,NA,None,prevail,298
+2043,prevent,MidHigh,막다,NA,**,prevent**,298
+2044,previous,MidHigh,이전의,NA,**,previous**,298
+2045,prey,Extended,먹이,NA,None,prey,298
+2046,price,MidHigh,가격,NA,**,price**,298
+2047,pride,MidHigh,자부심,NA,**,pride**,298
+2048,priest,Extended,성직자,NA,None,priest,298
+2049,prime,MidHigh,주요한,primary,**,prime** (primary),298
+2050,primitive,Extended,원시적인,NA,None,primitive,298
+2051,prince,Elementary,왕자,NA,*,prince*,298
+2052,principal,Extended,교장,NA,None,principal,298
+2053,principle,MidHigh,원칙,NA,**,principle**,298
+2054,print,Elementary,인쇄하다,NA,*,print*,298
+2055,prior,Extended,이전의,NA,None,prior,298
+2056,prison,MidHigh,감옥,NA,**,prison**,298
+2057,privacy,MidHigh,사생활,NA,**,privacy**,298
+2058,private,MidHigh,사적인,NA,**,private**,298
+2059,privilege,Extended,특권,NA,None,privilege,298
+2060,prize,MidHigh,상,NA,**,prize**,298
+2061,probable,MidHigh,있을 법한,probably,**,probable** (probably),298
+2062,problem,Elementary,문제,NA,*,problem*,298
+2063,proceed,MidHigh,진행하다,procedure,**,proceed** (procedure),298
+2064,process,MidHigh,과정,NA,**,process**,298
+2065,produce,MidHigh,생산하다,NA,**,produce**,298
+2066,profession,MidHigh,직업,NA,**,profession**,298
+2067,professor,Extended,교수,NA,None,professor,298
+2068,profile,Extended,프로필,NA,None,profile,298
+2069,profit,MidHigh,이익,NA,**,profit**,298
+2070,profound,Extended,심오한,NA,None,profound,298
+2071,program,Elementary,프로그램,"programme, programmatic",*,program* / programme* (programmatic),298
+2072,progress,MidHigh,진전,NA,**,progress**,298
+2073,prohibit,Extended,금지하다,NA,None,prohibit,298
+2074,project,Elementary,프로젝트,NA,*,project*,298
+2075,prominent,Extended,저명한,NA,None,prominent,298
+2076,promise,MidHigh,약속,NA,**,promise**,298
+2077,promote,MidHigh,촉진하다,NA,**,promote**,298
+2078,prompt,Extended,즉각적인,NA,None,prompt,298
+2079,pronounce,MidHigh,발음하다,pronunciation,**,pronounce** (pronunciation),298
+2080,proof,Extended,증거,NA,None,proof,298
+2081,proper,MidHigh,적절한,NA,**,proper**,298
+2082,property,MidHigh,재산,NA,**,property**,298
+2083,proportion,Extended,비율,NA,None,proportion,298
+2084,propose,MidHigh,제안하다,NA,**,propose**,298
+2085,prospect,Extended,전망,NA,None,prospect,298
+2086,prosper,Extended,번창하다,NA,None,prosper,298
+2087,protect,MidHigh,보호하다,NA,**,protect**,298
+2088,protein,Extended,단백질,NA,None,protein,298
+2089,protest,MidHigh,항의하다,NA,**,protest**,298
+2090,proud,MidHigh,자랑스러운,NA,**,proud**,298
+2091,prove,MidHigh,증명하다,NA,**,prove**,298
+2092,provide,MidHigh,제공하다,NA,**,provide**,298
+2093,province,Extended,지방,NA,None,province,298
+2094,provoke,Extended,자극하다,NA,None,provoke,298
+2095,psychology,Extended,심리학,NA,None,psychology,298
+2096,pub,MidHigh,술집,NA,**,pub**,298
+2097,public,MidHigh,공공의,NA,**,public**,298
+2098,publish,Extended,출판하다,publisher,None,publish (publisher),298
+2099,pull,MidHigh,당기다,NA,**,pull**,298
+2100,pump,MidHigh,펌프,NA,**,pump**,298
+2101,punch,MidHigh,주먹으로 치다,NA,**,punch**,298
+2102,punish,MidHigh,벌하다,NA,**,punish**,298
+2103,pupil,Extended,학생,NA,None,pupil,298
+2104,puppy,Elementary,강아지,NA,*,puppy*,298
+2105,purchase,MidHigh,구매하다,NA,**,purchase**,298
+2106,pure,MidHigh,순수한,NA,**,pure**,298
+2107,purple,MidHigh,보라색,NA,**,purple**,298
+2108,purpose,MidHigh,목적,NA,**,purpose**,298
+2109,pursue,Extended,추구하다,NA,None,pursue,298
+2110,push,Elementary,밀다,NA,*,push*,298
+2111,put,Elementary,놓다,NA,*,put*,298
+2112,puzzle,MidHigh,퍼즐,NA,**,puzzle**,298
+2113,quality,MidHigh,품질,qualify,**,quality** (qualify),299
+2114,quantity,Extended,양,NA,None,quantity,299
+2115,quarter,MidHigh,4분의 1,NA,**,quarter**,299
+2116,queen,Elementary,여왕,NA,*,queen*,299
+2117,question,Elementary,질문,NA,*,question*,299
+2118,questionnaire,Extended,설문지,NA,None,questionnaire,299
+2119,quick,Elementary,빠른,NA,*,quick*,299
+2120,quiet,Elementary,조용한,NA,*,quiet*,299
+2121,quit,MidHigh,그만두다,NA,**,quit**,299
+2122,quite,MidHigh,꽤,NA,**,quite**,299
+2123,quiz,Elementary,퀴즈,NA,*,quiz*,299
+2124,quote,MidHigh,인용하다,NA,**,quote**,299
+2125,rabbit,Elementary,토끼,NA,*,rabbit*,299
+2126,race,Elementary,경주,racial,*,race* (racial),299
+2127,radio,Elementary,라디오,NA,*,radio*,299
+2128,rage,Extended,격노,NA,None,rage,299
+2129,rail,MidHigh,철도,NA,**,rail**,299
+2130,rain,Elementary,비,NA,*,rain*,299
+2131,rainbow,MidHigh,무지개,NA,**,rainbow**,299
+2132,raise,MidHigh,올리다,NA,**,raise**,299
+2133,rally,Extended,집회,NA,None,rally,299
+2134,random,Extended,무작위의,NA,None,random,299
+2135,range,MidHigh,범위,NA,**,range**,299
+2136,rank,Extended,순위,NA,None,rank,299
+2137,rapid,MidHigh,빠른,NA,**,rapid**,299
+2138,rare,MidHigh,드문,NA,**,rare**,299
+2139,rat,MidHigh,쥐,NA,**,rat**,299
+2140,rate,MidHigh,비율,NA,**,rate**,299
+2141,rather,MidHigh,오히려,NA,**,rather**,299
+2142,rational,Extended,합리적인,NA,None,rational,299
+2143,raw,Extended,날것의,NA,None,raw,299
+2144,reach,MidHigh,도달하다,NA,**,reach**,299
+2145,react,MidHigh,반응하다,NA,**,react**,299
+2146,read,Elementary,읽다,NA,*,read*,299
+2147,ready,Elementary,준비된,NA,*,ready*,299
+2148,real,MidHigh,진짜의,"realize, realise",**,real** (realize / realise),299
+2149,rear,Extended,뒤쪽,NA,None,rear,299
+2150,reason,MidHigh,이유,reasonable,**,reason** (reasonable),299
+2151,rebel,Extended,반역자,NA,None,rebel,299
+2152,receipt,Extended,영수증,NA,None,receipt,299
+2153,receive,MidHigh,받다,reception,**,receive** (reception),299
+2154,recent,MidHigh,최근의,NA,**,recent**,299
+2155,recipe,MidHigh,요리법,NA,**,recipe**,299
+2156,recognize,MidHigh,알아보다,NA,**,recognize**,299
+2157,recommend,MidHigh,추천하다,NA,**,recommend**,299
+2158,record,MidHigh,기록하다,NA,**,record**,299
+2159,recover,MidHigh,회복하다,NA,**,recover**,299
+2160,recreation,Elementary,오락,NA,*,recreation*,299
+2161,recruit,Extended,모집하다,NA,None,recruit,299
+2162,red,Elementary,빨간색,NA,*,red*,299
+2163,reduce,MidHigh,줄이다,NA,**,reduce**,299
+2164,refer,MidHigh,언급하다,NA,**,refer**,299
+2165,refine,Extended,개선하다,NA,None,refine,299
+2166,reflect,MidHigh,반영하다,NA,**,reflect**,299
+2167,reform,Extended,개혁하다,NA,None,reform,299
+2168,refrigerate,Extended,냉장하다,refrigerator,None,refrigerate (refrigerator),299
+2169,refuse,MidHigh,거절하다,NA,**,refuse**,299
+2170,regard,MidHigh,여기다,NA,**,regard**,299
+2171,region,MidHigh,지역,NA,**,region**,299
+2172,register,MidHigh,등록하다,NA,**,register**,299
+2173,regret,Extended,후회하다,NA,None,regret,299
+2174,regular,MidHigh,규칙적인,NA,**,regular**,299
+2175,regulate,Extended,규제하다,NA,None,regulate,299
+2176,reinforce,Extended,강화하다,NA,None,reinforce,299
+2177,reject,Extended,거부하다,NA,None,reject,299
+2178,relate,MidHigh,관련시키다,"relative, relation, relationship",**,"relate** (relative, relation, relationship)",299
+2179,relax,MidHigh,긴장을 풀다,NA,**,relax**,299
+2180,release,MidHigh,풀어주다,NA,**,release**,299
+2181,relevant,Extended,관련 있는,NA,None,relevant,299
+2182,relief,MidHigh,안도,NA,**,relief**,299
+2183,relieve,Extended,완화하다,NA,None,relieve,299
+2184,religion,Extended,종교,NA,None,religion,299
+2185,reluctant,Extended,꺼리는,NA,None,reluctant,299
+2186,rely,MidHigh,의지하다,NA,**,rely**,299
+2187,remain,MidHigh,남다,NA,**,remain**,299
+2188,remark,MidHigh,언급하다,NA,**,remark**,299
+2189,remedy,Extended,치료책,NA,None,remedy,299
+2190,remember,Elementary,기억하다,NA,*,remember*,299
+2191,remind,MidHigh,상기시키다,NA,**,remind**,299
+2192,remote,Extended,먼,NA,None,remote,299
+2193,remove,MidHigh,제거하다,NA,**,remove**,299
+2194,rent,MidHigh,빌리다,NA,**,rent**,299
+2195,repair,MidHigh,수리하다,NA,**,repair**,299
+2196,repeat,MidHigh,반복하다,NA,**,repeat**,299
+2197,replace,MidHigh,대신하다,NA,**,replace**,299
+2198,reply,MidHigh,대답하다,NA,**,reply**,299
+2199,report,MidHigh,보고하다,NA,**,report**,299
+2200,represent,MidHigh,대표하다,NA,**,represent**,299
+2201,republic,Extended,공화국,NA,None,republic,299
+2202,reputation,Extended,명성,NA,None,reputation,299
+2203,request,MidHigh,요청하다,NA,**,request**,299
+2204,require,MidHigh,요구하다,NA,**,require**,300
+2205,rescue,Extended,구조하다,NA,None,rescue,300
+2206,research,MidHigh,연구,NA,**,research**,300
+2207,resemble,Extended,닮다,NA,None,resemble,300
+2208,reserve,MidHigh,예약하다,NA,**,reserve**,300
+2209,reside,Extended,거주하다,resident,None,reside (resident),300
+2210,resign,Extended,사임하다,NA,None,resign,300
+2211,resist,MidHigh,저항하다,NA,**,resist**,300
+2212,resolve,Extended,해결하다,NA,None,resolve,300
+2213,resort,Extended,휴양지,NA,None,resort,300
+2214,resource,MidHigh,자원,NA,**,resource**,300
+2215,respect,MidHigh,존중하다,respective,**,respect** (respective),300
+2216,respond,MidHigh,응답하다,NA,**,respond**,300
+2217,responsible,MidHigh,책임 있는,NA,**,responsible**,300
+2218,rest,MidHigh,휴식,NA,**,rest**,300
+2219,restaurant,Elementary,음식점,NA,*,restaurant*,300
+2220,restore,Extended,복구하다,NA,None,restore,300
+2221,restrain,Extended,억제하다,NA,None,restrain,300
+2222,restrict,Extended,제한하다,NA,None,restrict,300
+2223,restroom,Elementary,화장실,NA,*,restroom*,300
+2224,result,MidHigh,결과,NA,**,result**,300
+2225,resume,Extended,재개하다,NA,None,resume,300
+2226,retail,Extended,소매,NA,None,retail,300
+2227,retain,Extended,유지하다,NA,None,retain,300
+2228,retire,MidHigh,은퇴하다,NA,**,retire**,300
+2229,retreat,Extended,후퇴하다,NA,None,retreat,300
+2230,return,Elementary,돌아오다,NA,*,return*,300
+2231,reveal,Extended,드러내다,NA,None,reveal,300
+2232,revenge,Extended,복수,NA,None,revenge,300
+2233,reverse,Extended,반대,NA,None,reverse,300
+2234,revise,Extended,수정하다,NA,None,revise,300
+2235,revive,Extended,소생시키다,NA,None,revive,300
+2236,revolution,Extended,혁명,NA,None,revolution,300
+2237,reward,Extended,보상,NA,None,reward,300
+2238,rhythm,Extended,리듬,NA,None,rhythm,300
+2239,ribbon,Elementary,리본,NA,*,ribbon*,300
+2240,rice,MidHigh,쌀,NA,**,rice**,300
+2241,rich,Elementary,부유한,NA,*,rich*,300
+2242,rid,Extended,없애다,NA,None,rid,300
+2243,ride,MidHigh,타다,NA,**,ride**,300
+2244,ridicule,Extended,조롱하다,ridiculous,None,ridicule (ridiculous),300
+2245,right,Elementary,옳은,NA,*,right*,300
+2246,ring,Elementary,반지,NA,*,ring*,300
+2247,riot,Extended,폭동,NA,None,riot,300
+2248,rise,MidHigh,오르다,NA,**,rise**,300
+2249,risk,MidHigh,위험,NA,**,risk**,300
+2250,rival,Extended,경쟁자,NA,None,rival,300
+2251,river,Elementary,강,NA,*,river*,300
+2252,road,Elementary,도로,NA,*,road*,300
+2253,roar,Extended,포효하다,NA,None,roar,300
+2254,roast,Extended,굽다,NA,None,roast,300
+2255,rob,MidHigh,강탈하다,NA,**,rob**,300
+2256,robot,Elementary,로봇,NA,*,robot*,300
+2257,rock,Elementary,바위,NA,*,rock*,300
+2258,rocket,MidHigh,로켓,NA,**,rocket**,300
+2259,rod,Extended,막대,NA,None,rod,300
+2260,role,MidHigh,역할,NA,**,role**,300
+2261,roll,MidHigh,굴리다,"enroll, enrol",**,roll** (enroll / enrol),300
+2262,romantic,Extended,낭만적인,NA,None,romantic,300
+2263,roof,MidHigh,지붕,NA,**,roof**,300
+2264,room,Elementary,방,NA,*,room*,300
+2265,root,MidHigh,뿌리,NA,**,root**,300
+2266,rope,MidHigh,밧줄,NA,**,rope**,300
+2267,rose,Elementary,장미,NA,*,rose*,300
+2268,rot,Extended,썩다,NA,None,rot,300
+2269,rough,MidHigh,거친,NA,**,rough**,300
+2270,round,MidHigh,둥근,NA,**,round**,300
+2271,route,MidHigh,경로,NA,**,route**,300
+2272,routine,Extended,일상,NA,None,routine,300
+2273,row,MidHigh,줄,NA,**,row**,300
+2274,royal,MidHigh,왕실의,NA,**,royal**,300
+2275,rub,MidHigh,문지르다,rubber,**,rub** (rubber),300
+2276,rude,MidHigh,무례한,NA,**,rude**,300
+2277,ruin,MidHigh,파멸,NA,**,ruin**,300
+2278,rule,MidHigh,규칙,NA,**,rule**,300
+2279,rumor,Extended,소문,rumour,None,rumor / rumour,300
+2280,run,Elementary,달리다,NA,*,run*,300
+2281,rural,Extended,시골의,NA,None,rural,300
+2282,rush,MidHigh,서두르다,NA,**,rush**,300
+2283,sack,Extended,자루,NA,None,sack,300
+2284,sacred,Extended,신성한,NA,None,sacred,300
+2285,sacrifice,Extended,희생,NA,None,sacrifice,300
+2286,sad,Elementary,슬픈,NA,*,sad*,300
+2287,safe,Elementary,안전한,NA,*,safe*,300
+2288,sail,MidHigh,항해하다,NA,**,sail**,300
+2289,salad,Elementary,샐러드,NA,*,salad*,300
+2290,salary,MidHigh,급여,NA,**,salary**,300
+2291,sale,Elementary,판매,NA,*,sale*,300
+2292,salt,Elementary,소금,NA,*,salt*,300
+2293,same,Elementary,같은,NA,*,same*,300
+2294,sample,MidHigh,견본,NA,**,sample**,300
+2295,sand,Elementary,모래,NA,*,sand*,300
+2296,sandwich,Elementary,샌드위치,NA,*,sandwich*,301
+2297,satellite,Extended,위성,NA,None,satellite,301
+2298,satisfy,MidHigh,만족시키다,NA,**,satisfy**,301
+2299,sauce,MidHigh,소스,NA,**,sauce**,301
+2300,save,Elementary,구하다,NA,*,save*,301
+2301,say,Elementary,말하다,NA,*,say*,301
+2302,scale,MidHigh,규모,NA,**,scale**,301
+2303,scan,Extended,스캔하다,NA,None,scan,301
+2304,scandal,Extended,추문,NA,None,scandal,301
+2305,scarce,Extended,부족한,NA,None,scarce,301
+2306,scare,MidHigh,겁주다,NA,**,scare**,301
+2307,scarf,MidHigh,목도리,NA,**,scarf**,301
+2308,scatter,Extended,흩뿌리다,NA,None,scatter,301
+2309,scene,MidHigh,장면,NA,**,scene**,301
+2310,schedule,MidHigh,일정,NA,**,schedule**,301
+2311,scheme,Extended,계획,NA,None,scheme,301
+2312,scholar,Extended,학자,NA,None,scholar,301
+2313,school,Elementary,학교,NA,*,school*,301
+2314,science,Elementary,과학,NA,*,science*,301
+2315,scissors,Elementary,가위,NA,*,scissors*,301
+2316,scope,Extended,범위,NA,None,scope,301
+2317,score,Elementary,점수,NA,*,score*,301
+2318,scramble,Extended,기어오르다,NA,None,scramble,301
+2319,scratch,MidHigh,긁다,NA,**,scratch**,301
+2320,scream,MidHigh,비명을 지르다,NA,**,scream**,301
+2321,screen,MidHigh,화면,NA,**,screen**,301
+2322,screw,Extended,나사,NA,None,screw,301
+2323,sculpt,Extended,조각하다,sculpture,None,sculpt (sculpture),301
+2324,sea,Elementary,바다,NA,*,sea*,301
+2325,seal,MidHigh,봉인하다,NA,**,seal**,301
+2326,search,MidHigh,찾다,NA,**,search**,301
+2327,season,Elementary,계절,NA,*,season*,301
+2328,seat,MidHigh,자리,NA,**,seat**,301
+2329,second,Elementary,두 번째,secondary,*,second* (secondary),301
+2330,secret,MidHigh,비밀,NA,**,secret**,301
+2331,secretary,MidHigh,비서,NA,**,secretary**,301
+2332,section,MidHigh,부분,NA,**,section**,301
+2333,sector,Extended,부문,NA,None,sector,301
+2334,secure,MidHigh,안전한,NA,**,secure**,301
+2335,see,Elementary,보다,NA,*,see*,301
+2336,seed,MidHigh,씨앗,NA,**,seed**,301
+2337,seek,MidHigh,찾다,NA,**,seek**,301
+2338,seem,MidHigh,~처럼 보이다,NA,**,seem**,301
+2339,seize,Extended,붙잡다,NA,None,seize,301
+2340,select,MidHigh,선택하다,NA,**,select**,301
+2341,self,MidHigh,자기 자신,NA,**,self**,301
+2342,sell,Elementary,팔다,NA,*,sell*,301
+2343,send,Elementary,보내다,NA,*,send*,301
+2344,senior,MidHigh,선배,NA,**,senior**,301
+2345,sense,MidHigh,감각,sensation,**,sense** (sensation),301
+2346,sensible,Extended,분별 있는,NA,None,sensible,301
+2347,sentence,MidHigh,문장,NA,**,sentence**,301
+2348,sentiment,Extended,감정,NA,None,sentiment,301
+2349,separate,MidHigh,분리하다,NA,**,separate**,301
+2350,sequence,Extended,순서,NA,None,sequence,301
+2351,series,MidHigh,연속물,NA,**,series**,301
+2352,serious,MidHigh,진지한,NA,**,serious**,301
+2353,serve,MidHigh,봉사하다,NA,**,serve**,301
+2354,service,Elementary,서비스,NA,*,service*,301
+2355,session,MidHigh,회기,NA,**,session**,301
+2356,set,Elementary,놓다,NA,*,set*,301
+2357,settle,MidHigh,정착하다,NA,**,settle**,301
+2358,seven,Elementary,일곱,NA,*,seven*,301
+2359,several,MidHigh,몇몇의,NA,**,several**,301
+2360,severe,Extended,심각한,NA,None,severe,301
+2361,sew,MidHigh,바느질하다,NA,**,sew**,301
+2362,sex,MidHigh,성별,NA,**,sex**,301
+2363,shade,MidHigh,그늘,NA,**,shade**,301
+2364,shadow,MidHigh,그림자,NA,**,shadow**,301
+2365,shake,MidHigh,흔들다,NA,**,shake**,301
+2366,shall,MidHigh,~할 것이다,NA,**,shall**,301
+2367,shallow,Extended,얕은,NA,None,shallow,301
+2368,shame,MidHigh,수치심,NA,**,shame**,301
+2369,shape,MidHigh,모양,NA,**,shape**,301
+2370,share,MidHigh,공유하다,NA,**,share**,301
+2371,sharp,MidHigh,날카로운,NA,**,sharp**,301
+2372,shave,MidHigh,면도하다,NA,**,shave**,301
+2373,she,Elementary,그녀,NA,*,she*,301
+2374,sheep,MidHigh,양,NA,**,sheep**,301
+2375,sheet,MidHigh,종이 한 장,NA,**,sheet**,301
+2376,shelf,MidHigh,선반,NA,**,shelf**,301
+2377,shell,MidHigh,껍데기,NA,**,shell**,301
+2378,shelter,MidHigh,피난처,NA,**,shelter**,301
+2379,shift,MidHigh,옮기다,NA,**,shift**,301
+2380,shine,MidHigh,빛나다,NA,**,shine**,301
+2381,ship,Elementary,배,NA,*,ship*,301
+2382,shirt,Elementary,셔츠,NA,*,shirt*,301
+2383,shock,MidHigh,충격,NA,**,shock**,301
+2384,shoe,Elementary,신발,NA,*,shoe*,301
+2385,shoot,MidHigh,쏘다,NA,**,shoot**,301
+2386,shop,Elementary,가게,NA,*,shop*,301
+2387,shore,MidHigh,해안,NA,**,shore**,301
+2388,short,Elementary,짧은,NA,*,short*,301
+2389,should,Elementary,~해야 한다,NA,*,should*,301
+2390,shoulder,MidHigh,어깨,NA,**,shoulder**,301
+2391,shout,MidHigh,소리치다,NA,**,shout**,301
+2392,show,Elementary,보여 주다,NA,*,show*,302
+2393,shower,MidHigh,샤워,NA,**,shower**,302
+2394,shut,MidHigh,닫다,NA,**,shut**,302
+2395,shy,Elementary,수줍은,NA,*,shy*,302
+2396,sick,Elementary,아픈,NA,*,sick*,302
+2397,side,Elementary,옆,NA,*,side*,302
+2398,sigh,Extended,한숨 쉬다,NA,None,sigh,302
+2399,sight,MidHigh,시력,NA,**,sight**,302
+2400,sign,MidHigh,표시,significant,**,sign** (significant),302
+2401,silent,Extended,조용한,NA,None,silent,302
+2402,silly,MidHigh,어리석은,NA,**,silly**,302
+2403,silver,MidHigh,은,NA,**,silver**,302
+2404,similar,MidHigh,비슷한,NA,**,similar**,302
+2405,simple,MidHigh,간단한,NA,**,simple**,302
+2406,simulate,Extended,모의실험하다,NA,None,simulate,302
+2407,simultaneous,Extended,동시의,NA,None,simultaneous,302
+2408,sin,Extended,죄,NA,None,sin,302
+2409,since,MidHigh,~이래로,NA,**,since**,302
+2410,sing,Elementary,노래하다,NA,*,sing*,302
+2411,single,MidHigh,하나의,NA,**,single**,302
+2412,sink,MidHigh,가라앉다,NA,**,sink**,302
+2413,sister,Elementary,자매,NA,*,sister*,302
+2414,sit,Elementary,앉다,NA,*,sit*,302
+2415,site,MidHigh,장소,NA,**,site**,302
+2416,situate,MidHigh,위치시키다,situation,**,situate** (situation),302
+2417,six,Elementary,여섯,NA,*,six*,302
+2418,size,Elementary,크기,NA,*,size*,302
+2419,skate,Elementary,스케이트를 타다,NA,*,skate*,302
+2420,ski,Elementary,스키를 타다,NA,*,ski*,302
+2421,skill,MidHigh,기술,NA,**,skill**,302
+2422,skin,Elementary,피부,NA,*,skin*,302
+2423,skip,Extended,건너뛰다,NA,None,skip,302
+2424,skirt,Elementary,치마,NA,*,skirt*,302
+2425,sky,Elementary,하늘,NA,*,sky*,302
+2426,slave,MidHigh,노예,NA,**,slave**,302
+2427,sleep,Elementary,자다,NA,*,sleep*,302
+2428,slice,Extended,얇은 조각,NA,None,slice,302
+2429,slide,MidHigh,미끄러지다,NA,**,slide**,302
+2430,slight,MidHigh,약간의,NA,**,slight**,302
+2431,slim,Extended,날씬한,NA,None,slim,302
+2432,slip,MidHigh,미끄러지다,NA,**,slip**,302
+2433,slope,Extended,경사,NA,None,slope,302
+2434,slow,Elementary,느린,NA,*,slow*,302
+2435,small,Elementary,작은,NA,*,small*,302
+2436,smart,MidHigh,똑똑한,NA,**,smart**,302
+2437,smash,MidHigh,부수다,NA,**,smash**,302
+2438,smell,Elementary,냄새,NA,*,smell*,302
+2439,smile,Elementary,미소,NA,*,smile*,302
+2440,smoke,MidHigh,연기,NA,**,smoke**,302
+2441,smooth,MidHigh,매끄러운,NA,**,smooth**,302
+2442,snack,MidHigh,간식,NA,**,snack**,302
+2443,snake,MidHigh,뱀,NA,**,snake**,302
+2444,snap,MidHigh,딱 소리를 내다,NA,**,snap**,302
+2445,sneak,Extended,살금살금 가다,NA,None,sneak,302
+2446,snow,Elementary,눈,NA,*,snow*,302
+2447,so,Elementary,그래서,NA,*,so*,302
+2448,soak,Extended,흠뻑 적시다,NA,None,soak,302
+2449,soap,Extended,비누,NA,None,soap,302
+2450,soccer,Elementary,축구,NA,*,soccer*,302
+2451,social,MidHigh,사회의,NA,**,social**,302
+2452,society,MidHigh,사회,NA,**,society**,302
+2453,sociology,Extended,사회학,NA,None,sociology,302
+2454,sock,Elementary,양말,NA,*,sock*,302
+2455,soft,Elementary,부드러운,NA,*,soft*,302
+2456,software,Elementary,소프트웨어,NA,*,software*,302
+2457,soil,MidHigh,토양,NA,**,soil**,302
+2458,soldier,MidHigh,군인,NA,**,soldier**,302
+2459,sole,Extended,유일한,NA,None,sole,302
+2460,solid,MidHigh,고체의,NA,**,solid**,302
+2461,solve,MidHigh,해결하다,NA,**,solve**,302
+2462,some,Elementary,어떤,NA,*,some*,302
+2463,somewhat,MidHigh,다소,NA,**,somewhat**,302
+2464,son,Elementary,아들,NA,*,son*,302
+2465,song,Elementary,노래,NA,*,song*,302
+2466,soon,MidHigh,곧,NA,**,soon**,302
+2467,sophisticate,Extended,세련되게 하다,NA,None,sophisticate,302
+2468,sore,MidHigh,아픈,NA,**,sore**,302
+2469,sorry,Elementary,미안한,NA,*,sorry*,302
+2470,sort,MidHigh,종류,NA,**,sort**,302
+2471,soul,MidHigh,영혼,NA,**,soul**,302
+2472,sound,Elementary,소리,NA,*,sound*,302
+2473,soup,Elementary,수프,NA,*,soup*,302
+2474,sour,MidHigh,신맛이 나는,NA,**,sour**,302
+2475,source,MidHigh,원천,NA,**,source**,302
+2476,south,Elementary,남쪽,NA,*,south*,302
+2477,space,Elementary,공간,NA,*,space*,302
+2478,spaghetti,Elementary,스파게티,NA,*,spaghetti*,302
+2479,span,Extended,기간,NA,None,span,302
+2480,spare,MidHigh,여분의,NA,**,spare**,302
+2481,spark,Extended,불꽃,NA,None,spark,302
+2482,speak,Elementary,말하다,NA,*,speak*,302
+2483,species,MidHigh,종,special,**,species** (special),302
+2484,specific,MidHigh,구체적인,NA,**,specific**,302
+2485,spectacle,Extended,광경,NA,None,spectacle,302
+2486,spectrum,Extended,스펙트럼,NA,None,spectrum,302
+2487,speech,MidHigh,연설,NA,**,speech**,302
+2488,speed,Elementary,속도,NA,*,speed*,303
+2489,spell,MidHigh,철자를 쓰다,NA,**,spell**,303
+2490,spend,MidHigh,쓰다,NA,**,spend**,303
+2491,sphere,Extended,구,NA,None,sphere,303
+2492,spill,Extended,쏟다,NA,None,spill,303
+2493,spin,MidHigh,회전하다,NA,**,spin**,303
+2494,spirit,MidHigh,정신,NA,**,spirit**,303
+2495,spit,Extended,침을 뱉다,NA,None,spit,303
+2496,splash,Extended,튀기다,NA,None,splash,303
+2497,split,Extended,나누다,NA,None,split,303
+2498,spoil,MidHigh,망치다,NA,**,spoil**,303
+2499,sponsor,MidHigh,후원자,NA,**,sponsor**,303
+2500,spoon,Elementary,숟가락,NA,*,spoon*,303
+2501,sport,Elementary,운동,NA,*,sport*,303
+2502,spot,MidHigh,장소,NA,**,spot**,303
+2503,spouse,Extended,배우자,NA,None,spouse,303
+2504,spray,MidHigh,뿌리다,NA,**,spray**,303
+2505,spread,MidHigh,퍼뜨리다,NA,**,spread**,303
+2506,spring,Elementary,봄,NA,*,spring*,303
+2507,spy,MidHigh,스파이,NA,**,spy**,303
+2508,square,MidHigh,정사각형,NA,**,square**,303
+2509,squeeze,Extended,짜다,NA,None,squeeze,303
+2510,stable,MidHigh,안정된,NA,**,stable**,303
+2511,stack,Extended,더미,NA,None,stack,303
+2512,staff,Elementary,직원,NA,*,staff*,303
+2513,stage,MidHigh,무대,NA,**,stage**,303
+2514,stain,Extended,얼룩,NA,None,stain,303
+2515,stairs,MidHigh,계단,NA,**,stairs**,303
+2516,stamp,MidHigh,우표,NA,**,stamp**,303
+2517,stand,Elementary,서다,NA,*,stand*,303
+2518,standard,MidHigh,표준,NA,**,standard**,303
+2519,star,Elementary,별,NA,*,star*,303
+2520,stare,MidHigh,응시하다,NA,**,stare**,303
+2521,start,Elementary,시작하다,NA,*,start*,303
+2522,starve,Extended,굶주리다,NA,None,starve,303
+2523,state,MidHigh,상태,NA,**,state**,303
+2524,station,MidHigh,역,NA,**,station**,303
+2525,statistic,Extended,통계량,NA,None,statistic,303
+2526,statue,Extended,동상,NA,None,statue,303
+2527,status,Extended,지위,NA,None,status,303
+2528,stay,Elementary,머무르다,NA,*,stay*,303
+2529,steady,MidHigh,꾸준한,NA,**,steady**,303
+2530,steak,Elementary,스테이크,NA,*,steak*,303
+2531,steal,MidHigh,훔치다,NA,**,steal**,303
+2532,steam,MidHigh,증기,NA,**,steam**,303
+2533,steel,MidHigh,강철,NA,**,steel**,303
+2534,steep,Extended,가파른,NA,None,steep,303
+2535,stem,Extended,줄기,NA,None,stem,303
+2536,step,MidHigh,걸음,NA,**,step**,303
+2537,stick,MidHigh,막대기,NA,**,stick**,303
+2538,stiff,Extended,뻣뻣한,NA,None,stiff,303
+2539,still,MidHigh,여전히,NA,**,still**,303
+2540,stimulate,Extended,자극하다,NA,None,stimulate,303
+2541,stir,MidHigh,젓다,NA,**,stir**,303
+2542,stitch,Extended,바느질하다,NA,None,stitch,303
+2543,stock,MidHigh,재고,NA,**,stock**,303
+2544,stomach,MidHigh,위,NA,**,stomach**,303
+2545,stone,Elementary,돌,NA,*,stone*,303
+2546,stop,Elementary,멈추다,NA,*,stop*,303
+2547,store,Elementary,상점,NA,*,store*,303
+2548,storm,MidHigh,폭풍,NA,**,storm**,303
+2549,story,Elementary,이야기,NA,*,story*,303
+2550,stove,Extended,난로,NA,None,stove,303
+2551,straight,MidHigh,곧은,NA,**,straight**,303
+2552,strain,Extended,긴장,NA,None,strain,303
+2553,strange,MidHigh,이상한,NA,**,strange**,303
+2554,strategy,MidHigh,전략,NA,**,strategy**,303
+2555,strawberry,MidHigh,딸기,NA,**,strawberry**,303
+2556,stream,MidHigh,시내,NA,**,stream**,303
+2557,street,Elementary,거리,NA,*,street*,303
+2558,stress,MidHigh,스트레스,NA,**,stress**,303
+2559,stretch,MidHigh,늘이다,NA,**,stretch**,303
+2560,strict,Extended,엄격한,NA,None,strict,303
+2561,strike,MidHigh,치다,NA,**,strike**,303
+2562,string,MidHigh,끈,NA,**,string**,303
+2563,strip,Extended,벗기다,NA,None,strip,303
+2564,stripe,Extended,줄무늬,NA,None,stripe,303
+2565,stroke,Extended,타격,NA,None,stroke,303
+2566,strong,Elementary,강한,NA,*,strong*,303
+2567,structure,MidHigh,구조,NA,**,structure**,303
+2568,struggle,MidHigh,분투하다,NA,**,struggle**,303
+2569,studio,MidHigh,작업실,NA,**,studio**,303
+2570,study,Elementary,공부하다,student,*,study* (student),303
+2571,stuff,MidHigh,물건,NA,**,stuff**,303
+2572,style,Elementary,방식,NA,*,style*,303
+2573,subject,MidHigh,주제,subjective,**,subject** (subjective),303
+2574,submarine,Extended,잠수함,NA,None,submarine,303
+2575,submit,Extended,제출하다,submission,None,submit (submission),303
+2576,subscribe,Extended,구독하다,NA,None,subscribe,303
+2577,substance,Extended,물질,substantial,None,substance (substantial),303
+2578,substitute,Extended,대체하다,NA,None,substitute,303
+2579,subtle,Extended,미묘한,NA,None,subtle,303
+2580,suburb,Extended,교외,NA,None,suburb,303
+2581,subway,Elementary,지하철,NA,*,subway*,303
+2582,succeed,MidHigh,성공하다,NA,**,succeed**,303
+2583,success,MidHigh,성공,NA,**,success**,303
+2584,such,MidHigh,그러한,NA,**,such**,304
+2585,suck,Extended,빨다,NA,None,suck,304
+2586,sudden,MidHigh,갑작스러운,NA,**,sudden**,304
+2587,suffer,MidHigh,고통받다,NA,**,suffer**,304
+2588,suffice,Extended,충분하다,sufficient,None,suffice (sufficient),304
+2589,sugar,Elementary,설탕,NA,*,sugar*,304
+2590,suggest,MidHigh,제안하다,NA,**,suggest**,304
+2591,suicide,Extended,자살,NA,None,suicide,304
+2592,suit,MidHigh,정장,NA,**,suit**,304
+2593,suite,Extended,객실,NA,None,suite,304
+2594,sum,MidHigh,합계,summary,**,sum** (summary),304
+2595,summer,Elementary,여름,NA,*,summer*,304
+2596,summit,Extended,정상회담,NA,None,summit,304
+2597,sun,Elementary,태양,NA,*,sun*,304
+2598,super,MidHigh,초월적인,NA,**,super**,304
+2599,superb,Extended,훌륭한,NA,None,superb,304
+2600,superior,Extended,우수한,NA,None,superior,304
+2601,supervise,Extended,감독하다,NA,None,supervise,304
+2602,supper,MidHigh,저녁 식사,NA,**,supper**,304
+2603,supplement,Extended,보충하다,NA,None,supplement,304
+2604,supply,MidHigh,공급하다,NA,**,supply**,304
+2605,support,MidHigh,지원하다,NA,**,support**,304
+2606,suppose,MidHigh,추측하다,NA,**,suppose**,304
+2607,sure,Elementary,확실한,ensure,*,sure* (ensure),304
+2608,surface,MidHigh,표면,NA,**,surface**,304
+2609,surgery,Extended,수술,NA,None,surgery,304
+2610,surprise,MidHigh,놀라게 하다,NA,**,surprise**,304
+2611,surrender,Extended,항복하다,NA,None,surrender,304
+2612,surround,MidHigh,둘러싸다,NA,**,surround**,304
+2613,survey,MidHigh,설문조사,NA,**,survey**,304
+2614,survive,MidHigh,살아남다,NA,**,survive**,304
+2615,suspect,MidHigh,의심하다,NA,**,suspect**,304
+2616,suspend,Extended,중지하다,NA,None,suspend,304
+2617,sustain,Extended,유지하다,NA,None,sustain,304
+2618,swallow,MidHigh,삼키다,NA,**,swallow**,304
+2619,swear,Extended,맹세하다,NA,None,swear,304
+2620,sweat,Extended,땀,NA,None,sweat,304
+2621,sweater,MidHigh,스웨터,NA,**,sweater**,304
+2622,sweep,MidHigh,쓸다,NA,**,sweep**,304
+2623,sweet,MidHigh,달콤한,NA,**,sweet**,304
+2624,swell,Extended,부풀다,NA,None,swell,304
+2625,swift,Extended,빠른,NA,None,swift,304
+2626,swim,Elementary,수영하다,NA,*,swim*,304
+2627,swing,MidHigh,흔들다,NA,**,swing**,304
+2628,switch,MidHigh,전환하다,NA,**,switch**,304
+2629,symbol,Extended,상징,NA,None,symbol,304
+2630,sympathy,Extended,동정심,NA,None,sympathy,304
+2631,symphony,Extended,교향곡,NA,None,symphony,304
+2632,symptom,Extended,증상,NA,None,symptom,304
+2633,system,MidHigh,체계,NA,**,system**,304
+2634,table,Elementary,탁자,NA,*,table*,304
+2635,tackle,Extended,해결하다,NA,None,tackle,304
+2636,tag,Extended,꼬리표,NA,None,tag,304
+2637,tail,Elementary,꼬리,NA,*,tail*,304
+2638,take,Elementary,가지다,mistake,*,take* (mistake),304
+2639,tale,MidHigh,이야기,NA,**,tale**,304
+2640,talent,Extended,재능,NA,None,talent,304
+2641,talk,Elementary,말하다,NA,*,talk*,304
+2642,tall,Elementary,키가 큰,NA,*,tall*,304
+2643,tank,MidHigh,탱크,NA,**,tank**,304
+2644,tap,MidHigh,가볍게 두드리다,NA,**,tap**,304
+2645,tape,Elementary,테이프,NA,*,tape*,304
+2646,target,MidHigh,표적,NA,**,target**,304
+2647,task,Extended,과제,NA,None,task,304
+2648,taste,Elementary,맛,NA,*,taste*,304
+2649,tax,MidHigh,세금,NA,**,tax**,304
+2650,taxi,Elementary,택시,NA,*,taxi*,304
+2651,tea,MidHigh,차,NA,**,tea**,304
+2652,teach,Elementary,가르치다,NA,*,teach*,304
+2653,team,Elementary,팀,NA,*,team*,304
+2654,tear,MidHigh,찢다,NA,**,tear**,304
+2655,tease,Extended,놀리다,NA,None,tease,304
+2656,technique,MidHigh,기술,technic,**,technique** / technic**,304
+2657,technology,MidHigh,과학 기술,NA,**,technology**,304
+2658,teenage,MidHigh,십대의,NA,**,teenage**,304
+2659,telegraph,Extended,전신,NA,None,telegraph,304
+2660,telephone,Elementary,전화,phone,*,telephone* / phone*,304
+2661,television,Elementary,텔레비전,NA,*,television*,304
+2662,tell,Elementary,말하다,NA,*,tell*,304
+2663,temperature,MidHigh,온도,NA,**,temperature**,304
+2664,temple,Extended,사원,NA,None,temple,304
+2665,temporary,Extended,일시적인,NA,None,temporary,304
+2666,tempt,Extended,유혹하다,NA,None,tempt,304
+2667,ten,Elementary,열,NA,*,ten*,304
+2668,tenant,Extended,세입자,NA,None,tenant,304
+2669,tend,MidHigh,~하는 경향이 있다,NA,**,tend**,304
+2670,tender,Extended,부드러운,NA,None,tender,304
+2671,tennis,Elementary,테니스,NA,*,tennis*,304
+2672,tense,MidHigh,긴장된,NA,**,tense**,304
+2673,tent,Elementary,천막,NA,*,tent*,304
+2674,term,MidHigh,용어,NA,**,term**,304
+2675,terminal,Extended,종착역,NA,None,terminal,304
+2676,terminate,Extended,종결하다,NA,None,terminate,305
+2677,terrace,Extended,테라스,NA,None,terrace,305
+2678,terrible,MidHigh,끔찍한,NA,**,terrible**,305
+2679,terrific,Extended,굉장한,NA,None,terrific,305
+2680,territory,Extended,영토,NA,None,territory,305
+2681,terror,Extended,공포,terrorist,None,terror (terrorist),305
+2682,test,Elementary,시험,NA,*,test*,305
+2683,text,MidHigh,글,NA,**,text**,305
+2684,textbook,Elementary,교과서,NA,*,textbook*,305
+2685,than,Elementary,~보다,NA,*,than*,305
+2686,thank,Elementary,감사하다,NA,*,thank*,305
+2687,that,Elementary,저것,NA,*,that*,305
+2688,the,Elementary,그,NA,*,the*,305
+2689,theater,MidHigh,극장,theatre,**,theater** / theatre**,305
+2690,theme,Extended,주제,NA,None,theme,305
+2691,then,MidHigh,그때,NA,**,then**,305
+2692,theory,MidHigh,이론,NA,**,theory**,305
+2693,therapy,Extended,치료,NA,None,therapy,305
+2694,there,Elementary,거기에,NA,*,there*,305
+2695,therefore,MidHigh,그러므로,NA,**,therefore**,305
+2696,they,Elementary,그들,NA,*,they*,305
+2697,thick,MidHigh,두꺼운,NA,**,thick**,305
+2698,thief,MidHigh,도둑,NA,**,thief**,305
+2699,thin,MidHigh,얇은,NA,**,thin**,305
+2700,thing,Elementary,것,NA,*,thing*,305
+2701,think,Elementary,생각하다,NA,*,think*,305
+2702,third,Elementary,세 번째,NA,*,third*,305
+2703,thirst,Elementary,갈증,NA,*,thirst*,305
+2704,thirteen,Elementary,열셋,NA,*,thirteen*,305
+2705,thirty,Elementary,서른,NA,*,thirty*,305
+2706,this,Elementary,이것,NA,*,this*,305
+2707,thorough,Extended,철저한,NA,None,thorough,305
+2708,though,MidHigh,비록,NA,**,though**,305
+2709,thousand,MidHigh,천,NA,**,thousand**,305
+2710,thread,Extended,실,NA,None,thread,305
+2711,threat,MidHigh,위협,NA,**,threat**,305
+2712,three,Elementary,셋,NA,*,three*,305
+2713,thrill,Extended,전율,NA,None,thrill,305
+2714,throat,MidHigh,목구멍,NA,**,throat**,305
+2715,through,MidHigh,~을 통하여,NA,**,through**,305
+2716,throw,MidHigh,던지다,NA,**,throw**,305
+2717,thumb,Extended,엄지손가락,NA,None,thumb,305
+2718,thus,MidHigh,따라서,NA,**,thus**,305
+2719,tick,Extended,째깍거리다,NA,None,tick,305
+2720,ticket,Elementary,표,NA,*,ticket*,305
+2721,tide,MidHigh,조수,tidy,**,tide** (tidy),305
+2722,tie,MidHigh,묶다,NA,**,tie**,305
+2723,tiger,Elementary,호랑이,NA,*,tiger*,305
+2724,tight,MidHigh,꽉 끼는,NA,**,tight**,305
+2725,till,MidHigh,~까지,NA,**,till**,305
+2726,timber,Extended,목재,NA,None,timber,305
+2727,time,Elementary,시간,NA,*,time*,305
+2728,tin,MidHigh,주석,NA,**,tin**,305
+2729,tiny,MidHigh,아주 작은,NA,**,tiny**,305
+2730,tip,MidHigh,끝,NA,**,tip**,305
+2731,tire,Elementary,피곤하게 하다,tired,*,tire* (tired),305
+2732,tissue,Extended,조직,NA,None,tissue,305
+2733,title,MidHigh,제목,entitle,**,title** (entitle),305
+2734,to,Elementary,~에,NA,*,to*,305
+2735,toast,MidHigh,토스트,NA,**,toast**,305
+2736,today,Elementary,오늘,NA,*,today*,305
+2737,toe,MidHigh,발가락,NA,**,toe**,305
+2738,together,Elementary,함께,NA,*,together*,305
+2739,toilet,MidHigh,화장실,NA,**,toilet**,305
+2740,tomato,Elementary,토마토,NA,*,tomato*,305
+2741,tomorrow,Elementary,내일,NA,*,tomorrow*,305
+2742,tone,MidHigh,어조,NA,**,tone**,305
+2743,tongue,MidHigh,혀,NA,**,tongue**,305
+2744,tonight,Elementary,오늘 밤,NA,*,tonight*,305
+2745,too,Elementary,너무,NA,*,too*,305
+2746,tool,MidHigh,도구,NA,**,tool**,305
+2747,tooth,Elementary,이,NA,*,tooth*,305
+2748,top,Elementary,꼭대기,NA,*,top*,305
+2749,topic,MidHigh,주제,NA,**,topic**,305
+2750,torture,Extended,고문,NA,None,torture,305
+2751,toss,Extended,던지다,NA,None,toss,305
+2752,total,MidHigh,전체의,NA,**,total**,305
+2753,touch,Elementary,만지다,NA,*,touch*,305
+2754,tough,MidHigh,힘든,NA,**,tough**,305
+2755,tour,MidHigh,여행,NA,**,tour**,305
+2756,toward,MidHigh,~쪽으로,towards,**,toward** / towards**,305
+2757,towel,MidHigh,수건,NA,**,towel**,305
+2758,tower,MidHigh,탑,NA,**,tower**,305
+2759,town,Elementary,마을,NA,*,town*,305
+2760,toxic,Extended,독성의,NA,None,toxic,305
+2761,toy,Elementary,장난감,NA,*,toy*,305
+2762,trace,MidHigh,흔적,NA,**,trace**,305
+2763,track,Elementary,자취,NA,*,track*,305
+2764,trade,MidHigh,무역,NA,**,trade**,305
+2765,tradition,MidHigh,전통,NA,**,tradition**,305
+2766,traffic,MidHigh,교통,NA,**,traffic**,305
+2767,tragic,Extended,비극적인,NA,None,tragic,305
+2768,trail,Extended,오솔길,NA,None,trail,305
+2769,train,Elementary,기차,NA,*,train*,305
+2770,transact,Extended,거래하다,NA,None,transact,305
+2771,transfer,MidHigh,옮기다,NA,**,transfer**,305
+2772,transform,Extended,변형시키다,NA,None,transform,306
+2773,transition,Extended,전환,NA,None,transition,306
+2774,translate,Extended,번역하다,NA,None,translate,306
+2775,transmit,Extended,전달하다,NA,None,transmit,306
+2776,transport,MidHigh,수송하다,transportation,**,transport** (transportation),306
+2777,trap,MidHigh,덫,NA,**,trap**,306
+2778,travel,Elementary,여행하다,NA,*,travel*,306
+2779,tray,MidHigh,쟁반,NA,**,tray**,306
+2780,treasure,Extended,보물,NA,None,treasure,306
+2781,treat,MidHigh,대우하다,NA,**,treat**,306
+2782,treaty,Extended,조약,NA,None,treaty,306
+2783,tree,Elementary,나무,NA,*,tree*,306
+2784,tremendous,Extended,엄청난,NA,None,tremendous,306
+2785,trend,Extended,경향,NA,None,trend,306
+2786,triangle,MidHigh,삼각형,NA,**,triangle**,306
+2787,tribe,Extended,부족,NA,None,tribe,306
+2788,trick,MidHigh,속임수,NA,**,trick**,306
+2789,trigger,Extended,촉발하다,NA,None,trigger,306
+2790,trim,Extended,다듬다,NA,None,trim,306
+2791,trip,Elementary,여행,NA,*,trip*,306
+2792,triumph,Extended,승리,NA,None,triumph,306
+2793,troop,Extended,부대,NA,None,troop,306
+2794,trouble,MidHigh,문제,NA,**,trouble**,306
+2795,truck,Elementary,트럭,NA,*,truck*,306
+2796,true,Elementary,진실한,NA,*,true*,306
+2797,trunk,MidHigh,줄기,NA,**,trunk**,306
+2798,trust,MidHigh,신뢰하다,NA,**,trust**,306
+2799,truth,MidHigh,진실,NA,**,truth**,306
+2800,try,Elementary,시도하다,trial,*,try* (trial),306
+2801,tube,Extended,관,NA,None,tube,306
+2802,tune,MidHigh,곡조,NA,**,tune**,306
+2803,tunnel,Extended,터널,NA,None,tunnel,306
+2804,turn,Elementary,돌다,NA,*,turn*,306
+2805,turnover,Extended,이직률,NA,None,turnover,306
+2806,twelve,Elementary,열둘,NA,*,twelve*,306
+2807,twenty,Elementary,스물,NA,*,twenty*,306
+2808,twenty-first,Elementary,스물한 번째,NA,*,twenty-first*,306
+2809,twenty-second,Elementary,스물두 번째,NA,*,twenty-second*,306
+2810,twenty-third,Elementary,스물세 번째,NA,*,twenty-third*,306
+2811,twice,Elementary,두 번,NA,*,twice*,306
+2812,twin,MidHigh,쌍둥이,NA,**,twin**,306
+2813,twist,MidHigh,비틀다,NA,**,twist**,306
+2814,two,Elementary,둘,NA,*,two*,306
+2815,type,Elementary,유형,NA,*,type*,306
+2816,ugly,Elementary,못생긴,NA,*,ugly*,306
+2817,ultimate,Extended,궁극적인,NA,None,ultimate,306
+2818,umbrella,Elementary,우산,NA,*,umbrella*,306
+2819,uncle,Elementary,삼촌,NA,*,uncle*,306
+2820,under,Elementary,아래에,NA,*,under*,306
+2821,undergo,Extended,겪다,NA,None,undergo,306
+2822,underlie,Extended,기저를 이루다,NA,None,underlie,306
+2823,undermine,Extended,약화시키다,NA,None,undermine,306
+2824,understand,Elementary,이해하다,NA,*,understand*,306
+2825,undertake,Extended,떠맡다,NA,None,undertake,306
+2826,uniform,MidHigh,제복,NA,**,uniform**,306
+2827,unify,Extended,통합하다,NA,None,unify,306
+2828,unique,Extended,독특한,NA,None,unique,306
+2829,unit,MidHigh,단위,NA,**,unit**,306
+2830,unite,MidHigh,연합하다,union,**,unite** (union),306
+2831,universe,Extended,우주,NA,None,universe,306
+2832,university,MidHigh,대학교,NA,**,university**,306
+2833,unless,MidHigh,~하지 않는 한,NA,**,unless**,306
+2834,until,MidHigh,~까지,NA,**,until**,306
+2835,up,Elementary,위로,NA,*,up*,306
+2836,update,Extended,갱신하다,NA,None,update,306
+2837,upon,MidHigh,~위에,NA,**,upon**,306
+2838,upper,MidHigh,위쪽의,NA,**,upper**,306
+2839,upset,MidHigh,속상하게 하다,NA,**,upset**,306
+2840,upward,Extended,위쪽으로,upwards,None,upward / upwards,306
+2841,urban,Extended,도시의,NA,None,urban,306
+2842,urge,Extended,촉구하다,urgent,None,urge (urgent),306
+2843,use,Elementary,사용하다,usual,*,use* (usual),306
+2844,utilize,Extended,활용하다,utilise,None,utilize / utilise,306
+2845,utter,Extended,말을 내뱉다,NA,None,utter,306
+2846,vacate,Extended,비우다,vacation,None,vacate (vacation),306
+2847,vaccine,Extended,백신,NA,None,vaccine,306
+2848,vacuum,Extended,진공,NA,None,vacuum,306
+2849,vague,Extended,막연한,NA,None,vague,306
+2850,valid,Extended,유효한,NA,None,valid,306
+2851,valley,MidHigh,계곡,NA,**,valley**,306
+2852,value,MidHigh,가치,NA,**,value**,306
+2853,van,MidHigh,승합차,NA,**,van**,306
+2854,vanish,Extended,사라지다,NA,None,vanish,306
+2855,various,MidHigh,다양한,NA,**,various**,306
+2856,vary,MidHigh,달라지다,NA,**,vary**,306
+2857,vast,Extended,광대한,NA,None,vast,306
+2858,vegetable,Elementary,채소,NA,*,vegetable*,306
+2859,vehicle,MidHigh,차량,NA,**,vehicle**,307
+2860,venture,Extended,모험,NA,None,venture,307
+2861,verb,Extended,동사,verbal,None,verb (verbal),307
+2862,verse,Extended,시구,NA,None,verse,307
+2863,version,MidHigh,판,NA,**,version**,307
+2864,versus,Extended,~대,NA,None,versus,307
+2865,vertical,Extended,수직의,NA,None,vertical,307
+2866,very,Elementary,매우,NA,*,very*,307
+2867,vessel,Extended,배,NA,None,vessel,307
+2868,veterinarian,Extended,수의사,NA,None,veterinarian,307
+2869,via,Extended,~을 거쳐,NA,None,via,307
+2870,vice,Extended,악덕,NA,None,vice,307
+2871,victim,MidHigh,희생자,NA,**,victim**,307
+2872,victory,Extended,승리,NA,None,victory,307
+2873,video,Elementary,동영상,NA,*,video*,307
+2874,view,MidHigh,관점,"interview, review",**,"view** (interview, review)",307
+2875,vigor,Extended,활력,vigorous,None,vigor (vigorous),307
+2876,villa,MidHigh,별장,NA,**,villa**,307
+2877,village,MidHigh,마을,NA,**,village**,307
+2878,violent,MidHigh,폭력적인,NA,**,violent**,307
+2879,violin,Elementary,바이올린,NA,*,violin*,307
+2880,virgin,Extended,처녀,NA,None,virgin,307
+2881,virtue,Extended,미덕,virtual,None,virtue (virtual),307
+2882,virus,Extended,바이러스,NA,None,virus,307
+2883,visible,Extended,보이는,NA,None,visible,307
+2884,vision,MidHigh,시야,NA,**,vision**,307
+2885,visit,Elementary,방문하다,NA,*,visit*,307
+2886,visual,Extended,시각의,NA,None,visual,307
+2887,vital,Extended,필수적인,NA,None,vital,307
+2888,vivid,Extended,생생한,NA,None,vivid,307
+2889,vocabulary,Extended,어휘,NA,None,vocabulary,307
+2890,vocation,Extended,직업,NA,None,vocation,307
+2891,voice,Elementary,목소리,NA,*,voice*,307
+2892,volume,MidHigh,음량,NA,**,volume**,307
+2893,volunteer,MidHigh,자원봉사자,NA,**,volunteer**,307
+2894,vote,MidHigh,투표하다,NA,**,vote**,307
+2895,wage,MidHigh,임금,NA,**,wage**,307
+2896,wait,Elementary,기다리다,NA,*,wait*,307
+2897,wake,Elementary,깨다,NA,*,wake*,307
+2898,walk,Elementary,걷다,NA,*,walk*,307
+2899,wall,Elementary,벽,NA,*,wall*,307
+2900,wander,Extended,돌아다니다,NA,None,wander,307
+2901,want,Elementary,원하다,NA,*,want*,307
+2902,war,Elementary,전쟁,NA,*,war*,307
+2903,warehouse,Extended,창고,NA,None,warehouse,307
+2904,warm,Elementary,따뜻한,NA,*,warm*,307
+2905,warn,MidHigh,경고하다,NA,**,warn**,307
+2906,warrant,Extended,정당화하다,NA,None,warrant,307
+2907,wash,Elementary,씻다,NA,*,wash*,307
+2908,waste,MidHigh,낭비,NA,**,waste**,307
+2909,watch,Elementary,보다,NA,*,watch*,307
+2910,water,Elementary,물,NA,*,water*,307
+2911,watermelon,Elementary,수박,NA,*,watermelon*,307
+2912,wave,MidHigh,파도,NA,**,wave**,307
+2913,way,Elementary,길,NA,*,way*,307
+2914,we,Elementary,우리,NA,*,we*,307
+2915,weak,MidHigh,약한,NA,**,weak**,307
+2916,wealth,Extended,부,NA,None,wealth,307
+2917,weapon,MidHigh,무기,NA,**,weapon**,307
+2918,wear,Elementary,입다,NA,*,wear*,307
+2919,weather,Elementary,날씨,NA,*,weather*,307
+2920,weave,Extended,짜다,NA,None,weave,307
+2921,website,Elementary,웹사이트,NA,*,website*,307
+2922,wedding,Elementary,결혼식,NA,*,wedding*,307
+2923,weed,Extended,잡초,NA,None,weed,307
+2924,week,Elementary,주,NA,*,week*,307
+2925,weekend,Elementary,주말,NA,*,weekend*,307
+2926,weigh,MidHigh,무게가 나가다,NA,**,weigh**,307
+2927,weight,Elementary,무게,NA,*,weight*,307
+2928,weird,Extended,이상한,NA,None,weird,307
+2929,welcome,Elementary,환영하다,NA,*,welcome*,307
+2930,welfare,Extended,복지,NA,None,welfare,307
+2931,well,Elementary,잘,NA,*,well*,307
+2932,west,Elementary,서쪽,NA,*,west*,307
+2933,wet,Elementary,젖은,NA,*,wet*,307
+2934,whale,MidHigh,고래,NA,**,whale**,307
+2935,what,Elementary,무엇,NA,*,what*,307
+2936,wheat,Extended,밀,NA,None,wheat,307
+2937,wheel,MidHigh,바퀴,NA,**,wheel**,307
+2938,when,Elementary,언제,NA,*,when*,307
+2939,where,Elementary,어디,NA,*,where*,307
+2940,whereas,Extended,반면에,NA,None,whereas,307
+2941,whether,MidHigh,~인지 아닌지,NA,**,whether**,307
+2942,which,MidHigh,어느 것,NA,**,which**,307
+2943,while,MidHigh,~하는 동안,NA,**,while**,307
+2944,whip,Extended,채찍,NA,None,whip,307
+2945,whisper,MidHigh,속삭이다,NA,**,whisper**,307
+2946,whistle,MidHigh,휘파람,NA,**,whistle**,307
+2947,white,Elementary,하얀,NA,*,white*,307
+2948,who,Elementary,누구,NA,*,who*,307
+2949,whole,MidHigh,전체의,NA,**,whole**,307
+2950,why,Elementary,왜,NA,*,why*,307
+2951,wicked,Extended,사악한,NA,None,wicked,308
+2952,wide,MidHigh,넓은,NA,**,wide**,308
+2953,wife,Elementary,아내,NA,*,wife*,308
+2954,wild,MidHigh,야생의,NA,**,wild**,308
+2955,will,Elementary,의지,NA,*,will*,308
+2956,win,Elementary,이기다,NA,*,win*,308
+2957,wind,Elementary,바람,NA,*,wind*,308
+2958,window,Elementary,창문,NA,*,window*,308
+2959,wine,Elementary,포도주,NA,*,wine*,308
+2960,wing,MidHigh,날개,NA,**,wing**,308
+2961,winter,Elementary,겨울,NA,*,winter*,308
+2962,wipe,MidHigh,닦다,NA,**,wipe**,308
+2963,wire,MidHigh,철사,NA,**,wire**,308
+2964,wise,MidHigh,현명한,NA,**,wise**,308
+2965,wish,Elementary,소망하다,NA,*,wish*,308
+2966,wit,Extended,재치,NA,None,wit,308
+2967,with,Elementary,~와 함께,NA,*,with*,308
+2968,withdraw,Extended,철수하다,NA,None,withdraw,308
+2969,within,MidHigh,~안에,NA,**,within**,308
+2970,without,MidHigh,~없이,NA,**,without**,308
+2971,witness,Extended,목격자,NA,None,witness,308
+2972,woman,Elementary,여자,NA,*,woman*,308
+2973,wonder,MidHigh,궁금해하다,NA,**,wonder**,308
+2974,wood,Elementary,나무,NA,*,wood*,308
+2975,wool,MidHigh,양모,NA,**,wool**,308
+2976,word,Elementary,단어,NA,*,word*,308
+2977,work,Elementary,일하다,NA,*,work*,308
+2978,world,Elementary,세계,NA,*,world*,308
+2979,worry,Elementary,걱정하다,NA,*,worry*,308
+2980,worship,Extended,숭배하다,NA,None,worship,308
+2981,worth,MidHigh,가치가 있는,NA,**,worth**,308
+2982,would,MidHigh,~하곤 했다,NA,**,would**,308
+2983,wound,MidHigh,상처,NA,**,wound**,308
+2984,wrap,MidHigh,싸다,NA,**,wrap**,308
+2985,wreck,Extended,난파,NA,None,wreck,308
+2986,write,Elementary,쓰다,NA,*,write*,308
+2987,wrong,Elementary,잘못된,NA,*,wrong*,308
+2988,year,Elementary,해,NA,*,year*,308
+2989,yell,MidHigh,소리치다,NA,**,yell**,308
+2990,yellow,Elementary,노란색,NA,*,yellow*,308
+2991,yes,Elementary,예,"yeah, yep",*,yes* / yeah* / yep*,308
+2992,yesterday,Elementary,어제,NA,*,yesterday*,308
+2993,yet,MidHigh,아직,NA,**,yet**,308
+2994,yield,Extended,산출하다,NA,None,yield,308
+2995,you,Elementary,너,NA,*,you*,308
+2996,young,Elementary,젊은,NA,*,young*,308
+2997,zebra,MidHigh,얼룩말,NA,**,zebra**,308
+2998,zero,MidHigh,영,NA,**,zero**,308
+2999,zone,Extended,구역,NA,None,zone,308
+3000,zoo,Elementary,동물원,NA,*,zoo*,308
