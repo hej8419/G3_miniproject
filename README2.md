@@ -1,7 +1,7 @@
 # Group Vocabulary App — Streamlit Version
 
 ## 1. Group Information
-- Group:
+- Group: 3
 - Members (역할): (e.g., Hong Gil-dong (readme2.md))
 - Project link: (e.g., [https://github.com/mk316](https://github.com/mk316))
 
