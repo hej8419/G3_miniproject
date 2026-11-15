@@ -2,11 +2,12 @@
 
 ## 1. Group Information
 - Group: 3
-- Members (역할): (e.g., Hong Gil-dong (readme2.md))
+- Members (역할): 하은재 (Leader), 백지민 (readme2.md)
 - Project link: (e.g., [https://github.com/mk316](https://github.com/mk316))
 
 ## 2. Target Learners
 Who is this app designed for? (한국 학습자 기준으로 정보를 바꿀 것: 예) 중1, 고2)
+중2
 
 ## 3. Learning Goal
 What should learners practice or learn? 
