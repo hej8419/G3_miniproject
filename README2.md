@@ -43,4 +43,4 @@ List the main 3–4 features.
 또한 어휘를 단순히 반복해서 보는 것뿐만 아니라 퀴즈를 통한 인출 연습과 오답 복습이 중요하다는 점을 확인하였다.
 
 ## 8. Streamlit App
-[Open our Streamlit app](https://baewovoca.streamlit.app/)
+[Open our Streamlit app](https://baewovocayo.streamlit.app/)
