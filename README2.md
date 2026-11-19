@@ -20,7 +20,6 @@ Write what you changed from the first version. Use lists.
 + 어휘 데이터 확대
 + 수준별 어휘 학습 기능 추가
 + 피드백 및 동기유발 기능 강화
-+ AI 튜터기능 추가
 
 ## 5. Main Features
 List the main 3–4 features.
